@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2023 16:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2023 16:06:51 +0000</lastBuildDate>
     <pubDate>Mon, 15 Jul 2019 23:23:56 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AL5GRJVnmcpTi0q4XhrcIH0eY4RC9GwoqUHixqHyQFrn=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,21 @@
     </itunes:owner>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>SeGV7bFk3OY</guid>
+      <title>【文明客厅】丁东、周孝正对话大学教育</title>
+      <link>https://youtube.com/watch?v=SeGV7bFk3OY</link>
+      <description> </description>
+      <pubDate>Wed, 01 Feb 2023 01:07:48 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/zxz/SeGV7bFk3OY.mp3" length="16756437" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>【文明客厅】丁东、周孝正对话大学教育</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/SeGV7bFk3OY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>22:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>tkRH6mPAr5Y</guid>
       <title>【文明客厅｜徐汉平课堂·投资系列】第一期：Making The First Trade 第一次交易</title>
       <link>https://youtube.com/watch?v=tkRH6mPAr5Y</link>
@@ -37,7 +52,7 @@
       <itunes:image href="https://i.ytimg.com/vi/tkRH6mPAr5Y/maxresdefault.jpg"></itunes:image>
       <itunes:duration>49:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>QkHG3zQK1nQ</guid>
@@ -52,7 +67,7 @@
       <itunes:image href="https://i.ytimg.com/vi/QkHG3zQK1nQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>51:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>DoOn2Q_34rE</guid>
@@ -67,7 +82,7 @@
       <itunes:image href="https://i.ytimg.com/vi/DoOn2Q_34rE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>44:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>_3NLPZk4mbg</guid>
@@ -82,7 +97,7 @@
       <itunes:image href="https://i.ytimg.com/vi/_3NLPZk4mbg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>28:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>nb-GqV0dvng</guid>
@@ -97,7 +112,7 @@
       <itunes:image href="https://i.ytimg.com/vi/nb-GqV0dvng/hqdefault.jpg"></itunes:image>
       <itunes:duration>53:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>4OAAhi3Se3g</guid>
@@ -112,7 +127,7 @@
       <itunes:image href="https://i.ytimg.com/vi/4OAAhi3Se3g/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:02:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>0AH7KW9GjRE</guid>
@@ -127,7 +142,7 @@
       <itunes:image href="https://i.ytimg.com/vi/0AH7KW9GjRE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>H8weck07DSg</guid>
@@ -142,7 +157,7 @@
       <itunes:image href="https://i.ytimg.com/vi/H8weck07DSg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>32:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>whp6f5Ug39I</guid>
@@ -157,7 +172,7 @@
       <itunes:image href="https://i.ytimg.com/vi/whp6f5Ug39I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:12:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>vIsmOmwBcds</guid>
@@ -172,7 +187,7 @@
       <itunes:image href="https://i.ytimg.com/vi/vIsmOmwBcds/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>O9NBGxuReko</guid>
@@ -187,7 +202,7 @@
       <itunes:image href="https://i.ytimg.com/vi/O9NBGxuReko/maxresdefault.jpg"></itunes:image>
       <itunes:duration>26:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
     <item>
       <guid>Qon33SH1pP8</guid>
@@ -202,7 +217,7 @@
       <itunes:image href="https://i.ytimg.com/vi/Qon33SH1pP8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>jL5REJsTHq0</guid>
@@ -217,7 +232,7 @@
       <itunes:image href="https://i.ytimg.com/vi/jL5REJsTHq0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>27:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>hmlEMi2U9Ho</guid>
@@ -232,7 +247,7 @@
       <itunes:image href="https://i.ytimg.com/vi/hmlEMi2U9Ho/maxresdefault.jpg"></itunes:image>
       <itunes:duration>58:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>VBzM8ZiVaxc</guid>
@@ -247,7 +262,7 @@
       <itunes:image href="https://i.ytimg.com/vi/VBzM8ZiVaxc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>57:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>pXAbIh-lpe0</guid>
@@ -262,7 +277,7 @@
       <itunes:image href="https://i.ytimg.com/vi/pXAbIh-lpe0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
     </item>
     <item>
       <guid>g2YXGX1IGC8</guid>
@@ -277,7 +292,7 @@
       <itunes:image href="https://i.ytimg.com/vi/g2YXGX1IGC8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
     </item>
     <item>
       <guid>rJmFoxpDdr0</guid>
@@ -292,7 +307,7 @@
       <itunes:image href="https://i.ytimg.com/vi/rJmFoxpDdr0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
     </item>
     <item>
       <guid>DIIdEc_0gOE</guid>
@@ -307,7 +322,7 @@
       <itunes:image href="https://i.ytimg.com/vi/DIIdEc_0gOE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>41:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>20</itunes:order>
     </item>
     <item>
       <guid>vsd6GgA-iHE</guid>
@@ -322,7 +337,7 @@
       <itunes:image href="https://i.ytimg.com/vi/vsd6GgA-iHE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:29:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>21</itunes:order>
     </item>
     <item>
       <guid>4hackn8YCa8</guid>
@@ -337,7 +352,7 @@
       <itunes:image href="https://i.ytimg.com/vi/4hackn8YCa8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>22</itunes:order>
     </item>
     <item>
       <guid>vH5Nqt3wlvQ</guid>
@@ -352,7 +367,7 @@
       <itunes:image href="https://i.ytimg.com/vi/vH5Nqt3wlvQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>47:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>22</itunes:order>
+      <itunes:order>23</itunes:order>
     </item>
     <item>
       <guid>gJHfWlZMJHM</guid>
@@ -367,7 +382,7 @@
       <itunes:image href="https://i.ytimg.com/vi/gJHfWlZMJHM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:21:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>23</itunes:order>
+      <itunes:order>24</itunes:order>
     </item>
     <item>
       <guid>EHtV-BW8cNA</guid>
@@ -382,7 +397,7 @@
       <itunes:image href="https://i.ytimg.com/vi/EHtV-BW8cNA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>39:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>24</itunes:order>
+      <itunes:order>25</itunes:order>
     </item>
     <item>
       <guid>ElvP7A4UHPk</guid>
@@ -397,7 +412,7 @@
       <itunes:image href="https://i.ytimg.com/vi/ElvP7A4UHPk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>35:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>25</itunes:order>
+      <itunes:order>26</itunes:order>
     </item>
     <item>
       <guid>JdS5IKnfBs0</guid>
@@ -412,7 +427,7 @@
       <itunes:image href="https://i.ytimg.com/vi/JdS5IKnfBs0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>26</itunes:order>
+      <itunes:order>27</itunes:order>
     </item>
     <item>
       <guid>y6ApiqjAudY</guid>
@@ -427,7 +442,7 @@
       <itunes:image href="https://i.ytimg.com/vi/y6ApiqjAudY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>41:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>27</itunes:order>
+      <itunes:order>28</itunes:order>
     </item>
     <item>
       <guid>1ktW5cGCFUE</guid>
@@ -442,7 +457,7 @@
       <itunes:image href="https://i.ytimg.com/vi/1ktW5cGCFUE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>57:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>28</itunes:order>
+      <itunes:order>29</itunes:order>
     </item>
     <item>
       <guid>DiN9V6tTH4I</guid>
@@ -457,7 +472,7 @@
       <itunes:image href="https://i.ytimg.com/vi/DiN9V6tTH4I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>29</itunes:order>
+      <itunes:order>30</itunes:order>
     </item>
     <item>
       <guid>v0eO4SaMXNs</guid>
@@ -472,7 +487,7 @@
       <itunes:image href="https://i.ytimg.com/vi/v0eO4SaMXNs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>59:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>30</itunes:order>
+      <itunes:order>31</itunes:order>
     </item>
     <item>
       <guid>eUAP6-PCPzU</guid>
@@ -487,7 +502,7 @@
       <itunes:image href="https://i.ytimg.com/vi/eUAP6-PCPzU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>31</itunes:order>
+      <itunes:order>32</itunes:order>
     </item>
     <item>
       <guid>6mn5d5D7XmM</guid>
@@ -502,7 +517,7 @@
       <itunes:image href="https://i.ytimg.com/vi/6mn5d5D7XmM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>52:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>32</itunes:order>
+      <itunes:order>33</itunes:order>
     </item>
     <item>
       <guid>AfBmhw5HNk4</guid>
@@ -517,7 +532,7 @@
       <itunes:image href="https://i.ytimg.com/vi/AfBmhw5HNk4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>33</itunes:order>
+      <itunes:order>34</itunes:order>
     </item>
     <item>
       <guid>UwojrctDnKo</guid>
@@ -532,7 +547,7 @@
       <itunes:image href="https://i.ytimg.com/vi/UwojrctDnKo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:28:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>34</itunes:order>
+      <itunes:order>35</itunes:order>
     </item>
     <item>
       <guid>4aNZao4MWKA</guid>
@@ -547,7 +562,7 @@
       <itunes:image href="https://i.ytimg.com/vi/4aNZao4MWKA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:05:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>35</itunes:order>
+      <itunes:order>36</itunes:order>
     </item>
   </channel>
 </rss>
