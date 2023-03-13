@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2023 11:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 11:47:43 +0000</lastBuildDate>
     <pubDate>Tue, 26 Mar 2019 02:06:01 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/pb2wHmw-DIT-re2sYv9iqG6FYiY8qM9LNkOuKUBRLgnvYotlKhk3QUvTwWiHQunSOvpHE8-I-xk=s800-c-k-c0x00ffffff-no-rj</url>
@@ -24,6 +24,27 @@
       <itunes:email>qcpqbgdctf@privaterelay.appleid.com</itunes:email>
     </itunes:owner>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>ZAbPsSXtkyU</guid>
+      <title>聊聊硅谷银行事件，以及对经济和创投未来的影响</title>
+      <link>https://youtube.com/watch?v=ZAbPsSXtkyU</link>
+      <description>1、硅谷银行到底是个什么银行？地方银行还是全球银行？&#xA;&#xA;2、硅谷的创新中，硅谷银行是个什么角色？&#xA;&#xA;3、硅谷银行破产对全球经济和全球创业的影响&#xA;&#xA;对这个事件感兴趣，推荐关注 @MoneyXYZ @JeffTechView @cui_news 的视频</description>
+      <pubDate>Mon, 13 Mar 2023 05:24:27 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/ZAbPsSXtkyU.mp3" length="16622253" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>聊聊硅谷银行事件，以及对经济和创投未来的影响</itunes:subtitle>
+      <itunes:summary><![CDATA[1、硅谷银行到底是个什么银行？地方银行还是全球银行？
+
+2、硅谷的创新中，硅谷银行是个什么角色？
+
+3、硅谷银行破产对全球经济和全球创业的影响
+
+对这个事件感兴趣，推荐关注 @MoneyXYZ @JeffTechView @cui_news 的视频]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/ZAbPsSXtkyU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>31:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>a77dESEtUlc</guid>
       <title>老范是怎么从著名前投资人沦落为youtuber的故事</title>
@@ -55,7 +76,7 @@
       <itunes:image href="https://i.ytimg.com/vi/a77dESEtUlc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>43ATWFkXSo4</guid>
@@ -84,7 +105,7 @@
       <itunes:image href="https://i.ytimg.com/vi/43ATWFkXSo4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>SHR9EA-azgw</guid>
@@ -126,7 +147,7 @@
       <itunes:image href="https://i.ytimg.com/vi/SHR9EA-azgw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>U4CDhaGejKs</guid>
@@ -227,7 +248,7 @@ GPT-3 阅读了45TB文本，1750亿参数。
       <itunes:image href="https://i.ytimg.com/vi/U4CDhaGejKs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>55:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>kAj6T1jvpHE</guid>
@@ -260,7 +281,7 @@ AI框架-Tensoflow/研究人员转向PyTorch：简单、API好用，性能。
       <itunes:image href="https://i.ytimg.com/vi/kAj6T1jvpHE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>HkZSyyKOl94</guid>
@@ -307,7 +328,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/HkZSyyKOl94/maxresdefault.jpg"></itunes:image>
       <itunes:duration>40:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>_3IVpe_zvus</guid>
@@ -355,7 +376,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/_3IVpe_zvus/maxresdefault.jpg"></itunes:image>
       <itunes:duration>32:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>HbWcP2q4QBg</guid>
@@ -378,7 +399,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/HbWcP2q4QBg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>GScFgLEamHI</guid>
@@ -393,7 +414,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/GScFgLEamHI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>0:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>pXEkrI73Jgk</guid>
@@ -440,7 +461,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/pXEkrI73Jgk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>35:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>EEb6uOQDTA0</guid>
@@ -473,7 +494,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/EEb6uOQDTA0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
     <item>
       <guid>9Ug1p0pB8QU</guid>
@@ -495,7 +516,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/9Ug1p0pB8QU/hqdefault.jpg"></itunes:image>
       <itunes:duration>29:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>EQeHm6D3CP0</guid>
@@ -516,7 +537,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/EQeHm6D3CP0/hqdefault.jpg"></itunes:image>
       <itunes:duration>17:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>hVqPfNk2tWg</guid>
@@ -543,7 +564,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/hVqPfNk2tWg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>dpTFiaDCkp8</guid>
@@ -618,7 +639,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/dpTFiaDCkp8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>bgIfMLY9wmo</guid>
@@ -651,7 +672,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/bgIfMLY9wmo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
     </item>
     <item>
       <guid>mN4fnuw9bRc</guid>
@@ -666,7 +687,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/mN4fnuw9bRc/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:43:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
     </item>
     <item>
       <guid>Ir3PT88ScZs</guid>
@@ -691,7 +712,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/Ir3PT88ScZs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>33:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
     </item>
     <item>
       <guid>lInvBwQNdGA</guid>
@@ -730,7 +751,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/lInvBwQNdGA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>20</itunes:order>
     </item>
     <item>
       <guid>83xgKMCrPN4</guid>
@@ -777,7 +798,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/83xgKMCrPN4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>21</itunes:order>
     </item>
     <item>
       <guid>oLMSpHM-LIs</guid>
@@ -800,7 +821,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/oLMSpHM-LIs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>22</itunes:order>
     </item>
   </channel>
 </rss>
