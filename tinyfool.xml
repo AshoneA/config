@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:47:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2023 11:47:43 +0000</lastBuildDate>
     <pubDate>Tue, 26 Mar 2019 02:06:01 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/pb2wHmw-DIT-re2sYv9iqG6FYiY8qM9LNkOuKUBRLgnvYotlKhk3QUvTwWiHQunSOvpHE8-I-xk=s800-c-k-c0x00ffffff-no-rj</url>
@@ -24,6 +24,126 @@
       <itunes:email>qcpqbgdctf@privaterelay.appleid.com</itunes:email>
     </itunes:owner>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>b3pQ8KIN-Wc</guid>
+      <title>GPT 4来了，多模态，新模型会给ChatGPT以及应用带来什么，会怎么改变我们的世界</title>
+      <link>https://youtube.com/watch?v=b3pQ8KIN-Wc</link>
+      <description>## 1、GPT-4正式发布了&#xA;&#xA;如何访问到GPT-4&#xA;&#xA;普通用户需要购买ChatGPT Plus（20美金/月）&#xA;&#xA;开发者现在要申请，然后进入waitting list&#xA;&#xA;## 2、改变在哪里&#xA;&#xA;### 考试成绩提升了&#xA;&#xA;OpenAI让GPT-4在参加了许多项人类的通用考试，结果证明，它在许多测试和基准测试中的表现比前一代确实大大提高。（包括SAT、GRE、AMC数学竞赛，等等）&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b57e962a-9c22-4040-8f9b-e7a6d6eeca59/Untitled.png)&#xA;&#xA;### 超凡脱俗的多语言能力&#xA;&#xA;MMLU的测试分数，MMLU全名是Massive Multitask Language Understanding，大型多任务语言理解。这个数据集是英文的。openai用微软Azure翻译成各种语言。然后去进行测试，这是同一个问题，在各种不同语言下的题目。&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ffa82686-31ea-4870-ac20-e7b5c71cd86c/Untitled.png)&#xA;&#xA;很多是相对英语和汉语的小众语言， Marathi(印度)马哈拉施特拉邦的马拉地语的，9000万说，Latvian拉脱维亚语200万人说，welsh威尔士语60万人说。&#xA;&#xA;回答正确率，GPT-4英语超过3.5的70.1%，Google PALM的69.3%。但是更厉害的是，GPT的各种语言的分数都很高，最差的telegu（印度东泰卢固语）也有62%的正确率。旁遮普语以上，各种小众语言，包括Welsh，都比3.5和PALM在英语题上的分数高。这充分说明了，各种语言的能力在GPT-4上都很好。而不仅仅是英语。&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87a1b762-0d14-4271-8d77-669b74752fde/Untitled.png)&#xA;&#xA;### 语言技巧的提升&#xA;&#xA;**游戏：**&#xA;&#xA;在线演示环节，首先是摘要一个论文。这是3和4都完成的不错的工作。&#xA;&#xA;然后是，要求摘要的时候都每个单词都用&#xA;&#xA;**每个单词G打头：**&#xA;&#xA;Gigantic GPT-4 garners groundbreaking growth, greatly galvanizing global goals.&#xA;&#xA;巨大的GPT-4获得了开创性的增长，极大地推动了全球目标。&#xA;&#xA;**A打头：**&#xA;&#xA;GPT-4 achieves advanced advancements, amplifying artificial aptitude astoundingly.&#xA;&#xA;GPT-4实现了先进的进展，使人工智能的才能惊人地增强了。&#xA;&#xA;**Q打头：**&#xA;&#xA;GPT-4 quintessentially quickens quality quantifications, quelling questionable quandaries.&#xA;&#xA;GPT-4本质上加速了质量量化，平息了一些可疑的困境。&#xA;&#xA;找到两篇文章的共同点&#xA;&#xA;写成一首诗&#xA;&#xA;**报税：**&#xA;&#xA;Alice和Bob于2012年4月5日结婚。他们有一个儿子Charlie，出生于2017年9月16日。自2017年9月16日以来，Alice和Charlie住在一栋房子里，Alice支付了40％的维护费用，Bob支付了其余60％。他们从2017年到2019年联合报税。2018年，Alice的收入为$36991，Bob的收入为$41990。Alice和Bob拿标准扣除。从2017年到2019年，Bob住在另一个地方。&#xA;&#xA;结果：&#xA;&#xA;为了确定艾丽丝和鲍勃2018年的标准扣除额，我们需要参考法规§1和$63。根据$1，艾丽丝和鲍勃是一对已婚夫妇，联合申报税单。根据$63(b)条文，“应税收入”一词指经调整后的总收入减去在第151节中规定的标准扣除额和个人豁免扣除。根据$63(c)(7)条文，特殊规则适用于2018年到2025年的应税年度。在2017年12月31日后，2026年1月1日前的应税年度中，应将第(2)段第(C)项中的”$12000”替换成”$24000”。由于艾丽丝和鲍勃是已婚联合申报，他们2018年的标准扣除额为：$24000。&#xA;&#xA;## 3、多模态&#xA;&#xA;还是这张图：&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb3b8da0-f6fe-416c-87ea-3b35625fed9e/Untitled.png)&#xA;&#xA;加上了红框，这两个一个是AMC12，美国的数学竞赛，一个是GRE的数学考试。&#xA;&#xA;下一个点是直接的图像能力：这张图输入给GPT4让他一个画面一个画面的解释，问他好笑在哪里。他很清楚的说，1手机连接VGA接口2苹果接口的包装显示了一个VGA的接头3VGA接口的特写看得到一个小的苹果接头在上面。&#xA;好笑的地方在于大的，过时的VGA接口插在小的现代的智能手机的充电接口上。&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f3a9041-e25a-4d3f-8db8-0a17dc84f843/Untitled.png)&#xA;&#xA;实时演示的例子，观众的照片，gpt4说这张图片描绘了一名宇航员在一个外星上探索雪域的山地景观。在背景中，我们看到一个大型航天器停在白雪覆盖的地面上，上面有天线和各种设备。上面的天空充满了星星，在远处可以看到一个天体。宇航员似乎穿着绿色的宇航服，并在运动中被拍摄到，也许是在向航天器前进&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a90186e3-bc36-46bc-9058-d51fb9880625/Untitled.png)&#xA;&#xA;gpt4说，这张图片很有趣，因为它显示了一只松鼠拿着相机给坚果拍照，好像它是一个专业摄影师。这是一个幽默的情况，因为松鼠通常吃坚果，我们不期望它们使用相机或像人类一样行事&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ad80da8-a821-46c2-ace8-dbc2b7bb3311/Untitled.png)&#xA;&#xA;演示者说他在笔记本花了一个网站的草图，包含两个笑话，第一三行是笑话本身，第二四行是按钮点击笑话的punchline。让gpt4去生成一个网站。生成的网站真的包括两个笑话，而且按钮点击也可以现实punchline&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b882017-488d-4fe2-ab35-704c1d920db9/Untitled.png)&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4c13780-2208-4997-bbb0-23dbd678a6da/Untitled.png)&#xA;&#xA;论文从32页-37页是图像理解的一些例子&#xA;&#xA;![截屏2023-03-16 00.24.59.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8b9ee9e-ec94-4ce6-931b-9de5236ee6f3/%E6%88%AA%E5%B1%8F2023-03-16_00.24.59.png)&#xA;&#xA;![截屏2023-03-16 00.28.18.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a63ae38-0482-41f6-b424-d4ddadb6a11e/%E6%88%AA%E5%B1%8F2023-03-16_00.28.18.png)&#xA;&#xA;这个是一个法语的物理学题目，你需要理解提出的问题是，请回答图上1.1 a问题。&#xA;&#xA;![截屏2023-03-16 00.32.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61aa6ab1-2743-46be-a55b-910ee58e9f21/%E6%88%AA%E5%B1%8F2023-03-16_00.32.46.png)&#xA;&#xA;问这个图片不同寻常的地方在哪里。这张照片里的不寻常之处是，一个男人正站在连接在行驶的出租车车顶上的熨衣板上烫衣服。&#xA;&#xA;![截屏2023-03-16 00.36.14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5165d7aa-edbe-4cc1-8aa0-834368b124ba/%E6%88%AA%E5%B1%8F2023-03-16_00.36.14.png)&#xA;&#xA;下面是InstuctGPT的论文的部分内容，请阅读并总结。他总计了论文，然后继续问，解释图2的过程。&#xA;&#xA;![截屏2023-03-16 00.37.52.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c712a095-00d2-40ea-9c3c-24a5ec1000a4/%E6%88%AA%E5%B1%8F2023-03-16_00.37.52.png)&#xA;&#xA;![截屏2023-03-16 00.41.59.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0f71d3a-7e39-43cd-b010-c215c4e1b4da/%E6%88%AA%E5%B1%8F2023-03-16_00.41.59.png)&#xA;&#xA;解释这个梗图&#xA;&#xA;![截屏2023-03-16 00.42.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/700ba778-585b-4e87-bc97-f488db8fbb56/%E6%88%AA%E5%B1%8F2023-03-16_00.42.30.png)&#xA;&#xA;解释这个笑话&#xA;&#xA;s&#xA;&#xA;更多安全性的要求（例子就是在GPT）&#xA;&#xA;![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/531f1e7b-52e6-4bc0-993b-c198e04b9eb3/Untitled.png)&#xA;&#xA;## 4、开发者的机会在哪里&#xA;&#xA;GPT4.0的合作方&#xA;&#xA;1、Be My Eyes-视觉帮助盲人生活&#xA;&#xA;2、摩根斯坦利-用GPT4来帮助组织知识库，类似chatpdf和pandagpt&#xA;&#xA;3、Stripe用GPT4来帮助提高用户体验和对抗欺诈&#xA;&#xA;4、冰岛政府用GPT4来保护语言-我们可以保护藏文、吴语、沪语，可以研究文言文，甲骨文&#xA;&#xA;5、Khan学院-来生成有限制的辅助教学系统，跟作业帮相比的区别在哪里&#xA;&#xA;6、多邻国新产品-对话式语言学习，对错误回答的归因。</description>
+      <pubDate>Thu, 16 Mar 2023 01:00:13 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/b3pQ8KIN-Wc.mp3" length="35177253" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>GPT 4来了，多模态，新模型会给ChatGPT以及应用带来什么，会怎么改变我们的世界</itunes:subtitle>
+      <itunes:summary><![CDATA[## 1、GPT-4正式发布了
+
+如何访问到GPT-4
+
+普通用户需要购买ChatGPT Plus（20美金/月）
+
+开发者现在要申请，然后进入waitting list
+
+## 2、改变在哪里
+
+### 考试成绩提升了
+
+OpenAI让GPT-4在参加了许多项人类的通用考试，结果证明，它在许多测试和基准测试中的表现比前一代确实大大提高。（包括SAT、GRE、AMC数学竞赛，等等）
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b57e962a-9c22-4040-8f9b-e7a6d6eeca59/Untitled.png)
+
+### 超凡脱俗的多语言能力
+
+MMLU的测试分数，MMLU全名是Massive Multitask Language Understanding，大型多任务语言理解。这个数据集是英文的。openai用微软Azure翻译成各种语言。然后去进行测试，这是同一个问题，在各种不同语言下的题目。
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ffa82686-31ea-4870-ac20-e7b5c71cd86c/Untitled.png)
+
+很多是相对英语和汉语的小众语言， Marathi(印度)马哈拉施特拉邦的马拉地语的，9000万说，Latvian拉脱维亚语200万人说，welsh威尔士语60万人说。
+
+回答正确率，GPT-4英语超过3.5的70.1%，Google PALM的69.3%。但是更厉害的是，GPT的各种语言的分数都很高，最差的telegu（印度东泰卢固语）也有62%的正确率。旁遮普语以上，各种小众语言，包括Welsh，都比3.5和PALM在英语题上的分数高。这充分说明了，各种语言的能力在GPT-4上都很好。而不仅仅是英语。
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87a1b762-0d14-4271-8d77-669b74752fde/Untitled.png)
+
+### 语言技巧的提升
+
+**游戏：**
+
+在线演示环节，首先是摘要一个论文。这是3和4都完成的不错的工作。
+
+然后是，要求摘要的时候都每个单词都用
+
+**每个单词G打头：**
+
+Gigantic GPT-4 garners groundbreaking growth, greatly galvanizing global goals.
+
+巨大的GPT-4获得了开创性的增长，极大地推动了全球目标。
+
+**A打头：**
+
+GPT-4 achieves advanced advancements, amplifying artificial aptitude astoundingly.
+
+GPT-4实现了先进的进展，使人工智能的才能惊人地增强了。
+
+**Q打头：**
+
+GPT-4 quintessentially quickens quality quantifications, quelling questionable quandaries.
+
+GPT-4本质上加速了质量量化，平息了一些可疑的困境。
+
+找到两篇文章的共同点
+
+写成一首诗
+
+**报税：**
+
+Alice和Bob于2012年4月5日结婚。他们有一个儿子Charlie，出生于2017年9月16日。自2017年9月16日以来，Alice和Charlie住在一栋房子里，Alice支付了40％的维护费用，Bob支付了其余60％。他们从2017年到2019年联合报税。2018年，Alice的收入为$36991，Bob的收入为$41990。Alice和Bob拿标准扣除。从2017年到2019年，Bob住在另一个地方。
+
+结果：
+
+为了确定艾丽丝和鲍勃2018年的标准扣除额，我们需要参考法规§1和$63。根据$1，艾丽丝和鲍勃是一对已婚夫妇，联合申报税单。根据$63(b)条文，“应税收入”一词指经调整后的总收入减去在第151节中规定的标准扣除额和个人豁免扣除。根据$63(c)(7)条文，特殊规则适用于2018年到2025年的应税年度。在2017年12月31日后，2026年1月1日前的应税年度中，应将第(2)段第(C)项中的”$12000”替换成”$24000”。由于艾丽丝和鲍勃是已婚联合申报，他们2018年的标准扣除额为：$24000。
+
+## 3、多模态
+
+还是这张图：
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb3b8da0-f6fe-416c-87ea-3b35625fed9e/Untitled.png)
+
+加上了红框，这两个一个是AMC12，美国的数学竞赛，一个是GRE的数学考试。
+
+下一个点是直接的图像能力：这张图输入给GPT4让他一个画面一个画面的解释，问他好笑在哪里。他很清楚的说，1手机连接VGA接口2苹果接口的包装显示了一个VGA的接头3VGA接口的特写看得到一个小的苹果接头在上面。
+好笑的地方在于大的，过时的VGA接口插在小的现代的智能手机的充电接口上。
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f3a9041-e25a-4d3f-8db8-0a17dc84f843/Untitled.png)
+
+实时演示的例子，观众的照片，gpt4说这张图片描绘了一名宇航员在一个外星上探索雪域的山地景观。在背景中，我们看到一个大型航天器停在白雪覆盖的地面上，上面有天线和各种设备。上面的天空充满了星星，在远处可以看到一个天体。宇航员似乎穿着绿色的宇航服，并在运动中被拍摄到，也许是在向航天器前进
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a90186e3-bc36-46bc-9058-d51fb9880625/Untitled.png)
+
+gpt4说，这张图片很有趣，因为它显示了一只松鼠拿着相机给坚果拍照，好像它是一个专业摄影师。这是一个幽默的情况，因为松鼠通常吃坚果，我们不期望它们使用相机或像人类一样行事
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ad80da8-a821-46c2-ace8-dbc2b7bb3311/Untitled.png)
+
+演示者说他在笔记本花了一个网站的草图，包含两个笑话，第一三行是笑话本身，第二四行是按钮点击笑话的punchline。让gpt4去生成一个网站。生成的网站真的包括两个笑话，而且按钮点击也可以现实punchline
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b882017-488d-4fe2-ab35-704c1d920db9/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4c13780-2208-4997-bbb0-23dbd678a6da/Untitled.png)
+
+论文从32页-37页是图像理解的一些例子
+
+![截屏2023-03-16 00.24.59.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8b9ee9e-ec94-4ce6-931b-9de5236ee6f3/%E6%88%AA%E5%B1%8F2023-03-16_00.24.59.png)
+
+![截屏2023-03-16 00.28.18.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a63ae38-0482-41f6-b424-d4ddadb6a11e/%E6%88%AA%E5%B1%8F2023-03-16_00.28.18.png)
+
+这个是一个法语的物理学题目，你需要理解提出的问题是，请回答图上1.1 a问题。
+
+![截屏2023-03-16 00.32.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61aa6ab1-2743-46be-a55b-910ee58e9f21/%E6%88%AA%E5%B1%8F2023-03-16_00.32.46.png)
+
+问这个图片不同寻常的地方在哪里。这张照片里的不寻常之处是，一个男人正站在连接在行驶的出租车车顶上的熨衣板上烫衣服。
+
+![截屏2023-03-16 00.36.14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5165d7aa-edbe-4cc1-8aa0-834368b124ba/%E6%88%AA%E5%B1%8F2023-03-16_]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/b3pQ8KIN-Wc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:03:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>ZAbPsSXtkyU</guid>
       <title>聊聊硅谷银行事件，以及对经济和创投未来的影响</title>
@@ -43,7 +163,7 @@
       <itunes:image href="https://i.ytimg.com/vi/ZAbPsSXtkyU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>31:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>a77dESEtUlc</guid>
@@ -76,7 +196,7 @@
       <itunes:image href="https://i.ytimg.com/vi/a77dESEtUlc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>43ATWFkXSo4</guid>
@@ -105,7 +225,7 @@
       <itunes:image href="https://i.ytimg.com/vi/43ATWFkXSo4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>SHR9EA-azgw</guid>
@@ -147,7 +267,7 @@
       <itunes:image href="https://i.ytimg.com/vi/SHR9EA-azgw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>U4CDhaGejKs</guid>
@@ -248,7 +368,7 @@ GPT-3 阅读了45TB文本，1750亿参数。
       <itunes:image href="https://i.ytimg.com/vi/U4CDhaGejKs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>55:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>kAj6T1jvpHE</guid>
@@ -281,7 +401,7 @@ AI框架-Tensoflow/研究人员转向PyTorch：简单、API好用，性能。
       <itunes:image href="https://i.ytimg.com/vi/kAj6T1jvpHE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>HkZSyyKOl94</guid>
@@ -328,7 +448,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/HkZSyyKOl94/maxresdefault.jpg"></itunes:image>
       <itunes:duration>40:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>_3IVpe_zvus</guid>
@@ -376,7 +496,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/_3IVpe_zvus/maxresdefault.jpg"></itunes:image>
       <itunes:duration>32:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>HbWcP2q4QBg</guid>
@@ -399,7 +519,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/HbWcP2q4QBg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>GScFgLEamHI</guid>
@@ -414,7 +534,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/GScFgLEamHI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>0:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>pXEkrI73Jgk</guid>
@@ -461,7 +581,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/pXEkrI73Jgk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>35:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
     <item>
       <guid>EEb6uOQDTA0</guid>
@@ -494,7 +614,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/EEb6uOQDTA0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>9Ug1p0pB8QU</guid>
@@ -516,7 +636,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/9Ug1p0pB8QU/hqdefault.jpg"></itunes:image>
       <itunes:duration>29:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>EQeHm6D3CP0</guid>
@@ -537,7 +657,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/EQeHm6D3CP0/hqdefault.jpg"></itunes:image>
       <itunes:duration>17:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>hVqPfNk2tWg</guid>
@@ -564,7 +684,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/hVqPfNk2tWg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>dpTFiaDCkp8</guid>
@@ -639,7 +759,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/dpTFiaDCkp8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
     </item>
     <item>
       <guid>bgIfMLY9wmo</guid>
@@ -672,7 +792,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/bgIfMLY9wmo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
     </item>
     <item>
       <guid>mN4fnuw9bRc</guid>
@@ -687,7 +807,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/mN4fnuw9bRc/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:43:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
     </item>
     <item>
       <guid>Ir3PT88ScZs</guid>
@@ -712,7 +832,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/Ir3PT88ScZs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>33:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>20</itunes:order>
     </item>
     <item>
       <guid>lInvBwQNdGA</guid>
@@ -751,7 +871,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/lInvBwQNdGA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>21</itunes:order>
     </item>
     <item>
       <guid>83xgKMCrPN4</guid>
@@ -798,7 +918,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/83xgKMCrPN4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>22</itunes:order>
     </item>
     <item>
       <guid>oLMSpHM-LIs</guid>
@@ -821,7 +941,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/oLMSpHM-LIs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>22</itunes:order>
+      <itunes:order>23</itunes:order>
     </item>
   </channel>
 </rss>
