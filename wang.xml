@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Oct 2023 02:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2023 03:38:54 +0000</lastBuildDate>
     <pubDate>Fri, 15 Nov 2019 03:27:53 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ZC9IMkqrw-OuYVM5zU5-shKEK7DfCoym6Dl5HPcwh4pj_u5gdkJXxggDa91GZiDgwcbmPjgw4S0=s800-c-k-c0x00ffffff-no-rj</url>
@@ -28,6 +28,22 @@
     <itunes:image href="https://yt3.ggpht.com/ZC9IMkqrw-OuYVM5zU5-shKEK7DfCoym6Dl5HPcwh4pj_u5gdkJXxggDa91GZiDgwcbmPjgw4S0=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>ctilGqWrRjk</guid>
+      <title>三和人材市場（前編）</title>
+      <link>https://youtube.com/watch?v=ctilGqWrRjk</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join</description>
+      <pubDate>Sat, 14 Oct 2023 02:00:08 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/wang/ctilGqWrRjk.mp3" length="36901725" type="audio/mpeg"></enclosure>
+      <itunes:author>王志安 </itunes:author>
+      <itunes:subtitle>三和人材市場（前編）</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/ctilGqWrRjk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>50:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>SvtgGZRnwiY</guid>
       <title>为什么中国人普遍歧视河南人？｜河南人｜歧视｜地域黑｜偷井盖儿｜骗子｜刻板印象｜王局拍案20231012</title>
@@ -120,7 +136,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/rtZVfjKiuJ0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>Hf4BWTRLYtY</guid>
@@ -138,7 +154,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/Hf4BWTRLYtY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>qJhsX7YPj_I</guid>
