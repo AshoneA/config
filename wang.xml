@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 07:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Nov 2023 08:22:37 +0000</lastBuildDate>
     <pubDate>Fri, 15 Nov 2019 03:27:53 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ZC9IMkqrw-OuYVM5zU5-shKEK7DfCoym6Dl5HPcwh4pj_u5gdkJXxggDa91GZiDgwcbmPjgw4S0=s800-c-k-c0x00ffffff-no-rj</url>
@@ -29,6 +29,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>9tDBTC8x99k</guid>
+      <title>《王局拍案》粉丝达成百万直播回看：让我们在中文的故乡里携手前行</title>
+      <link>https://youtube.com/watch?v=9tDBTC8x99k</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join&#xA;欢迎关注《王局拍案》英文频道：&#xA;https://www.youtube.com/@WangNewsTlak&#xA;&#xA;王局拍案从去年5月2号开播，到今天整整18个月。上周，我们的关注者到了100万，实现了一个小目标。我们知道，这不过是个起点，今天的直播，王局将和各位聊一聊，这一年半的幕后，以及未来的愿景。</description>
+      <pubDate>Sun, 12 Nov 2023 07:21:53 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/wang/9tDBTC8x99k.mp3" length="73329069" type="audio/mpeg"></enclosure>
+      <itunes:author>王志安 </itunes:author>
+      <itunes:subtitle>《王局拍案》粉丝达成百万直播回看：让我们在中文的故乡里携手前行</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
+欢迎关注《王局拍案》英文频道：
+https://www.youtube.com/@WangNewsTlak
+
+王局拍案从去年5月2号开播，到今天整整18个月。上周，我们的关注者到了100万，实现了一个小目标。我们知道，这不过是个起点，今天的直播，王局将和各位聊一聊，这一年半的幕后，以及未来的愿景。]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/9tDBTC8x99k/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:36:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>quoojaqMBhI</guid>
       <title>百万粉丝达成特别节目：和王局共度的一天</title>
       <link>https://youtube.com/watch?v=quoojaqMBhI</link>
@@ -44,7 +64,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/quoojaqMBhI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>4huBU93xdAU</guid>
@@ -64,7 +84,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/4huBU93xdAU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:02:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>iXg14k8y5ao</guid>
@@ -80,7 +100,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join]]></itunes:summary
       <itunes:image href="https://i.ytimg.com/vi/iXg14k8y5ao/maxresdefault.jpg"></itunes:image>
       <itunes:duration>16:17</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>x1pyY_XtY24</guid>
@@ -102,7 +122,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/x1pyY_XtY24/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>HBSJFFCB59s</guid>
@@ -126,7 +146,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/HBSJFFCB59s/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>Jetuvp5uhyI</guid>
@@ -146,7 +166,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/Jetuvp5uhyI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>cYbn5Ox6NAs</guid>
@@ -168,7 +188,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/cYbn5Ox6NAs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>27:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>PdGLzELjMeg</guid>
@@ -186,7 +206,7 @@ https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
       <itunes:image href="https://i.ytimg.com/vi/PdGLzELjMeg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>ud2Zr_wMVmU</guid>
