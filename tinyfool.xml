@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 15:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 12:56:55 +0000</lastBuildDate>
     <pubDate>Tue, 26 Mar 2019 02:06:01 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/pb2wHmw-DIT-re2sYv9iqG6FYiY8qM9LNkOuKUBRLgnvYotlKhk3QUvTwWiHQunSOvpHE8-I-xk=s800-c-k-c0x00ffffff-no-rj</url>
@@ -24,6 +24,735 @@
       <itunes:email>qcpqbgdctf@privaterelay.appleid.com</itunes:email>
     </itunes:owner>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>Co6abnc8B4M</guid>
+      <title>如何零基础5分钟用Unreal引擎做一个游戏</title>
+      <link>https://youtube.com/watch?v=Co6abnc8B4M</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;1、做这个视频的目的&#xA;• 不是一个真正的教程&#xA;• 这里不会解释太多细节&#xA;•主要是给你一个直观感受，用&#xA;Unreal开发一个游戏的基本步骤&#xA;•方便大家选型，我还没玩过&#xA;Unity，暂不评价&#xA;•感觉Unreal的blueprint足够强大，不太需要写代码&#xA;• 我是跟着Unreal Engine 5 Beginner Tutorial 教程（339万&#xA;播放量）走的 https://www.youtube.com/watch?v=k-zMkzmduqI&#xA;&#xA;2 、我一天学习的成果&#xA;•官方教程的效果&#xA;• Cropout&#xA;• Demo&#xA;&#xA;3、怎么完成Demo&#xA;•创建一个新项目&#xA;• 放置神像（游戏胜利目标SM_MatPreviewMesh)&#xA;• 加入第三人称游戏功能&#xA;&#xA;4、加入Blueprint支持&#xA;测试Blueprint&#xA;• Set collision enabled&#xA;• Set simulate physics&#xA;• Set physics blend weight&#xA;加入危险的物体&#xA;• 创建一个新的Buleprint&#xA;• 加入collsion&#xA;• On component Begin Overlap&#xA;• Cast to BP_thirdPersonCharacter&#xA;• Death&#xA;危险物体旋转&#xA;• Event tick&#xA;• Add actor local rotation&#xA;&#xA;5、加入游戏胜利条件&#xA;加入WinScreen Widget&#xA;加入TriggerVolume&#xA;On actor begin Overlap&#xA;Cast to BP_thirdPersonCharacter&#xA;Create winScreen Widget&#xA;Add to Viewpoint&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Fri, 05 Jan 2024 01:02:56 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/Co6abnc8B4M.mp3" length="14125701" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>如何零基础5分钟用Unreal引擎做一个游戏</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+1、做这个视频的目的
+• 不是一个真正的教程
+• 这里不会解释太多细节
+•主要是给你一个直观感受，用
+Unreal开发一个游戏的基本步骤
+•方便大家选型，我还没玩过
+Unity，暂不评价
+•感觉Unreal的blueprint足够强大，不太需要写代码
+• 我是跟着Unreal Engine 5 Beginner Tutorial 教程（339万
+播放量）走的 https://www.youtube.com/watch?v=k-zMkzmduqI
+
+2 、我一天学习的成果
+•官方教程的效果
+• Cropout
+• Demo
+
+3、怎么完成Demo
+•创建一个新项目
+• 放置神像（游戏胜利目标SM_MatPreviewMesh)
+• 加入第三人称游戏功能
+
+4、加入Blueprint支持
+测试Blueprint
+• Set collision enabled
+• Set simulate physics
+• Set physics blend weight
+加入危险的物体
+• 创建一个新的Buleprint
+• 加入collsion
+• On component Begin Overlap
+• Cast to BP_thirdPersonCharacter
+• Death
+危险物体旋转
+• Event tick
+• Add actor local rotation
+
+5、加入游戏胜利条件
+加入WinScreen Widget
+加入TriggerVolume
+On actor begin Overlap
+Cast to BP_thirdPersonCharacter
+Create winScreen Widget
+Add to Viewpoint
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Co6abnc8B4M/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>29:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
+      <guid>MymGlramk7Y</guid>
+      <title>日本能登半岛地震、甘肃积石山地震、汶川地震，中日地震的比较和不同</title>
+      <link>https://youtube.com/watch?v=MymGlramk7Y</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;1、互联网的反应&#xA;&#xA;少数坏人比沉默的大多数伤害力更大&#xA;&#xA;2、震级比较12月18日甘肃地震6.2级地震，日本1月1日能登半岛7.6级地震，汶川2008年5月12日8.2级地震。&#xA;&#xA;3、死亡人数，甘肃130人，日本30人，汶川6万9000多人。&#xA;&#xA;4、日本是一个地震高发国家，中国也是地震多发国家&#xA;&#xA;5、如何面对天灾人祸&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Tue, 02 Jan 2024 10:49:57 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/MymGlramk7Y.mp3" length="18130725" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>日本能登半岛地震、甘肃积石山地震、汶川地震，中日地震的比较和不同</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+1、互联网的反应
+
+少数坏人比沉默的大多数伤害力更大
+
+2、震级比较12月18日甘肃地震6.2级地震，日本1月1日能登半岛7.6级地震，汶川2008年5月12日8.2级地震。
+
+3、死亡人数，甘肃130人，日本30人，汶川6万9000多人。
+
+4、日本是一个地震高发国家，中国也是地震多发国家
+
+5、如何面对天灾人祸
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/MymGlramk7Y/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>33:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>2</itunes:order>
+    </item>
+    <item>
+      <guid>7J-ZORRsOhQ</guid>
+      <title>蚂蚁金服成为无实控人企业意味着什么（马云），兼谈国有企业、公有企业、上市公司，兼谈阿根廷对41家国有企业开始私有化</title>
+      <link>https://youtube.com/watch?v=7J-ZORRsOhQ</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;在这个深入分析的视频中，我们探讨了蚂蚁金服最近转变为无实控人企业的影响和意义。这一变化代表着公司治理结构的重大调整，可能会对企业策略、股东关系、以及整个金融科技行业产生深远的影响。&#xA;&#xA;接下来，我们将深入了解不同类型的企业所有权结构，包括国有企业、公有企业和上市公司。每种类型的企业都有其独特的特点和运作方式，影响着它们的决策过程、效率和公众透明度。&#xA;&#xA;此外，我们还将讨论阿根廷近期启动了对41家国有企业的私有化进程的案例研究。这一战略举措透露出了政府意图改革国家经济结构，提高效率以及吸引外资的信号。&#xA;&#xA;在本视频中，我们将深层次分析所有这些事件，并探讨它们对全球商业环境、企业治理和国家经济政策产生的影响。不要错过这次精彩分析，确保订阅我们的频道，开启通知，及时获取最新内容。如果你对这些话题感兴趣，给我们留下你的评论，我们会在评论区和你一起讨论。&#xA;&#xA;#蚂蚁金服 #企业结构 #私有化 #国有企业 #公有企业 #上市公司 #经济改革 #阿根廷 #金融科技 #企业治理 #商业分析 #经济趋势 #马云&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Tue, 02 Jan 2024 02:19:30 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/7J-ZORRsOhQ.mp3" length="18848685" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>蚂蚁金服成为无实控人企业意味着什么（马云），兼谈国有企业、公有企业、上市公司，兼谈阿根廷对41家国有企业开始私有化</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+在这个深入分析的视频中，我们探讨了蚂蚁金服最近转变为无实控人企业的影响和意义。这一变化代表着公司治理结构的重大调整，可能会对企业策略、股东关系、以及整个金融科技行业产生深远的影响。
+
+接下来，我们将深入了解不同类型的企业所有权结构，包括国有企业、公有企业和上市公司。每种类型的企业都有其独特的特点和运作方式，影响着它们的决策过程、效率和公众透明度。
+
+此外，我们还将讨论阿根廷近期启动了对41家国有企业的私有化进程的案例研究。这一战略举措透露出了政府意图改革国家经济结构，提高效率以及吸引外资的信号。
+
+在本视频中，我们将深层次分析所有这些事件，并探讨它们对全球商业环境、企业治理和国家经济政策产生的影响。不要错过这次精彩分析，确保订阅我们的频道，开启通知，及时获取最新内容。如果你对这些话题感兴趣，给我们留下你的评论，我们会在评论区和你一起讨论。
+
+#蚂蚁金服 #企业结构 #私有化 #国有企业 #公有企业 #上市公司 #经济改革 #阿根廷 #金融科技 #企业治理 #商业分析 #经济趋势 #马云
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/7J-ZORRsOhQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>34:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>3</itunes:order>
+    </item>
+    <item>
+      <guid>y0AgKy_ivuI</guid>
+      <title>新年快乐 放弃幻想，稳扎稳打，深挖洞，广积粮，缓称王</title>
+      <link>https://youtube.com/watch?v=y0AgKy_ivuI</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;🎉 新年特辑 | 变迁、挑战与坚持不懈 🎉&#xA;&#xA;大家好，欢迎来到本期视频！新的一年已经到来，让我们一起探讨在这个特殊时期内的生活和经济变迁。&#xA;&#xA;🔹 视频内容:&#xA;&#xA;春节与元旦 - 我们会讨论这两个重要节日在中国的意义和庆祝方式。&#xA;日常生活的变化 - 我将分享我在喝咖啡和晚餐时，如何亲眼见证周围环境的变化。&#xA;经济萧条的现实 - 从商场的变迁到生活方式的改变，我们将探讨经济萧条对我们日常生活的影响。&#xA;现实与幻想 - 讨论在困难经济环境中如何放弃不切实际的幻想。&#xA;适应与坚持 - 分享我的YouTube经验，讨论如何在变化中坚持和适应。&#xA;🔸 视频亮点:&#xA;&#xA;个人经历分享&#xA;经济萧条对生活方式的影响分析&#xA;实用建议和策略&#xA;🌟 我想听听你的声音:&#xA;&#xA;你对视频的内容有什么看法？&#xA;你如何适应生活和经济上的变化？&#xA;你有什么方法来坚持和适应？&#xA;👍 如果你喜欢这个视频，请点赞并分享给你的朋友！别忘了订阅我的频道，这样你就不会错过未来的精彩内容了。&#xA;&#xA;感谢大家的观看，祝大家新年快乐，充满希望和快乐！我们下期视频再见！&#xA;&#xA;#新年特辑 #生活变迁 #经济挑战 #YouTube策略 #坚持与适应&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Mon, 01 Jan 2024 15:24:21 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/y0AgKy_ivuI.mp3" length="15125853" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>新年快乐 放弃幻想，稳扎稳打，深挖洞，广积粮，缓称王</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+🎉 新年特辑 | 变迁、挑战与坚持不懈 🎉
+
+大家好，欢迎来到本期视频！新的一年已经到来，让我们一起探讨在这个特殊时期内的生活和经济变迁。
+
+🔹 视频内容:
+
+春节与元旦 - 我们会讨论这两个重要节日在中国的意义和庆祝方式。
+日常生活的变化 - 我将分享我在喝咖啡和晚餐时，如何亲眼见证周围环境的变化。
+经济萧条的现实 - 从商场的变迁到生活方式的改变，我们将探讨经济萧条对我们日常生活的影响。
+现实与幻想 - 讨论在困难经济环境中如何放弃不切实际的幻想。
+适应与坚持 - 分享我的YouTube经验，讨论如何在变化中坚持和适应。
+🔸 视频亮点:
+
+个人经历分享
+经济萧条对生活方式的影响分析
+实用建议和策略
+🌟 我想听听你的声音:
+
+你对视频的内容有什么看法？
+你如何适应生活和经济上的变化？
+你有什么方法来坚持和适应？
+👍 如果你喜欢这个视频，请点赞并分享给你的朋友！别忘了订阅我的频道，这样你就不会错过未来的精彩内容了。
+
+感谢大家的观看，祝大家新年快乐，充满希望和快乐！我们下期视频再见！
+
+#新年特辑 #生活变迁 #经济挑战 #YouTube策略 #坚持与适应
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/y0AgKy_ivuI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>31:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>4</itunes:order>
+    </item>
+    <item>
+      <guid>Yf11LGkV7pg</guid>
+      <title>中国近代史其实就是一本穿越小说，兼谈有钱人是怎么挣钱的(兼谈如何穿越)</title>
+      <link>https://youtube.com/watch?v=Yf11LGkV7pg</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;1、我最近看的一些爽文小说&#xA;&#xA;番茄小说&#xA;&#xA;养子害死全家，重生归来养废他&#xA;流氓帝师&#xA;夫君独宠外室？我转身出府嫁反派&#xA;&#xA;七猫小说&#xA;&#xA;都市隐龙&#xA;舔狗反派只想苟，女生不按套路走&#xA;我居然成了反派舔狗&#xA;绝世强龙&#xA;重生：没有道德，就不会被绑架&#xA;&#xA;套路1&#xA;&#xA;舔狗反派只想苟，女生不按套路走&#xA;我居然成了反派舔狗&#xA;重生：没有道德，就不会被绑架&#xA;&#xA;套路2&#xA;&#xA;养子害死全家，重生归来养废他&#xA;夫君独宠外室？我转身出府嫁反派&#xA;&#xA;2、种田文、工业革命文&#xA;&#xA;3、平行宇宙和社会进步论和发财的终极方法&#xA;&#xA;中国近代史其实就是一本穿越小说&#xA;&#xA;洋务运动&#xA;明治维新&#xA;孙中山&#xA;&#xA;改开是另外一本穿越小说，也是赚大钱的机会&#xA;&#xA;可以参考的一本书是One Billion Customers&#xA;&#xA;新华网转发工人日报的报道&#xA;&#xA;“我在非洲当酋长，前几天又被土皇请去过古尔邦节了。”8月13日，34岁的中国铁建中土尼日利亚公司运营事业部总经理孔涛，在尼日利亚骑马巡视了封地，他的封号是“WAKILIN AYYUKA”，意思是“工程领袖”。&#xA;&#xA;华为员工李华&#xA;&#xA;没想到华哥也是个讲究人，他利用自己本就不多的农业知识，结合网上资料，给军阀提供了一份完整的小麦种植方法，军阀一一照办之后，粮食果然丰收了！这样一来二去，双方的联系也多了起来，华哥不仅成了军阀的农业顾问，还经常帮他在军事上出谋划策。在短短2年10个月的时间里，华哥为军阀谋划了大大小小755次战斗，吞并了周围的13个部落！&#xA;&#xA;最逆天的是，这一切居然是华哥利用下班时间，兼职做的！&#xA;&#xA;华哥每天5点下班，从公司前往军阀的大本营，传授现代化生产知识、管理经验，与作战技巧，有时候凌晨4点才离开，第二天继续上班。由于出色的军事才能，华哥事实上已经是军阀集团的二把手了，被抓获的时候，他一共收了军阀8万美元的现金，1.38吨的粗金矿石，200公斤的金条，以及美国女性1名、法国女性1名、非洲当地女性6名。&#xA;&#xA;据说华哥之所以被抓，是因为贝宁政府在剿灭军阀的时候发现对方的战术很熟悉，并且听到了战场上的汉语口号。政府军的指挥官是在中国南京军事学院深造过的，经过多方打听之后找到华哥的工作单位，这才有了后来羁押回国的故事。&#xA;&#xA;金庸小说&#xA;&#xA;1955年《书剑恩仇录》开始至1972年《鹿鼎记》封笔&#xA;&#xA;《笑傲江湖》（1967年），文革1966年开始&#xA;&#xA;1973年恢复工作的邓小平从江西返回北京后不久，就托人从境外买了一套金庸小说。&#xA;&#xA;1981年，作为《明报》社长的金庸先生接到了来自北京访问内地的邀请。7月18日，金庸见邓小平。邓小平在人民大会堂等在福建厅门口，握住金庸的手说，“欢迎查先生回来走走！你的小说我读过，我们已经是老朋友了。”然后金庸作品全面在大陆解禁。&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Sun, 31 Dec 2023 04:33:36 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/Yf11LGkV7pg.mp3" length="26791077" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>中国近代史其实就是一本穿越小说，兼谈有钱人是怎么挣钱的(兼谈如何穿越)</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+1、我最近看的一些爽文小说
+
+番茄小说
+
+养子害死全家，重生归来养废他
+流氓帝师
+夫君独宠外室？我转身出府嫁反派
+
+七猫小说
+
+都市隐龙
+舔狗反派只想苟，女生不按套路走
+我居然成了反派舔狗
+绝世强龙
+重生：没有道德，就不会被绑架
+
+套路1
+
+舔狗反派只想苟，女生不按套路走
+我居然成了反派舔狗
+重生：没有道德，就不会被绑架
+
+套路2
+
+养子害死全家，重生归来养废他
+夫君独宠外室？我转身出府嫁反派
+
+2、种田文、工业革命文
+
+3、平行宇宙和社会进步论和发财的终极方法
+
+中国近代史其实就是一本穿越小说
+
+洋务运动
+明治维新
+孙中山
+
+改开是另外一本穿越小说，也是赚大钱的机会
+
+可以参考的一本书是One Billion Customers
+
+新华网转发工人日报的报道
+
+“我在非洲当酋长，前几天又被土皇请去过古尔邦节了。”8月13日，34岁的中国铁建中土尼日利亚公司运营事业部总经理孔涛，在尼日利亚骑马巡视了封地，他的封号是“WAKILIN AYYUKA”，意思是“工程领袖”。
+
+华为员工李华
+
+没想到华哥也是个讲究人，他利用自己本就不多的农业知识，结合网上资料，给军阀提供了一份完整的小麦种植方法，军阀一一照办之后，粮食果然丰收了！这样一来二去，双方的联系也多了起来，华哥不仅成了军阀的农业顾问，还经常帮他在军事上出谋划策。在短短2年10个月的时间里，华哥为军阀谋划了大大小小755次战斗，吞并了周围的13个部落！
+
+最逆天的是，这一切居然是华哥利用下班时间，兼职做的！
+
+华哥每天5点下班，从公司前往军阀的大本营，传授现代化生产知识、管理经验，与作战技巧，有时候凌晨4点才离开，第二天继续上班。由于出色的军事才能，华哥事实上已经是军阀集团的二把手了，被抓获的时候，他一共收了军阀8万美元的现金，1.38吨的粗金矿石，200公斤的金条，以及美国女性1名、法国女性1名、非洲当地女性6名。
+
+据说华哥之所以被抓，是因为贝宁政府在剿灭军阀的时候发现对方的战术很熟悉，并且听到了战场上的汉语口号。政府军的指挥官是在中国南京军事学院深造过的，经过多方打听之后找到华哥的工作单位，这才有了后来羁押回国的故事。
+
+金庸小说
+
+1955年《书剑恩仇录》开始至1972年《鹿鼎记》封笔
+
+《笑傲江湖》（1967年），文革1966年开始
+
+1973年恢复工作的邓小平从江西返回北京后不久，就托人从境外买了一套金庸小说。
+
+1981年，作为《明报》社长的金庸先生接到了来自北京访问内地的邀请。7月18日，金庸见邓小平。邓小平在人民大会堂等在福建厅门口，握住金庸的手说，“欢迎查先生回来走走！你的小说我读过，我们已经是老朋友了。”然后金庸作品全面在大陆解禁。
+
+
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Yf11LGkV7pg/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>48:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>5</itunes:order>
+    </item>
+    <item>
+      <guid>_ZuBhWGBqYI</guid>
+      <title>小米汽车值得买么？聊聊雷军、小米汽车和中国制造、日本制造</title>
+      <link>https://youtube.com/watch?v=_ZuBhWGBqYI</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;1、还可以的发布会&#xA;&#xA;电驱、电池、大压铸、智能驾驶、智能座舱&#xA;&#xA;2、Cosplay式设计&#xA;&#xA;3、值得买么？电动车和燃油车&#xA;&#xA;4、中国制造和日本制造&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Sat, 30 Dec 2023 08:32:38 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/_ZuBhWGBqYI.mp3" length="18131085" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>小米汽车值得买么？聊聊雷军、小米汽车和中国制造、日本制造</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+1、还可以的发布会
+
+电驱、电池、大压铸、智能驾驶、智能座舱
+
+2、Cosplay式设计
+
+3、值得买么？电动车和燃油车
+
+4、中国制造和日本制造
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/_ZuBhWGBqYI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>32:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>6</itunes:order>
+    </item>
+    <item>
+      <guid>TDxR6qpSZ7Q</guid>
+      <title>中国人该不该过圣诞节？中国人为什么爱过圣诞节？为什么不让过圣诞节？</title>
+      <link>https://youtube.com/watch?v=TDxR6qpSZ7Q</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;1、中国人该不该过圣诞节？&#xA;&#xA;2、中国人为什么爱过圣诞节？&#xA;&#xA;3、为什么不让过圣诞节？&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Tue, 26 Dec 2023 03:22:46 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/TDxR6qpSZ7Q.mp3" length="18415605" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>中国人该不该过圣诞节？中国人为什么爱过圣诞节？为什么不让过圣诞节？</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+1、中国人该不该过圣诞节？
+
+2、中国人为什么爱过圣诞节？
+
+3、为什么不让过圣诞节？
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/TDxR6qpSZ7Q/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>34:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>7</itunes:order>
+    </item>
+    <item>
+      <guid>RSK57eKhY44</guid>
+      <title>从北京最近接连多起事故，谈为什么经济要发展。以及中国的经济问题和日本的不同。</title>
+      <link>https://youtube.com/watch?v=RSK57eKhY44</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;1、12月14日北京地铁事故&#xA;&#xA;暖气水管爆炸&#xA;&#xA;地铁又出现事故&#xA;&#xA;安全问题背后的发展技巧和隐患&#xA;&#xA;2、天津的燃气爆炸事故/学生跳楼/天津暖气不热的问题&#xA;&#xA;3、中国经济发展停滞和日本经济发展停滞的不同&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Sun, 24 Dec 2023 00:19:00 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/RSK57eKhY44.mp3" length="17254581" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>从北京最近接连多起事故，谈为什么经济要发展。以及中国的经济问题和日本的不同。</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+1、12月14日北京地铁事故
+
+暖气水管爆炸
+
+地铁又出现事故
+
+安全问题背后的发展技巧和隐患
+
+2、天津的燃气爆炸事故/学生跳楼/天津暖气不热的问题
+
+3、中国经济发展停滞和日本经济发展停滞的不同
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/RSK57eKhY44/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>32:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>8</itunes:order>
+    </item>
+    <item>
+      <guid>6zbtrFry-rY</guid>
+      <title>一个文件几千亿市值蒸发，无数股票跳水，但是国家新闻出版署说，《网络游戏管理办法》（征求意见稿）旨在促进行业繁荣健康发展，版署为什么要打击中国经济？这是故意的么？</title>
+      <link>https://youtube.com/watch?v=6zbtrFry-rY</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;1、昨天新闻出版署一个草案，谈笑间，5000亿灰飞烟灭&#xA;&#xA;2、今天新闻出版署回复姗姗来迟，说旨在促进行业繁荣健康发展&#xA;&#xA;3、版署为什么这么做？&#xA;&#xA;4、版署应该真的没坏心思。但是影响为什么这么大？&#xA;&#xA;塔西佗陷阱？还是管理陷阱？&#xA;&#xA;5、游戏行业为什么多灾多难？&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Sat, 23 Dec 2023 12:12:53 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/6zbtrFry-rY.mp3" length="15348597" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>一个文件几千亿市值蒸发，无数股票跳水，但是国家新闻出版署说，《网络游戏管理办法》（征求意见稿）旨在促进行业繁荣健康发展，版署为什么要打击中国经济？这是故意的么？</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+1、昨天新闻出版署一个草案，谈笑间，5000亿灰飞烟灭
+
+2、今天新闻出版署回复姗姗来迟，说旨在促进行业繁荣健康发展
+
+3、版署为什么这么做？
+
+4、版署应该真的没坏心思。但是影响为什么这么大？
+
+塔西佗陷阱？还是管理陷阱？
+
+5、游戏行业为什么多灾多难？
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/6zbtrFry-rY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>28:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>9</itunes:order>
+    </item>
+    <item>
+      <guid>FFmvbiKAW8g</guid>
+      <title>甘肃地震和被禁电影《隐入尘烟》和《北京折叠》，为什么我们对自己国民的苦难视而不见</title>
+      <link>https://youtube.com/watch?v=FFmvbiKAW8g</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;1、甘肃地震的地点是积石县&#xA;&#xA;隐入尘烟电影发生在甘肃省张掖市高台县罗城镇花墙子村&#xA;&#xA;这两个地点都在甘肃，但是距离其实很远，有600多公里，甘肃的地形很奇怪是一个东西向跨越了很大区域的省，但是南北向并不算大。&#xA;&#xA;陇西地震（陇西汉阳）今天的甘肃天水，大概跟这次的地震地点积石县距离400多公里&#xA;&#xA;2、电影《隐入尘烟》为什么被禁&#xA;&#xA;李克强总理的6亿人月入1000块钱&#xA;&#xA;3、北京折叠和互联网折叠&#xA;&#xA;国家、民族是想象共同体&#xA;&#xA;同胞、国民也是想象的共同体&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Sat, 23 Dec 2023 02:56:48 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/FFmvbiKAW8g.mp3" length="19501773" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>甘肃地震和被禁电影《隐入尘烟》和《北京折叠》，为什么我们对自己国民的苦难视而不见</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+1、甘肃地震的地点是积石县
+
+隐入尘烟电影发生在甘肃省张掖市高台县罗城镇花墙子村
+
+这两个地点都在甘肃，但是距离其实很远，有600多公里，甘肃的地形很奇怪是一个东西向跨越了很大区域的省，但是南北向并不算大。
+
+陇西地震（陇西汉阳）今天的甘肃天水，大概跟这次的地震地点积石县距离400多公里
+
+2、电影《隐入尘烟》为什么被禁
+
+李克强总理的6亿人月入1000块钱
+
+3、北京折叠和互联网折叠
+
+国家、民族是想象共同体
+
+同胞、国民也是想象的共同体
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/FFmvbiKAW8g/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>38:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>10</itunes:order>
+    </item>
+    <item>
+      <guid>GS2Euz3TgcQ</guid>
+      <title>工业大摸底神话里面的魔幻与现实，从军转民到民转军？</title>
+      <link>https://youtube.com/watch?v=GS2Euz3TgcQ</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;# 工业大摸底神化里面的魔幻与现实，从军转民到民转军？&#xA;&#xA;1、工业大摸底的几个神话&#xA;&#xA;巨力公司生产的航母拦阻索&#xA;&#xA;光威鱼竿的碳纤维材料用于航天&#xA;&#xA;光启汽车漆用于战斗机隐身材料&#xA;&#xA;腾盾的民用无人机用于军用&#xA;&#xA;讲讲我知道的军工企业转民用的故事&#xA;&#xA;工业大摸底热背后的几个原因&#xA;&#xA;2、美国的军方造就了无数的现代科技&#xA;&#xA;3、本来世界大多数国家的军用科技就是中国所谓的民用/私营公司研发的&#xA;&#xA;1、工业大摸底的几个神话&#xA;&#xA;巨力公司生产的航母拦阻索&#xA;&#xA;光威鱼竿的碳纤维材料用于航天&#xA;&#xA;汽车漆用于战斗机隐身材料&#xA;&#xA;腾盾的民用无人机用于军用&#xA;&#xA;讲讲我知道的军工企业转民用的故事&#xA;&#xA;2、工业大摸底热背后的几个原因&#xA;&#xA;军工股票热&#xA;&#xA;国有思维回潮&#xA;&#xA;厉害了我的国新版本&#xA;&#xA;不要卡脖子思维&#xA;&#xA;3、美国的政府/军方造就了无数的现代科技&#xA;&#xA;- 计算机ENIAC：陆军弹道实验室赞助&#xA;- IBM制表机/统计机：人口调查局（主要客户之一）&#xA;- 互联网：国防部高级研究计划署 DARPA&#xA;- GPS：国防部&#xA;- 触摸屏：英国皇家雷达机构&#xA;- 快速傅里叶变换：国防部数学家&#xA;- 硬盘：美国军方&#xA;- Siri: CALO: DARPA&#xA;- 自动驾驶：GoogleX: DARPA&#xA;&#xA;4、本来世界大多数国家的军用科技就是中国所谓的民用/私营公司研发的&#xA;&#xA;二战时期为美国军事发展作出贡献的民用公司：&#xA;&#xA;福特汽车设计制造的T28超重型坦克&#xA;&#xA;IBM公司生产过步枪&#xA;&#xA;A. O. Smith在一战就生产过炸弹&#xA;&#xA;5、美国当下的军工巨头&#xA;&#xA;波音公司&#xA;&#xA;通用动力&#xA;&#xA;洛克希德·马丁&#xA;&#xA;诺斯罗普·格鲁曼&#xA;&#xA;雷神&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Fri, 22 Dec 2023 06:08:46 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/GS2Euz3TgcQ.mp3" length="25172973" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>工业大摸底神话里面的魔幻与现实，从军转民到民转军？</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+# 工业大摸底神化里面的魔幻与现实，从军转民到民转军？
+
+1、工业大摸底的几个神话
+
+巨力公司生产的航母拦阻索
+
+光威鱼竿的碳纤维材料用于航天
+
+光启汽车漆用于战斗机隐身材料
+
+腾盾的民用无人机用于军用
+
+讲讲我知道的军工企业转民用的故事
+
+工业大摸底热背后的几个原因
+
+2、美国的军方造就了无数的现代科技
+
+3、本来世界大多数国家的军用科技就是中国所谓的民用/私营公司研发的
+
+1、工业大摸底的几个神话
+
+巨力公司生产的航母拦阻索
+
+光威鱼竿的碳纤维材料用于航天
+
+汽车漆用于战斗机隐身材料
+
+腾盾的民用无人机用于军用
+
+讲讲我知道的军工企业转民用的故事
+
+2、工业大摸底热背后的几个原因
+
+军工股票热
+
+国有思维回潮
+
+厉害了我的国新版本
+
+不要卡脖子思维
+
+3、美国的政府/军方造就了无数的现代科技
+
+- 计算机ENIAC：陆军弹道实验室赞助
+- IBM制表机/统计机：人口调查局（主要客户之一）
+- 互联网：国防部高级研究计划署 DARPA
+- GPS：国防部
+- 触摸屏：英国皇家雷达机构
+- 快速傅里叶变换：国防部数学家
+- 硬盘：美国军方
+- Siri: CALO: DARPA
+- 自动驾驶：GoogleX: DARPA
+
+4、本来世界大多数国家的军用科技就是中国所谓的民用/私营公司研发的
+
+二战时期为美国军事发展作出贡献的民用公司：
+
+福特汽车设计制造的T28超重型坦克
+
+IBM公司生产过步枪
+
+A. O. Smith在一战就生产过炸弹
+
+5、美国当下的军工巨头
+
+波音公司
+
+通用动力
+
+洛克希德·马丁
+
+诺斯罗普·格鲁曼
+
+雷神
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/GS2Euz3TgcQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>49:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>11</itunes:order>
+    </item>
+    <item>
+      <guid>UZ4aF-uBPuU</guid>
+      <title>LLM大语言模型/ChatGPT有自我意识么？从Gemini pro说自己的是百度文心一言说起……</title>
+      <link>https://youtube.com/watch?v=UZ4aF-uBPuU</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;1、为什么Gemini pro说自己的是百度文心一言&#xA;&#xA;• Gemini ultra和pro不同&#xA;• Bard其实不是简单的LLM，是一个RAG服务，我们平时用的ChatGPT其实也是RAG&#xA;• Poe的Gemini其实是一个简单LLM而不是RAG&#xA;&#xA;2、大语言模型到底有没有自我意识？&#xA;&#xA;3、哲学三问，我们从哪里来？我们是谁？我们到哪里去？&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Fri, 22 Dec 2023 01:00:20 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/UZ4aF-uBPuU.mp3" length="11770821" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>LLM大语言模型/ChatGPT有自我意识么？从Gemini pro说自己的是百度文心一言说起……</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+1、为什么Gemini pro说自己的是百度文心一言
+
+• Gemini ultra和pro不同
+• Bard其实不是简单的LLM，是一个RAG服务，我们平时用的ChatGPT其实也是RAG
+• Poe的Gemini其实是一个简单LLM而不是RAG
+
+2、大语言模型到底有没有自我意识？
+
+3、哲学三问，我们从哪里来？我们是谁？我们到哪里去？
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/UZ4aF-uBPuU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>24:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>12</itunes:order>
+    </item>
+    <item>
+      <guid>dQnqx3FpTdQ</guid>
+      <title>董宇辉和俞敏洪：危机的本质是什么，顺便谈谈罗永浩、李笑来等新东方名师，还有李子柒的故事</title>
+      <link>https://youtube.com/watch?v=dQnqx3FpTdQ</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;1、董宇辉和俞敏洪这次危机的本质是什么&#xA;公司要走明星制，跟明星员工分成，股份激励；还是做成一个普通的公司，东方甄选和去何从？&#xA;&#xA;2、我认识的新东方名师，罗永浩、李笑来、杜昶旭、郝海龙&#xA;新东方的早期是一个造星工厂，类似的也有央视，比如罗振宇、樊登、王志安、柴静&#xA;&#xA;3、李子柒的故事&#xA;mcn和无数的小网红签约，但是能成为李子柒的毕竟是少数。而成为李子柒以后，李子柒的商业价值和签约的时候，已经完全不同了。还能不能用之前的合约去约束。&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Thu, 21 Dec 2023 01:43:06 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/dQnqx3FpTdQ.mp3" length="12654189" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>董宇辉和俞敏洪：危机的本质是什么，顺便谈谈罗永浩、李笑来等新东方名师，还有李子柒的故事</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+1、董宇辉和俞敏洪这次危机的本质是什么
+公司要走明星制，跟明星员工分成，股份激励；还是做成一个普通的公司，东方甄选和去何从？
+
+2、我认识的新东方名师，罗永浩、李笑来、杜昶旭、郝海龙
+新东方的早期是一个造星工厂，类似的也有央视，比如罗振宇、樊登、王志安、柴静
+
+3、李子柒的故事
+mcn和无数的小网红签约，但是能成为李子柒的毕竟是少数。而成为李子柒以后，李子柒的商业价值和签约的时候，已经完全不同了。还能不能用之前的合约去约束。
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/dQnqx3FpTdQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>24:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>13</itunes:order>
+    </item>
+    <item>
+      <guid>1VWW-WyDnbM</guid>
+      <title>Google Gemini完全碾压了ChatGPT么？我们该怎么看待Google Gemini？全面详解Google  Gemini</title>
+      <link>https://youtube.com/watch?v=1VWW-WyDnbM</link>
+      <description>1、Google Gemini 是目前为止 Google 对 ChatGPT 的最大回应。&#xA;&#xA;- Google各层大佬站台&#xA;- 无数的演示视频&#xA;- 眼花缭乱的各种基准测试数据&#xA;- 形势一片大好&#xA;&#xA;2、Google Gemini真的比ChatGPT更好么？&#xA;&#xA;- 无敌的Ultra和目前真实能部署的Pro&#xA;- 作弊的演示视频&#xA;&#xA;3、我们应该继续期待Google Gemini&#xA;&#xA;- 真多模态是不是秒杀基于文字的多模态？&#xA;- Google在部署服务上面有丰富的经验&#xA;- ChatGPT仍旧是可怕的对手，先发优势、用户反馈和业务模式</description>
+      <pubDate>Thu, 14 Dec 2023 09:50:58 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/1VWW-WyDnbM.mp3" length="20424021" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>Google Gemini完全碾压了ChatGPT么？我们该怎么看待Google Gemini？全面详解Google  Gemini</itunes:subtitle>
+      <itunes:summary><![CDATA[1、Google Gemini 是目前为止 Google 对 ChatGPT 的最大回应。
+
+- Google各层大佬站台
+- 无数的演示视频
+- 眼花缭乱的各种基准测试数据
+- 形势一片大好
+
+2、Google Gemini真的比ChatGPT更好么？
+
+- 无敌的Ultra和目前真实能部署的Pro
+- 作弊的演示视频
+
+3、我们应该继续期待Google Gemini
+
+- 真多模态是不是秒杀基于文字的多模态？
+- Google在部署服务上面有丰富的经验
+- ChatGPT仍旧是可怕的对手，先发优势、用户反馈和业务模式]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/1VWW-WyDnbM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>39:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>14</itunes:order>
+    </item>
+    <item>
+      <guid>DNzgVbgg_gY</guid>
+      <title>差点毁掉ChatGPT 的 OpenAI的宫斗，为什么我一直站在Sam Altman这边，为什么我认为错在董事会</title>
+      <link>https://youtube.com/watch?v=DNzgVbgg_gY</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;1 OpenAI 宫斗剧情简单回顾，这场宫斗戏，差点儿毁掉ChatGPT&#xA;2 为什么我一直站在Sam Altman这边&#xA;3 警惕理念绑架现实，要分清楚观点和事实&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Sat, 09 Dec 2023 05:02:38 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/DNzgVbgg_gY.mp3" length="17692149" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>差点毁掉ChatGPT 的 OpenAI的宫斗，为什么我一直站在Sam Altman这边，为什么我认为错在董事会</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+1 OpenAI 宫斗剧情简单回顾，这场宫斗戏，差点儿毁掉ChatGPT
+2 为什么我一直站在Sam Altman这边
+3 警惕理念绑架现实，要分清楚观点和事实
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/DNzgVbgg_gY/hqdefault.jpg"></itunes:image>
+      <itunes:duration>36:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>15</itunes:order>
+    </item>
+    <item>
+      <guid>EJ-eY1ppYxw</guid>
+      <title>连续直播的第6天，继续闲聊</title>
+      <link>https://youtube.com/watch?v=EJ-eY1ppYxw</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Fri, 08 Dec 2023 17:30:03 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/EJ-eY1ppYxw.mp3" length="96580605" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>连续直播的第6天，继续闲聊</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/EJ-eY1ppYxw/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>3:21:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>16</itunes:order>
+    </item>
+    <item>
+      <guid>-RUC1KCsl6o</guid>
+      <title>跟Tinyfool继续扯淡</title>
+      <link>https://youtube.com/watch?v=-RUC1KCsl6o</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Thu, 07 Dec 2023 16:28:11 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/-RUC1KCsl6o.mp3" length="65209293" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>跟Tinyfool继续扯淡</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/-RUC1KCsl6o/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>2:20:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>17</itunes:order>
+    </item>
+    <item>
+      <guid>6dXUsOsB-e8</guid>
+      <title>继续闲聊</title>
+      <link>https://youtube.com/watch?v=6dXUsOsB-e8</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Wed, 06 Dec 2023 16:53:11 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/6dXUsOsB-e8.mp3" length="64588269" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>继续闲聊</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/6dXUsOsB-e8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>2:16:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>18</itunes:order>
+    </item>
+    <item>
+      <guid>_bMYt2hBss8</guid>
+      <title>聊聊技术学习和个人发展</title>
+      <link>https://youtube.com/watch?v=_bMYt2hBss8</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Tue, 05 Dec 2023 17:24:40 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/_bMYt2hBss8.mp3" length="73404909" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>聊聊技术学习和个人发展</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/_bMYt2hBss8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>2:38:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>19</itunes:order>
+    </item>
+    <item>
+      <guid>3q2RZiAP5Mk</guid>
+      <title>聊聊读书</title>
+      <link>https://youtube.com/watch?v=3q2RZiAP5Mk</link>
+      <description>成为此频道的会员即可获享以下福利：&#xA;https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;本视频字幕使用TinyStudio生成 https://tinystudio.ai/</description>
+      <pubDate>Tue, 05 Dec 2023 02:46:20 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/tinyfool/3q2RZiAP5Mk.mp3" length="48423717" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>聊聊读书</itunes:subtitle>
+      <itunes:summary><![CDATA[成为此频道的会员即可获享以下福利：
+https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
+
+
+
+
+
+本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/3q2RZiAP5Mk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:54:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>20</itunes:order>
+    </item>
     <item>
       <guid>Yca3jZuSPEQ</guid>
       <title>犹太复国主义和恐怖主义-继续聊以色列，巴勒斯坦问题</title>
@@ -60,7 +789,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/Yca3jZuSPEQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>41:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>21</itunes:order>
     </item>
     <item>
       <guid>kWtb5UlK5XU</guid>
@@ -123,7 +852,7 @@ https://www.youtube.com/watch?v=WOYycmsSacY&pp=ygUT6KW_55Oc5YiA5ZyjIOW3tOS7pQ%3D
       <itunes:image href="https://i.ytimg.com/vi/kWtb5UlK5XU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>57:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>22</itunes:order>
     </item>
     <item>
       <guid>Igqqc-Lx2xQ</guid>
@@ -169,7 +898,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/Igqqc-Lx2xQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:26:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>23</itunes:order>
     </item>
     <item>
       <guid>HSHS5V1uYBU</guid>
@@ -196,7 +925,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/HSHS5V1uYBU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>24</itunes:order>
     </item>
     <item>
       <guid>e4zPXA_Y0y8</guid>
@@ -258,7 +987,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/e4zPXA_Y0y8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>31:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>25</itunes:order>
     </item>
     <item>
       <guid>p3WySV4WLkk</guid>
@@ -287,7 +1016,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/p3WySV4WLkk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>26:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>26</itunes:order>
     </item>
     <item>
       <guid>C1oZiLnLRck</guid>
@@ -334,7 +1063,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/C1oZiLnLRck/maxresdefault.jpg"></itunes:image>
       <itunes:duration>33:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>27</itunes:order>
     </item>
     <item>
       <guid>x1Cku5DD7ZM</guid>
@@ -404,7 +1133,7 @@ https://www.199it.com/archives/1650702.html
       <itunes:image href="https://i.ytimg.com/vi/x1Cku5DD7ZM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>39:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>28</itunes:order>
     </item>
     <item>
       <guid>CixE6jBoIyA</guid>
@@ -434,7 +1163,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/CixE6jBoIyA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>29</itunes:order>
     </item>
     <item>
       <guid>CYL84kvP3zo</guid>
@@ -459,7 +1188,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/CYL84kvP3zo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>39:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>30</itunes:order>
     </item>
     <item>
       <guid>uBKO1OwTrrY</guid>
@@ -492,7 +1221,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/uBKO1OwTrrY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>43:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>31</itunes:order>
     </item>
     <item>
       <guid>I4sPe7ZCuqM</guid>
@@ -520,7 +1249,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/I4sPe7ZCuqM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>32</itunes:order>
     </item>
     <item>
       <guid>bBqTBfCuTCw</guid>
@@ -544,7 +1273,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/bBqTBfCuTCw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>39:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>33</itunes:order>
     </item>
     <item>
       <guid>-yebwtT3CMM</guid>
@@ -569,7 +1298,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/-yebwtT3CMM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>46:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>34</itunes:order>
     </item>
     <item>
       <guid>zFgatIxN6Q4</guid>
@@ -601,7 +1330,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/zFgatIxN6Q4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>35</itunes:order>
     </item>
     <item>
       <guid>J6it8v7iVkE</guid>
@@ -622,7 +1351,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
 本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/J6it8v7iVkE/hqdefault_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>36</itunes:order>
     </item>
     <item>
       <guid>-cUZOGXsfHE</guid>
@@ -643,7 +1372,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
 本视频字幕使用TinyStudio生成 https://tinystudio.ai/]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/-cUZOGXsfHE/maxresdefault_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>37</itunes:order>
     </item>
     <item>
       <guid>DZkckjAagzo</guid>
@@ -694,7 +1423,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/DZkckjAagzo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>42:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>38</itunes:order>
     </item>
     <item>
       <guid>zPvfMuWI6Bg</guid>
@@ -730,7 +1459,7 @@ https://www.bloomberg.com/opinion/articles/2023-09-04/huawei-chip-shows-us-curbs
       <itunes:image href="https://i.ytimg.com/vi/zPvfMuWI6Bg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>39</itunes:order>
     </item>
     <item>
       <guid>NYmPepYh1P4</guid>
@@ -758,7 +1487,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/NYmPepYh1P4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>40</itunes:order>
     </item>
     <item>
       <guid>w8i2ylabxUg</guid>
@@ -810,7 +1539,7 @@ Tinyfool您好，请问对日本IT行业有没有独特见解？本人29岁想�
       <itunes:image href="https://i.ytimg.com/vi/w8i2ylabxUg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>41</itunes:order>
     </item>
     <item>
       <guid>9Jg5b9Fgt6M</guid>
@@ -885,7 +1614,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/9Jg5b9Fgt6M/maxresdefault.jpg"></itunes:image>
       <itunes:duration>47:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>22</itunes:order>
+      <itunes:order>42</itunes:order>
     </item>
     <item>
       <guid>9xnVRTwcxV8</guid>
@@ -921,7 +1650,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/9xnVRTwcxV8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>28:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>23</itunes:order>
+      <itunes:order>43</itunes:order>
     </item>
     <item>
       <guid>TlPFocj3lJE</guid>
@@ -955,7 +1684,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/TlPFocj3lJE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>27:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>24</itunes:order>
+      <itunes:order>44</itunes:order>
     </item>
     <item>
       <guid>w92UcB7PB7E</guid>
@@ -1003,7 +1732,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/w92UcB7PB7E/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>25</itunes:order>
+      <itunes:order>45</itunes:order>
     </item>
     <item>
       <guid>INbBgnO30qY</guid>
@@ -1039,7 +1768,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/INbBgnO30qY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>27:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>26</itunes:order>
+      <itunes:order>46</itunes:order>
     </item>
     <item>
       <guid>QKh96QK-s9o</guid>
@@ -1060,7 +1789,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/QKh96QK-s9o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>27</itunes:order>
+      <itunes:order>47</itunes:order>
     </item>
     <item>
       <guid>ZtX-VTgDzUo</guid>
@@ -1090,7 +1819,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/ZtX-VTgDzUo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>28</itunes:order>
+      <itunes:order>48</itunes:order>
     </item>
     <item>
       <guid>9WCdHoCytlw</guid>
@@ -1140,7 +1869,7 @@ AI可以辅导学习]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/9WCdHoCytlw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>40:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>29</itunes:order>
+      <itunes:order>49</itunes:order>
     </item>
     <item>
       <guid>SryZahzL6TE</guid>
@@ -1182,7 +1911,7 @@ https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA/join
       <itunes:image href="https://i.ytimg.com/vi/SryZahzL6TE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>30</itunes:order>
+      <itunes:order>50</itunes:order>
     </item>
     <item>
       <guid>MFUE9NmT01E</guid>
@@ -1286,7 +2015,7 @@ https://u.jd.com/yb2Kz9T
       <itunes:image href="https://i.ytimg.com/vi/MFUE9NmT01E/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:06:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>31</itunes:order>
+      <itunes:order>51</itunes:order>
     </item>
     <item>
       <guid>x9WXVJYWIXM</guid>
@@ -1316,7 +2045,7 @@ AI时代来了：我现在40岁。
       <itunes:image href="https://i.ytimg.com/vi/x9WXVJYWIXM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>32</itunes:order>
+      <itunes:order>52</itunes:order>
     </item>
     <item>
       <guid>kADjjzPyKws</guid>
@@ -1371,7 +2100,7 @@ https://amzn.to/3JHHg4S]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/kADjjzPyKws/maxresdefault.jpg"></itunes:image>
       <itunes:duration>33:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>33</itunes:order>
+      <itunes:order>53</itunes:order>
     </item>
     <item>
       <guid>ny4mqMs-on8</guid>
@@ -1389,7 +2118,7 @@ https://amzn.to/3JHHg4S]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ny4mqMs-on8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>34</itunes:order>
+      <itunes:order>54</itunes:order>
     </item>
     <item>
       <guid>3jLkWTD1R_8</guid>
@@ -1438,7 +2167,7 @@ https://amzn.to/3JHHg4S]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/3jLkWTD1R_8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>28:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>35</itunes:order>
+      <itunes:order>55</itunes:order>
     </item>
     <item>
       <guid>IiDv_k0yKnk</guid>
@@ -1473,7 +2202,7 @@ Future of Life Institute（FLI，未来生命研究所）是一个非营利组�
       <itunes:image href="https://i.ytimg.com/vi/IiDv_k0yKnk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>36</itunes:order>
+      <itunes:order>56</itunes:order>
     </item>
     <item>
       <guid>QXKSj_mhbS4</guid>
@@ -1499,7 +2228,7 @@ Future of Life Institute（FLI，未来生命研究所）是一个非营利组�
       <itunes:image href="https://i.ytimg.com/vi/QXKSj_mhbS4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>37</itunes:order>
+      <itunes:order>57</itunes:order>
     </item>
     <item>
       <guid>b3pQ8KIN-Wc</guid>
@@ -1619,7 +2348,7 @@ gpt4说，这张图片很有趣，因为它显示了一只松鼠拿着相机给�
       <itunes:image href="https://i.ytimg.com/vi/b3pQ8KIN-Wc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:03:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>38</itunes:order>
+      <itunes:order>58</itunes:order>
     </item>
     <item>
       <guid>ZAbPsSXtkyU</guid>
@@ -1640,7 +2369,7 @@ gpt4说，这张图片很有趣，因为它显示了一只松鼠拿着相机给�
       <itunes:image href="https://i.ytimg.com/vi/ZAbPsSXtkyU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>31:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>39</itunes:order>
+      <itunes:order>59</itunes:order>
     </item>
     <item>
       <guid>a77dESEtUlc</guid>
@@ -1673,7 +2402,7 @@ gpt4说，这张图片很有趣，因为它显示了一只松鼠拿着相机给�
       <itunes:image href="https://i.ytimg.com/vi/a77dESEtUlc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>40</itunes:order>
+      <itunes:order>60</itunes:order>
     </item>
     <item>
       <guid>43ATWFkXSo4</guid>
@@ -1702,7 +2431,7 @@ gpt4说，这张图片很有趣，因为它显示了一只松鼠拿着相机给�
       <itunes:image href="https://i.ytimg.com/vi/43ATWFkXSo4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>41</itunes:order>
+      <itunes:order>61</itunes:order>
     </item>
     <item>
       <guid>SHR9EA-azgw</guid>
@@ -1744,7 +2473,7 @@ gpt4说，这张图片很有趣，因为它显示了一只松鼠拿着相机给�
       <itunes:image href="https://i.ytimg.com/vi/SHR9EA-azgw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>42</itunes:order>
+      <itunes:order>62</itunes:order>
     </item>
     <item>
       <guid>U4CDhaGejKs</guid>
@@ -1845,7 +2574,7 @@ GPT-3 阅读了45TB文本，1750亿参数。
       <itunes:image href="https://i.ytimg.com/vi/U4CDhaGejKs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>55:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>43</itunes:order>
+      <itunes:order>63</itunes:order>
     </item>
     <item>
       <guid>kAj6T1jvpHE</guid>
@@ -1878,7 +2607,7 @@ AI框架-Tensoflow/研究人员转向PyTorch：简单、API好用，性能。
       <itunes:image href="https://i.ytimg.com/vi/kAj6T1jvpHE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>44</itunes:order>
+      <itunes:order>64</itunes:order>
     </item>
     <item>
       <guid>HkZSyyKOl94</guid>
@@ -1925,7 +2654,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/HkZSyyKOl94/maxresdefault.jpg"></itunes:image>
       <itunes:duration>40:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>45</itunes:order>
+      <itunes:order>65</itunes:order>
     </item>
     <item>
       <guid>_3IVpe_zvus</guid>
@@ -1973,7 +2702,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/_3IVpe_zvus/maxresdefault.jpg"></itunes:image>
       <itunes:duration>32:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>46</itunes:order>
+      <itunes:order>66</itunes:order>
     </item>
     <item>
       <guid>HbWcP2q4QBg</guid>
@@ -1996,7 +2725,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/HbWcP2q4QBg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>47</itunes:order>
+      <itunes:order>67</itunes:order>
     </item>
     <item>
       <guid>GScFgLEamHI</guid>
@@ -2011,7 +2740,7 @@ Tesla和国产电动车
       <itunes:image href="https://i.ytimg.com/vi/GScFgLEamHI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>0:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>48</itunes:order>
+      <itunes:order>68</itunes:order>
     </item>
     <item>
       <guid>pXEkrI73Jgk</guid>
@@ -2058,7 +2787,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/pXEkrI73Jgk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>35:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>49</itunes:order>
+      <itunes:order>69</itunes:order>
     </item>
     <item>
       <guid>EEb6uOQDTA0</guid>
@@ -2091,7 +2820,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/EEb6uOQDTA0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>50</itunes:order>
+      <itunes:order>70</itunes:order>
     </item>
     <item>
       <guid>9Ug1p0pB8QU</guid>
@@ -2113,7 +2842,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/9Ug1p0pB8QU/hqdefault.jpg"></itunes:image>
       <itunes:duration>29:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>51</itunes:order>
+      <itunes:order>71</itunes:order>
     </item>
     <item>
       <guid>EQeHm6D3CP0</guid>
@@ -2134,7 +2863,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/EQeHm6D3CP0/hqdefault.jpg"></itunes:image>
       <itunes:duration>17:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>52</itunes:order>
+      <itunes:order>72</itunes:order>
     </item>
     <item>
       <guid>hVqPfNk2tWg</guid>
@@ -2161,7 +2890,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/hVqPfNk2tWg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>53</itunes:order>
+      <itunes:order>73</itunes:order>
     </item>
     <item>
       <guid>dpTFiaDCkp8</guid>
@@ -2236,7 +2965,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/dpTFiaDCkp8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>54</itunes:order>
+      <itunes:order>74</itunes:order>
     </item>
     <item>
       <guid>bgIfMLY9wmo</guid>
@@ -2269,7 +2998,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/bgIfMLY9wmo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>55</itunes:order>
+      <itunes:order>75</itunes:order>
     </item>
     <item>
       <guid>mN4fnuw9bRc</guid>
@@ -2284,7 +3013,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/mN4fnuw9bRc/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:43:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>56</itunes:order>
+      <itunes:order>76</itunes:order>
     </item>
     <item>
       <guid>Ir3PT88ScZs</guid>
@@ -2309,7 +3038,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/Ir3PT88ScZs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>33:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>57</itunes:order>
+      <itunes:order>77</itunes:order>
     </item>
     <item>
       <guid>lInvBwQNdGA</guid>
@@ -2348,7 +3077,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/lInvBwQNdGA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>29:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>58</itunes:order>
+      <itunes:order>78</itunes:order>
     </item>
     <item>
       <guid>83xgKMCrPN4</guid>
@@ -2395,7 +3124,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/83xgKMCrPN4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>59</itunes:order>
+      <itunes:order>79</itunes:order>
     </item>
     <item>
       <guid>oLMSpHM-LIs</guid>
@@ -2418,7 +3147,7 @@ craft和notion两个Note软件使用了GPT3
       <itunes:image href="https://i.ytimg.com/vi/oLMSpHM-LIs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>60</itunes:order>
+      <itunes:order>80</itunes:order>
     </item>
   </channel>
 </rss>
