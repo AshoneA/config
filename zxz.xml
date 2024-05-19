@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 14:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 09:33:29 +0000</lastBuildDate>
     <pubDate>Mon, 15 Jul 2019 23:23:56 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/xdOOz-Zgg1mLd30fTC0c6vKoBj0-dGkdWrcggw5EprBZeaZMSru4xKPhbI8hyK9DCC_utNZ9=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,21 @@
     </itunes:owner>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>XDB80oqR5Pg</guid>
+      <title>【文明客厅】话说清国和民国</title>
+      <link>https://youtube.com/watch?v=XDB80oqR5Pg</link>
+      <description> </description>
+      <pubDate>Sat, 18 May 2024 23:01:02 +0000</pubDate>
+      <enclosure url="http://podcast.baozefeng.top/zxz/XDB80oqR5Pg.mp3" length="6868965" type="audio/mpeg"></enclosure>
+      <itunes:author>Mrs. Smith (mrs@smith.org)</itunes:author>
+      <itunes:subtitle>【文明客厅】话说清国和民国</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/XDB80oqR5Pg/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>81IVt7nT95Q</guid>
       <title>【文明客厅】历史上的今天：5月16日</title>
       <link>https://youtube.com/watch?v=81IVt7nT95Q</link>
@@ -37,7 +52,7 @@
       <itunes:image href="https://i.ytimg.com/vi/81IVt7nT95Q/maxresdefault.jpg"></itunes:image>
       <itunes:duration>28:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>OUSnfqb4SIk</guid>
@@ -52,7 +67,7 @@
       <itunes:image href="https://i.ytimg.com/vi/OUSnfqb4SIk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>43:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>boyp2w0obCM</guid>
@@ -67,7 +82,7 @@
       <itunes:image href="https://i.ytimg.com/vi/boyp2w0obCM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>41:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>FRr2ZbzYtP0</guid>
@@ -82,7 +97,7 @@
       <itunes:image href="https://i.ytimg.com/vi/FRr2ZbzYtP0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>32:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>xVv8m3PFdJE</guid>
@@ -97,7 +112,7 @@
       <itunes:image href="https://i.ytimg.com/vi/xVv8m3PFdJE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>26:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>zdLLz_mCJ58</guid>
@@ -112,7 +127,7 @@
       <itunes:image href="https://i.ytimg.com/vi/zdLLz_mCJ58/maxresdefault.jpg"></itunes:image>
       <itunes:duration>26:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>XhVoU3AZCDU</guid>
@@ -126,7 +141,7 @@
       <itunes:summary></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/XhVoU3AZCDU/maxresdefault_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>9aScDsv3a6I</guid>
@@ -141,7 +156,7 @@
       <itunes:image href="https://i.ytimg.com/vi/9aScDsv3a6I/maxresdefault_live.jpg"></itunes:image>
       <itunes:duration>14:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>rlhyYVn9C3s</guid>
