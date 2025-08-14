@@ -2,141 +2,141 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
   <channel>
     <title>游戏帝国</title>
-    <link>http://zephyr.cyou:3003</link>
+    <link>http://47.101.137.82:3003</link>
     <description>此播客是 游戏帝国 的有声书合集。</description>
     <language>zh-cn</language>
     <itunes:summary>此播客是 游戏帝国 的有声书合集。</itunes:summary>
     <itunes:author>机核</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://zephyr.cyou:3003/%E6%9C%BA%E6%A0%B8%2Fposter.jpeg"/>
+    <itunes:image href="http://47.101.137.82:3003/%E6%9C%BA%E6%A0%B8%2Fposter.jpeg"/>
     <item>
       <title>游戏帝国s2_vol.1丨图形芯王_nvidia_上.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=6f1b841273fc00d34cd8f47aafa18d52785178f5</link>
+      <link>http://47.101.137.82:3003/get-audio?id=6f1b841273fc00d34cd8f47aafa18d52785178f5</link>
       <guid>6f1b841273fc00d34cd8f47aafa18d52785178f5</guid>
       <pubDate>Sat, 19 Jul 2025 05:17:09 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.1丨图形芯王_nvidia_上.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6f1b841273fc00d34cd8f47aafa18d52785178f5" length="88981883" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=6f1b841273fc00d34cd8f47aafa18d52785178f5" length="88981883" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国s2_vol.2_-图形芯王_nvidia_下.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=fbd17b3f7cc36262fe97cf90ec59144842e6cc2f</link>
+      <link>http://47.101.137.82:3003/get-audio?id=fbd17b3f7cc36262fe97cf90ec59144842e6cc2f</link>
       <guid>fbd17b3f7cc36262fe97cf90ec59144842e6cc2f</guid>
       <pubDate>Sat, 19 Jul 2025 05:18:14 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.2_-图形芯王_nvidia_下.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fbd17b3f7cc36262fe97cf90ec59144842e6cc2f" length="122595414" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=fbd17b3f7cc36262fe97cf90ec59144842e6cc2f" length="122595414" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国s2_vol.3丨三维纪元_id_software_上.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=32ccb8575438e3ea42933bba187c96063c5c531a</link>
+      <link>http://47.101.137.82:3003/get-audio?id=32ccb8575438e3ea42933bba187c96063c5c531a</link>
       <guid>32ccb8575438e3ea42933bba187c96063c5c531a</guid>
       <pubDate>Sat, 19 Jul 2025 05:19:18 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.3丨三维纪元_id_software_上.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=32ccb8575438e3ea42933bba187c96063c5c531a" length="85440933" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=32ccb8575438e3ea42933bba187c96063c5c531a" length="85440933" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国s2_vol.4丨三维纪元_id_software_下.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=24574d484a1590715a12a4d881dba4538b8b0558</link>
+      <link>http://47.101.137.82:3003/get-audio?id=24574d484a1590715a12a4d881dba4538b8b0558</link>
       <guid>24574d484a1590715a12a4d881dba4538b8b0558</guid>
       <pubDate>Sat, 19 Jul 2025 05:20:22 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.4丨三维纪元_id_software_下.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=24574d484a1590715a12a4d881dba4538b8b0558" length="122402317" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=24574d484a1590715a12a4d881dba4538b8b0558" length="122402317" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国s2_vol.5丨虚幻领主_epic_上.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=1ce70399aa22dcce80407a77d9c144a81a6821ff</link>
+      <link>http://47.101.137.82:3003/get-audio?id=1ce70399aa22dcce80407a77d9c144a81a6821ff</link>
       <guid>1ce70399aa22dcce80407a77d9c144a81a6821ff</guid>
       <pubDate>Sat, 19 Jul 2025 05:21:32 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.5丨虚幻领主_epic_上.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1ce70399aa22dcce80407a77d9c144a81a6821ff" length="64270882" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=1ce70399aa22dcce80407a77d9c144a81a6821ff" length="64270882" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国s2_vol.6丨虚幻领主_epic_下.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=64696f985c7851bf5cf0840f0f8167f01e96ed52</link>
+      <link>http://47.101.137.82:3003/get-audio?id=64696f985c7851bf5cf0840f0f8167f01e96ed52</link>
       <guid>64696f985c7851bf5cf0840f0f8167f01e96ed52</guid>
       <pubDate>Sat, 19 Jul 2025 05:22:05 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.6丨虚幻领主_epic_下.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=64696f985c7851bf5cf0840f0f8167f01e96ed52" length="99437132" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=64696f985c7851bf5cf0840f0f8167f01e96ed52" length="99437132" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国s2_vol.7丨蒸汽王朝_valve_上.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=ed92a035a60a515b6f459a296c161108728de203</link>
+      <link>http://47.101.137.82:3003/get-audio?id=ed92a035a60a515b6f459a296c161108728de203</link>
       <guid>ed92a035a60a515b6f459a296c161108728de203</guid>
       <pubDate>Sat, 19 Jul 2025 05:22:47 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.7丨蒸汽王朝_valve_上.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ed92a035a60a515b6f459a296c161108728de203" length="93209540" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=ed92a035a60a515b6f459a296c161108728de203" length="93209540" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国s2_vol.8丨蒸汽王朝_valve_下.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=b2fa6aaa83969a3de1dd15f4de234f3ba56690db</link>
+      <link>http://47.101.137.82:3003/get-audio?id=b2fa6aaa83969a3de1dd15f4de234f3ba56690db</link>
       <guid>b2fa6aaa83969a3de1dd15f4de234f3ba56690db</guid>
       <pubDate>Sat, 19 Jul 2025 05:23:19 GMT</pubDate>
       <description>这是文件 游戏帝国s2_vol.8丨蒸汽王朝_valve_下.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b2fa6aaa83969a3de1dd15f4de234f3ba56690db" length="93363349" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=b2fa6aaa83969a3de1dd15f4de234f3ba56690db" length="93363349" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.1丨大艺术家ea（上）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=632d488e63a67e8db3dfe018c5278ff187dd1201</link>
+      <link>http://47.101.137.82:3003/get-audio?id=632d488e63a67e8db3dfe018c5278ff187dd1201</link>
       <guid>632d488e63a67e8db3dfe018c5278ff187dd1201</guid>
       <pubDate>Tue, 15 Jul 2025 06:00:35 GMT</pubDate>
       <description>这是文件 游戏帝国vol.1丨大艺术家ea（上）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=632d488e63a67e8db3dfe018c5278ff187dd1201" length="59417822" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=632d488e63a67e8db3dfe018c5278ff187dd1201" length="59417822" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.2丨大艺术家_ea（下）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=3a7704e4552b7b5e71a28d255db7774dffbbe776</link>
+      <link>http://47.101.137.82:3003/get-audio?id=3a7704e4552b7b5e71a28d255db7774dffbbe776</link>
       <guid>3a7704e4552b7b5e71a28d255db7774dffbbe776</guid>
       <pubDate>Tue, 15 Jul 2025 06:47:42 GMT</pubDate>
       <description>这是文件 游戏帝国vol.2丨大艺术家_ea（下）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3a7704e4552b7b5e71a28d255db7774dffbbe776" length="83393633" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=3a7704e4552b7b5e71a28d255db7774dffbbe776" length="83393633" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.3丨农业大亨_ubisoft（上）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=466206b683e2a4c9d98583f7bb11274e66905f26</link>
+      <link>http://47.101.137.82:3003/get-audio?id=466206b683e2a4c9d98583f7bb11274e66905f26</link>
       <guid>466206b683e2a4c9d98583f7bb11274e66905f26</guid>
       <pubDate>Tue, 15 Jul 2025 06:51:10 GMT</pubDate>
       <description>这是文件 游戏帝国vol.3丨农业大亨_ubisoft（上）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=466206b683e2a4c9d98583f7bb11274e66905f26" length="80225920" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=466206b683e2a4c9d98583f7bb11274e66905f26" length="80225920" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.4丨农业大亨_ubisoft（下）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=9d28ac980c427d10b2a76ad80aba5168a7ef113b</link>
+      <link>http://47.101.137.82:3003/get-audio?id=9d28ac980c427d10b2a76ad80aba5168a7ef113b</link>
       <guid>9d28ac980c427d10b2a76ad80aba5168a7ef113b</guid>
       <pubDate>Sat, 19 Jul 2025 05:11:51 GMT</pubDate>
       <description>这是文件 游戏帝国vol.4丨农业大亨_ubisoft（下）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9d28ac980c427d10b2a76ad80aba5168a7ef113b" length="77944835" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=9d28ac980c427d10b2a76ad80aba5168a7ef113b" length="77944835" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.5丨隐形巨兽_embracer（上）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=b85b8a6b022f6315e886bdb1f3ecc0dcccba4fd8</link>
+      <link>http://47.101.137.82:3003/get-audio?id=b85b8a6b022f6315e886bdb1f3ecc0dcccba4fd8</link>
       <guid>b85b8a6b022f6315e886bdb1f3ecc0dcccba4fd8</guid>
       <pubDate>Sat, 19 Jul 2025 05:12:41 GMT</pubDate>
       <description>这是文件 游戏帝国vol.5丨隐形巨兽_embracer（上）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b85b8a6b022f6315e886bdb1f3ecc0dcccba4fd8" length="78582545" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=b85b8a6b022f6315e886bdb1f3ecc0dcccba4fd8" length="78582545" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.6丨隐形巨兽_embracer（下）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=93bc1cc5eac67c17f7c10a8b03a7b0a30b4a8d4f</link>
+      <link>http://47.101.137.82:3003/get-audio?id=93bc1cc5eac67c17f7c10a8b03a7b0a30b4a8d4f</link>
       <guid>93bc1cc5eac67c17f7c10a8b03a7b0a30b4a8d4f</guid>
       <pubDate>Sat, 19 Jul 2025 05:14:32 GMT</pubDate>
       <description>这是文件 游戏帝国vol.6丨隐形巨兽_embracer（下）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=93bc1cc5eac67c17f7c10a8b03a7b0a30b4a8d4f" length="66390353" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=93bc1cc5eac67c17f7c10a8b03a7b0a30b4a8d4f" length="66390353" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.7丨摇滚明星_take-two_（上）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=bca00586b29dda1bea7d344d3cb97f427e666b21</link>
+      <link>http://47.101.137.82:3003/get-audio?id=bca00586b29dda1bea7d344d3cb97f427e666b21</link>
       <guid>bca00586b29dda1bea7d344d3cb97f427e666b21</guid>
       <pubDate>Sat, 19 Jul 2025 05:14:48 GMT</pubDate>
       <description>这是文件 游戏帝国vol.7丨摇滚明星_take-two_（上）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bca00586b29dda1bea7d344d3cb97f427e666b21" length="72767438" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=bca00586b29dda1bea7d344d3cb97f427e666b21" length="72767438" type="audio/mpeg"/>
     </item>
     <item>
       <title>游戏帝国vol.8丨摇滚明星_take-two（下）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=81ef6648af2f3f3bd0f0bcb4bee0468c8ba3bce6</link>
+      <link>http://47.101.137.82:3003/get-audio?id=81ef6648af2f3f3bd0f0bcb4bee0468c8ba3bce6</link>
       <guid>81ef6648af2f3f3bd0f0bcb4bee0468c8ba3bce6</guid>
       <pubDate>Sat, 19 Jul 2025 05:15:55 GMT</pubDate>
       <description>这是文件 游戏帝国vol.8丨摇滚明星_take-two（下）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=81ef6648af2f3f3bd0f0bcb4bee0468c8ba3bce6" length="106518896" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=81ef6648af2f3f3bd0f0bcb4bee0468c8ba3bce6" length="106518896" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
