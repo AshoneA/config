@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>科幻电影发展史</title>
+    <link>http://zephyr.cyou:3003</link>
+    <description>此播客是 科幻电影发展史 的有声书合集。</description>
+    <language>zh-cn</language>
+    <itunes:summary>此播客是 科幻电影发展史 的有声书合集。</itunes:summary>
+    <itunes:author>机核</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://zephyr.cyou:3003/%E6%9C%BA%E6%A0%B8%2Fposter.jpeg"/>
+    <item>
+      <title>侏罗纪公园：作为重磅炸弹的科幻电影.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d2b1d9f492f4e1cd67739546653e8f52a53be91a</link>
+      <guid>d2b1d9f492f4e1cd67739546653e8f52a53be91a</guid>
+      <pubDate>Sat, 19 Jul 2025 05:53:43 GMT</pubDate>
+      <description>这是文件 侏罗纪公园：作为重磅炸弹的科幻电影.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d2b1d9f492f4e1cd67739546653e8f52a53be91a" length="62860755" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>大都会：作为题材的科幻电影.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c81ec712caa3edefaee96ec288892b3b0f7e2eed</link>
+      <guid>c81ec712caa3edefaee96ec288892b3b0f7e2eed</guid>
+      <pubDate>Sat, 19 Jul 2025 05:53:05 GMT</pubDate>
+      <description>这是文件 大都会：作为题材的科幻电影.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c81ec712caa3edefaee96ec288892b3b0f7e2eed" length="83941768" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>奇爱博士：作为类型的科幻电影（下）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f06f43d95b87c9702a4c2b67aeb0007abbdd4fcc</link>
+      <guid>f06f43d95b87c9702a4c2b67aeb0007abbdd4fcc</guid>
+      <pubDate>Sat, 19 Jul 2025 05:53:29 GMT</pubDate>
+      <description>这是文件 奇爱博士：作为类型的科幻电影（下）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f06f43d95b87c9702a4c2b67aeb0007abbdd4fcc" length="56258400" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>奇观、魔术与想像的开端，从《月球旅行记》开始.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a55c3ee1b626894ad867873d52a8808e8fa332c6</link>
+      <guid>a55c3ee1b626894ad867873d52a8808e8fa332c6</guid>
+      <pubDate>Sat, 19 Jul 2025 05:53:14 GMT</pubDate>
+      <description>这是文件 奇观、魔术与想像的开端，从《月球旅行记》开始.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a55c3ee1b626894ad867873d52a8808e8fa332c6" length="56481377" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>星球大战：作为青年文化的科幻电影.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c16b914bda1265c22c828948f08ad43ff3b7d9ec</link>
+      <guid>c16b914bda1265c22c828948f08ad43ff3b7d9ec</guid>
+      <pubDate>Sat, 19 Jul 2025 05:53:36 GMT</pubDate>
+      <description>这是文件 星球大战：作为青年文化的科幻电影.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c16b914bda1265c22c828948f08ad43ff3b7d9ec" length="79853817" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>星际穿越：作为全球类型的科幻电影.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a555f46700f9542948f9c3d49e7bb5feed7dca90</link>
+      <guid>a555f46700f9542948f9c3d49e7bb5feed7dca90</guid>
+      <pubDate>Sat, 19 Jul 2025 05:53:51 GMT</pubDate>
+      <description>这是文件 星际穿越：作为全球类型的科幻电影.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a555f46700f9542948f9c3d49e7bb5feed7dca90" length="71342050" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>登陆月球：作为类型的科幻电影（上）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=13e7ca87cb560e0f83a66eaf258121d9128770ad</link>
+      <guid>13e7ca87cb560e0f83a66eaf258121d9128770ad</guid>
+      <pubDate>Sat, 19 Jul 2025 05:53:21 GMT</pubDate>
+      <description>这是文件 登陆月球：作为类型的科幻电影（上）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=13e7ca87cb560e0f83a66eaf258121d9128770ad" length="53100589" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
