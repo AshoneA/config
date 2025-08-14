@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>再见语言：戛纳电影节十年 2010-2019</title>
+    <link>http://zephyr.cyou:3003</link>
+    <description>此播客是 再见语言：戛纳电影节十年 2010-2019 的有声书合集。</description>
+    <language>zh-cn</language>
+    <itunes:summary>此播客是 再见语言：戛纳电影节十年 2010-2019 的有声书合集。</itunes:summary>
+    <itunes:author>反派影评</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://zephyr.cyou:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
+    <item>
+      <title>01.作者论“失宠与过誉”.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1605dab60b866bd7a5467e10846cfb9761350dfd</link>
+      <guid>1605dab60b866bd7a5467e10846cfb9761350dfd</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:04 GMT</pubDate>
+      <description>这是文件 01.作者论“失宠与过誉”.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1605dab60b866bd7a5467e10846cfb9761350dfd" length="56716918" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>02.作者论《华山论剑》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fb54b5950385cda3657a214e8d7f1b6feb1e4ace</link>
+      <guid>fb54b5950385cda3657a214e8d7f1b6feb1e4ace</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:43 GMT</pubDate>
+      <description>这是文件 02.作者论《华山论剑》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fb54b5950385cda3657a214e8d7f1b6feb1e4ace" length="57706640" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>03.行业观“搞个大新闻”.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=82e83244b1d77ac52abece359ecab8a3e5da4eee</link>
+      <guid>82e83244b1d77ac52abece359ecab8a3e5da4eee</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:29 GMT</pubDate>
+      <description>这是文件 03.行业观“搞个大新闻”.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=82e83244b1d77ac52abece359ecab8a3e5da4eee" length="50120268" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>04.行业观“影响焦虑”.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=564045d6aa37acf22cf89a7d9bacb265119cdf3f</link>
+      <guid>564045d6aa37acf22cf89a7d9bacb265119cdf3f</guid>
+      <pubDate>Sat, 02 Aug 2025 09:26:49 GMT</pubDate>
+      <description>这是文件 04.行业观“影响焦虑”.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=564045d6aa37acf22cf89a7d9bacb265119cdf3f" length="44512087" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>05.十佳片《潮起又潮落》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=27e1e7541024eb9576912cc90f9482f4532d90de</link>
+      <guid>27e1e7541024eb9576912cc90f9482f4532d90de</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:37 GMT</pubDate>
+      <description>这是文件 05.十佳片《潮起又潮落》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=27e1e7541024eb9576912cc90f9482f4532d90de" length="54991164" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>06.十佳片《我们的故事》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=80ef239da0d7d1a2597330de799d5dfec7a73d62</link>
+      <guid>80ef239da0d7d1a2597330de799d5dfec7a73d62</guid>
+      <pubDate>Sat, 02 Aug 2025 09:35:58 GMT</pubDate>
+      <description>这是文件 06.十佳片《我们的故事》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=80ef239da0d7d1a2597330de799d5dfec7a73d62" length="50561215" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
