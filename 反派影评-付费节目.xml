@@ -2,101 +2,101 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
   <channel>
     <title>付费节目</title>
-    <link>http://zephyr.cyou:3003</link>
+    <link>http://47.101.137.82:3003</link>
     <description>此播客是 付费节目 的有声书合集。</description>
     <language>zh-cn</language>
     <itunes:summary>此播客是 付费节目 的有声书合集。</itunes:summary>
     <itunes:author>反派影评</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://zephyr.cyou:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
+    <itunes:image href="http://47.101.137.82:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
     <item>
       <title>MA145：评-“电影产业第一案”（吴湛_波米）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=7adabd89d1dadb73e533047f976e334055fd4b14</link>
+      <link>http://47.101.137.82:3003/get-audio?id=7adabd89d1dadb73e533047f976e334055fd4b14</link>
       <guid>7adabd89d1dadb73e533047f976e334055fd4b14</guid>
       <pubDate>Wed, 13 Aug 2025 17:04:17 GMT</pubDate>
       <description>这是文件 MA145：评-“电影产业第一案”（吴湛_波米）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7adabd89d1dadb73e533047f976e334055fd4b14" length="62452341" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=7adabd89d1dadb73e533047f976e334055fd4b14" length="62452341" type="audio/mpeg"/>
     </item>
     <item>
       <title>书影002：《乡下人的悲歌》书评（6分）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=17e624e42e837fcbe4d79813b053efdc1f229840</link>
+      <link>http://47.101.137.82:3003/get-audio?id=17e624e42e837fcbe4d79813b053efdc1f229840</link>
       <guid>17e624e42e837fcbe4d79813b053efdc1f229840</guid>
       <pubDate>Tue, 15 Jul 2025 01:11:42 GMT</pubDate>
       <description>这是文件 书影002：《乡下人的悲歌》书评（6分）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=17e624e42e837fcbe4d79813b053efdc1f229840" length="106282048" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=17e624e42e837fcbe4d79813b053efdc1f229840" length="106282048" type="audio/mpeg"/>
     </item>
     <item>
       <title>书影003：《乡下人的悲歌》影评（6分）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=6098fe59c01dc590e710f77378edda45c2d8bc7a</link>
+      <link>http://47.101.137.82:3003/get-audio?id=6098fe59c01dc590e710f77378edda45c2d8bc7a</link>
       <guid>6098fe59c01dc590e710f77378edda45c2d8bc7a</guid>
       <pubDate>Tue, 15 Jul 2025 01:12:53 GMT</pubDate>
       <description>这是文件 书影003：《乡下人的悲歌》影评（6分）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6098fe59c01dc590e710f77378edda45c2d8bc7a" length="145566032" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=6098fe59c01dc590e710f77378edda45c2d8bc7a" length="145566032" type="audio/mpeg"/>
     </item>
     <item>
       <title>书影·对照记001：序言&amp;总论（蒋方舟-波米）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=59627d7cdf6b9c44309f439b0e40cbef5e86a0c8</link>
+      <link>http://47.101.137.82:3003/get-audio?id=59627d7cdf6b9c44309f439b0e40cbef5e86a0c8</link>
       <guid>59627d7cdf6b9c44309f439b0e40cbef5e86a0c8</guid>
       <pubDate>Tue, 15 Jul 2025 01:10:45 GMT</pubDate>
       <description>这是文件 书影·对照记001：序言&amp;总论（蒋方舟-波米）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=59627d7cdf6b9c44309f439b0e40cbef5e86a0c8" length="108950300" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=59627d7cdf6b9c44309f439b0e40cbef5e86a0c8" length="108950300" type="audio/mpeg"/>
     </item>
     <item>
       <title>毒草001：序言&amp;总论（杨超-黄非-波米）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=660ae9c1b19f0b3a128051272b3fa5b7d835608a</link>
+      <link>http://47.101.137.82:3003/get-audio?id=660ae9c1b19f0b3a128051272b3fa5b7d835608a</link>
       <guid>660ae9c1b19f0b3a128051272b3fa5b7d835608a</guid>
       <pubDate>Mon, 14 Jul 2025 17:11:47 GMT</pubDate>
       <description>这是文件 毒草001：序言&amp;总论（杨超-黄非-波米）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=660ae9c1b19f0b3a128051272b3fa5b7d835608a" length="82241872" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=660ae9c1b19f0b3a128051272b3fa5b7d835608a" length="82241872" type="audio/mpeg"/>
     </item>
     <item>
       <title>毒草集002上：《种族奇事》（5.5分，黄非-杨超-波米）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=e600a330355ea717290c09bc7feecb7961a074f7</link>
+      <link>http://47.101.137.82:3003/get-audio?id=e600a330355ea717290c09bc7feecb7961a074f7</link>
       <guid>e600a330355ea717290c09bc7feecb7961a074f7</guid>
       <pubDate>Mon, 14 Jul 2025 17:13:27 GMT</pubDate>
       <description>这是文件 毒草集002上：《种族奇事》（5.5分，黄非-杨超-波米）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e600a330355ea717290c09bc7feecb7961a074f7" length="101546153" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=e600a330355ea717290c09bc7feecb7961a074f7" length="101546153" type="audio/mpeg"/>
     </item>
     <item>
       <title>毒草集002下：dei本质与“每日电讯”影业（黄非-杨超-波米）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=ac0122e7480770686c1c8e4e52039ce826bc97ef</link>
+      <link>http://47.101.137.82:3003/get-audio?id=ac0122e7480770686c1c8e4e52039ce826bc97ef</link>
       <guid>ac0122e7480770686c1c8e4e52039ce826bc97ef</guid>
       <pubDate>Sat, 19 Jul 2025 03:35:49 GMT</pubDate>
       <description>这是文件 毒草集002下：dei本质与“每日电讯”影业（黄非-杨超-波米）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ac0122e7480770686c1c8e4e52039ce826bc97ef" length="81885353" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=ac0122e7480770686c1c8e4e52039ce826bc97ef" length="81885353" type="audio/mpeg"/>
     </item>
     <item>
       <title>毒草集序-1.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=9dfca82371330c34a20f6e1b2d0b36d2c3c017a9</link>
+      <link>http://47.101.137.82:3003/get-audio?id=9dfca82371330c34a20f6e1b2d0b36d2c3c017a9</link>
       <guid>9dfca82371330c34a20f6e1b2d0b36d2c3c017a9</guid>
       <pubDate>Mon, 14 Jul 2025 17:10:17 GMT</pubDate>
       <description>这是文件 毒草集序-1.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9dfca82371330c34a20f6e1b2d0b36d2c3c017a9" length="13192098" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=9dfca82371330c34a20f6e1b2d0b36d2c3c017a9" length="13192098" type="audio/mpeg"/>
     </item>
     <item>
       <title>毒草集序-2.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=a177933642c156f081e72a5f6c7065cdbd422d22</link>
+      <link>http://47.101.137.82:3003/get-audio?id=a177933642c156f081e72a5f6c7065cdbd422d22</link>
       <guid>a177933642c156f081e72a5f6c7065cdbd422d22</guid>
       <pubDate>Mon, 14 Jul 2025 17:05:29 GMT</pubDate>
       <description>这是文件 毒草集序-2.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a177933642c156f081e72a5f6c7065cdbd422d22" length="53971113" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=a177933642c156f081e72a5f6c7065cdbd422d22" length="53971113" type="audio/mpeg"/>
     </item>
     <item>
       <title>毒草集序.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=b1c9ccc19240ce6cc7f95d2980e03e300300877b</link>
+      <link>http://47.101.137.82:3003/get-audio?id=b1c9ccc19240ce6cc7f95d2980e03e300300877b</link>
       <guid>b1c9ccc19240ce6cc7f95d2980e03e300300877b</guid>
       <pubDate>Mon, 14 Jul 2025 17:05:31 GMT</pubDate>
       <description>这是文件 毒草集序.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b1c9ccc19240ce6cc7f95d2980e03e300300877b" length="3116763" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=b1c9ccc19240ce6cc7f95d2980e03e300300877b" length="3116763" type="audio/mpeg"/>
     </item>
     <item>
       <title>滨口龙介剧情长片回顾（2003-2023）.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=5fe968db7ed0f9dcb9b9d21a82795a6762d88673</link>
+      <link>http://47.101.137.82:3003/get-audio?id=5fe968db7ed0f9dcb9b9d21a82795a6762d88673</link>
       <guid>5fe968db7ed0f9dcb9b9d21a82795a6762d88673</guid>
       <pubDate>Sat, 02 Aug 2025 06:19:19 GMT</pubDate>
       <description>这是文件 滨口龙介剧情长片回顾（2003-2023）.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=5fe968db7ed0f9dcb9b9d21a82795a6762d88673" length="10599" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=5fe968db7ed0f9dcb9b9d21a82795a6762d88673" length="10599" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
