@@ -1,0 +1,2558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>耳旁风</title>
+    <link>http://zephyr.cyou:3003</link>
+    <description>此播客是 耳旁风 的有声书合集。</description>
+    <language>zh-cn</language>
+    <itunes:summary>此播客是 耳旁风 的有声书合集。</itunes:summary>
+    <itunes:author>反派影评</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://zephyr.cyou:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
+    <item>
+      <title>ER001：《大唐玄奘》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c89a262c8eb95c1973ef16bc6fd755463ad5bb86</link>
+      <guid>c89a262c8eb95c1973ef16bc6fd755463ad5bb86</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:57 GMT</pubDate>
+      <description>这是文件 ER001：《大唐玄奘》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c89a262c8eb95c1973ef16bc6fd755463ad5bb86" length="958370" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER007：《独立日2》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=eacef49439dd76be1bb56c89f6fe88c35607fd60</link>
+      <guid>eacef49439dd76be1bb56c89f6fe88c35607fd60</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:59 GMT</pubDate>
+      <description>这是文件 ER007：《独立日2》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=eacef49439dd76be1bb56c89f6fe88c35607fd60" length="964656" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER013：《星际迷航13：超越星辰》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f4d1c0cfedce00d967f3023f7db6b9a38c42467f</link>
+      <guid>f4d1c0cfedce00d967f3023f7db6b9a38c42467f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:01 GMT</pubDate>
+      <description>这是文件 ER013：《星际迷航13：超越星辰》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f4d1c0cfedce00d967f3023f7db6b9a38c42467f" length="955043" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER029：《健忘村》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=72fe4bd950b6252fec668e87fc70c20ad6bc225f</link>
+      <guid>72fe4bd950b6252fec668e87fc70c20ad6bc225f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:08 GMT</pubDate>
+      <description>这是文件 ER029：《健忘村》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=72fe4bd950b6252fec668e87fc70c20ad6bc225f" length="3229378" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER030：《西游伏妖篇》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9578970d214ef2eb082ba01cfb5c8acd0b132fac</link>
+      <guid>9578970d214ef2eb082ba01cfb5c8acd0b132fac</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:08 GMT</pubDate>
+      <description>这是文件 ER030：《西游伏妖篇》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9578970d214ef2eb082ba01cfb5c8acd0b132fac" length="2669929" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER031：《乘风破浪》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=244182417a91e037e543e49964816517cfca98d3</link>
+      <guid>244182417a91e037e543e49964816517cfca98d3</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:10 GMT</pubDate>
+      <description>这是文件 ER031：《乘风破浪》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=244182417a91e037e543e49964816517cfca98d3" length="2604414" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER032：《功夫瑜伽》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6a4db4862104eec8cb7c89c6da0b153085d47b15</link>
+      <guid>6a4db4862104eec8cb7c89c6da0b153085d47b15</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:11 GMT</pubDate>
+      <description>这是文件 ER032：《功夫瑜伽》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6a4db4862104eec8cb7c89c6da0b153085d47b15" length="3491637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER033：《大闹天竺》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ccb0149c3e43dba110c4348f332956bc6507facd</link>
+      <guid>ccb0149c3e43dba110c4348f332956bc6507facd</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:11 GMT</pubDate>
+      <description>这是文件 ER033：《大闹天竺》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ccb0149c3e43dba110c4348f332956bc6507facd" length="3676793" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER034：《了不起的菲丽西》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d09db5f06212823faa0da25fb20c2d248998ea2b</link>
+      <guid>d09db5f06212823faa0da25fb20c2d248998ea2b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:12 GMT</pubDate>
+      <description>这是文件 ER034：《了不起的菲丽西》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d09db5f06212823faa0da25fb20c2d248998ea2b" length="2182589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER035：《极限特工3》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=eced9bcee3ec695b73c547c3857c67a6f57b59fe</link>
+      <guid>eced9bcee3ec695b73c547c3857c67a6f57b59fe</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:12 GMT</pubDate>
+      <description>这是文件 ER035：《极限特工3》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=eced9bcee3ec695b73c547c3857c67a6f57b59fe" length="2363565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER036：《决战食神》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=543b5e42d34c57d2d745af9ff017b07d50169a6e</link>
+      <guid>543b5e42d34c57d2d745af9ff017b07d50169a6e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:13 GMT</pubDate>
+      <description>这是文件 ER036：《决战食神》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=543b5e42d34c57d2d745af9ff017b07d50169a6e" length="1902556" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER037：《合约男女》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=900d6df38894f63fdb210983690962c6d05325c2</link>
+      <guid>900d6df38894f63fdb210983690962c6d05325c2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:13 GMT</pubDate>
+      <description>这是文件 ER037：《合约男女》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=900d6df38894f63fdb210983690962c6d05325c2" length="1245524" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER038：《欢乐好声音》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b5ee5b56b274dd50a225c0a48c979fd320b85025</link>
+      <guid>b5ee5b56b274dd50a225c0a48c979fd320b85025</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:14 GMT</pubDate>
+      <description>这是文件 ER038：《欢乐好声音》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b5ee5b56b274dd50a225c0a48c979fd320b85025" length="2277883" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER039：《刺客信条》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c76fc816898942d6e25300e9fca8e0434f93c3c7</link>
+      <guid>c76fc816898942d6e25300e9fca8e0434f93c3c7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:14 GMT</pubDate>
+      <description>这是文件 ER039：《刺客信条》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c76fc816898942d6e25300e9fca8e0434f93c3c7" length="1701936" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER041：《最终幻想15》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d3f938c6390dfb5cffbc0dbc6703fa24fd89a543</link>
+      <guid>d3f938c6390dfb5cffbc0dbc6703fa24fd89a543</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:16 GMT</pubDate>
+      <description>这是文件 ER041：《最终幻想15》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d3f938c6390dfb5cffbc0dbc6703fa24fd89a543" length="2564812" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER043：《美女与野兽》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=5b0384568f7344eaadc0330292209a64b6d7bbed</link>
+      <guid>5b0384568f7344eaadc0330292209a64b6d7bbed</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:17 GMT</pubDate>
+      <description>这是文件 ER043：《美女与野兽》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=5b0384568f7344eaadc0330292209a64b6d7bbed" length="3517341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER045：《嫌疑人X的献身》（国版）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ef73a1f0df7a0e9b2e965e76d4ea509db6bd3fdf</link>
+      <guid>ef73a1f0df7a0e9b2e965e76d4ea509db6bd3fdf</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:18 GMT</pubDate>
+      <description>这是文件 ER045：《嫌疑人X的献身》（国版）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ef73a1f0df7a0e9b2e965e76d4ea509db6bd3fdf" length="5947157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER046：《非凡任务》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8c7e37830bd85f185f88374fd46dcfb7849fbe57</link>
+      <guid>8c7e37830bd85f185f88374fd46dcfb7849fbe57</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:18 GMT</pubDate>
+      <description>这是文件 ER046：《非凡任务》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8c7e37830bd85f185f88374fd46dcfb7849fbe57" length="2044871" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER047：《一念无明》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=932200b1aea4db147f52b6b4a4ece0be4169569b</link>
+      <guid>932200b1aea4db147f52b6b4a4ece0be4169569b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:19 GMT</pubDate>
+      <description>这是文件 ER047：《一念无明》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=932200b1aea4db147f52b6b4a4ece0be4169569b" length="3829766" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER048：《蓝精灵3》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d88694b7092a6906b362f96aea984b2f314ee04d</link>
+      <guid>d88694b7092a6906b362f96aea984b2f314ee04d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:19 GMT</pubDate>
+      <description>这是文件 ER048：《蓝精灵3》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d88694b7092a6906b362f96aea984b2f314ee04d" length="1907572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER049：《盲·道》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d078cc1be058767df6d44043af079158a7ef6355</link>
+      <guid>d078cc1be058767df6d44043af079158a7ef6355</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:20 GMT</pubDate>
+      <description>这是文件 ER049：《盲·道》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d078cc1be058767df6d44043af079158a7ef6355" length="3380251" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER050：《记忆大师》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3cf407ac85e48129d1a34f9d500b53d19ca70ae6</link>
+      <guid>3cf407ac85e48129d1a34f9d500b53d19ca70ae6</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:20 GMT</pubDate>
+      <description>这是文件 ER050：《记忆大师》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3cf407ac85e48129d1a34f9d500b53d19ca70ae6" length="4141772" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER051：《喜欢你》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=eb7a162e8764a908b317f98719654e9d353d89e5</link>
+      <guid>eb7a162e8764a908b317f98719654e9d353d89e5</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:21 GMT</pubDate>
+      <description>这是文件 ER051：《喜欢你》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=eb7a162e8764a908b317f98719654e9d353d89e5" length="2846935" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER052：《春娇救志明》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4b08435823eb5497681aea47cf31939fe320a646</link>
+      <guid>4b08435823eb5497681aea47cf31939fe320a646</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:21 GMT</pubDate>
+      <description>这是文件 ER052：《春娇救志明》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4b08435823eb5497681aea47cf31939fe320a646" length="3187572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER053：《拆弹·专家1》（客串：海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b0c953b6633f08b1a7541dc341bf1f87c6fe4af0</link>
+      <guid>b0c953b6633f08b1a7541dc341bf1f87c6fe4af0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:22 GMT</pubDate>
+      <description>这是文件 ER053：《拆弹·专家1》（客串：海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b0c953b6633f08b1a7541dc341bf1f87c6fe4af0" length="6025332" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER054：《提着心吊着胆》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ccb75fdbee2c89fe0a1f6cba8b282e3f219cf864</link>
+      <guid>ccb75fdbee2c89fe0a1f6cba8b282e3f219cf864</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:22 GMT</pubDate>
+      <description>这是文件 ER054：《提着心吊着胆》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ccb75fdbee2c89fe0a1f6cba8b282e3f219cf864" length="5581015" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER056：《当怪物来敲门》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a82b2765d2b08ef217d9d821302e6bd654d4b67b</link>
+      <guid>a82b2765d2b08ef217d9d821302e6bd654d4b67b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:24 GMT</pubDate>
+      <description>这是文件 ER056：《当怪物来敲门》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a82b2765d2b08ef217d9d821302e6bd654d4b67b" length="6386422" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER057：麻烦家族.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4f40d88f705b5cebec8168a44577b268f31d8ccc</link>
+      <guid>4f40d88f705b5cebec8168a44577b268f31d8ccc</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:25 GMT</pubDate>
+      <description>这是文件 ER057：麻烦家族.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4f40d88f705b5cebec8168a44577b268f31d8ccc" length="5660009" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER058：《亚瑟王：斗兽争霸》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a0d6d99edf114404ccb10010a55e0d59ec2e626a</link>
+      <guid>a0d6d99edf114404ccb10010a55e0d59ec2e626a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:26 GMT</pubDate>
+      <description>这是文件 ER058：《亚瑟王：斗兽争霸》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a0d6d99edf114404ccb10010a55e0d59ec2e626a" length="7651585" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER059：《超凡战队》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d45c6ad239ac08b46d99e952bd32737f8c2e80cd</link>
+      <guid>d45c6ad239ac08b46d99e952bd32737f8c2e80cd</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:26 GMT</pubDate>
+      <description>这是文件 ER059：《超凡战队》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d45c6ad239ac08b46d99e952bd32737f8c2e80cd" length="5680071" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER060：《毒。诫》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9ed7347fda0052107cca89535ae4ce7529323064</link>
+      <guid>9ed7347fda0052107cca89535ae4ce7529323064</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:27 GMT</pubDate>
+      <description>这是文件 ER060：《毒。诫》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9ed7347fda0052107cca89535ae4ce7529323064" length="6486315" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER061：《异星觉醒》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0abc3339937ce6bf5f73e5f7f7edcd98afb2f137</link>
+      <guid>0abc3339937ce6bf5f73e5f7f7edcd98afb2f137</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:27 GMT</pubDate>
+      <description>这是文件 ER061：《异星觉醒》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0abc3339937ce6bf5f73e5f7f7edcd98afb2f137" length="8135999" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER062：《加勒比海盗5》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6dd29bc383d0ee1f68af0ab03eb120cc30876621</link>
+      <guid>6dd29bc383d0ee1f68af0ab03eb120cc30876621</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:28 GMT</pubDate>
+      <description>这是文件 ER062：《加勒比海盗5》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6dd29bc383d0ee1f68af0ab03eb120cc30876621" length="6436159" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER063：荡寇风云.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=353c470f973d75913f410ab8f3b328f73cc6c3cb</link>
+      <guid>353c470f973d75913f410ab8f3b328f73cc6c3cb</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:28 GMT</pubDate>
+      <description>这是文件 ER063：荡寇风云.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=353c470f973d75913f410ab8f3b328f73cc6c3cb" length="3764355" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER064：《神奇女侠》（客串：隐形）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f82bd3d55c603e0b8f4445be348bd882c5aafdba</link>
+      <guid>f82bd3d55c603e0b8f4445be348bd882c5aafdba</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:29 GMT</pubDate>
+      <description>这是文件 ER064：《神奇女侠》（客串：隐形）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f82bd3d55c603e0b8f4445be348bd882c5aafdba" length="4416346" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER065：《哆啦A梦：大雄的南极冰冰凉大冒险》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a35105f1c12053892c27544da0b2a68d0a5f1d1a</link>
+      <guid>a35105f1c12053892c27544da0b2a68d0a5f1d1a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:29 GMT</pubDate>
+      <description>这是文件 ER065：《哆啦A梦：大雄的南极冰冰凉大冒险》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a35105f1c12053892c27544da0b2a68d0a5f1d1a" length="2301054" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER066：《29+1》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c25132ad4eafe01bd6187488c2e93d5aaefe601b</link>
+      <guid>c25132ad4eafe01bd6187488c2e93d5aaefe601b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:30 GMT</pubDate>
+      <description>这是文件 ER066：《29+1》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c25132ad4eafe01bd6187488c2e93d5aaefe601b" length="3161867" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER067：我心雀跃.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b8b324e8d47a2fd65a680d16cd1f041a69543732</link>
+      <guid>b8b324e8d47a2fd65a680d16cd1f041a69543732</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:30 GMT</pubDate>
+      <description>这是文件 ER067：我心雀跃.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b8b324e8d47a2fd65a680d16cd1f041a69543732" length="3532806" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER068：新木乃伊.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a6982c527181279373d4ab1ad30ccc05ad3dff15</link>
+      <guid>a6982c527181279373d4ab1ad30ccc05ad3dff15</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:31 GMT</pubDate>
+      <description>这是文件 ER068：新木乃伊.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a6982c527181279373d4ab1ad30ccc05ad3dff15" length="3741786" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER069：《52赫兹，我爱你》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8d23bb1472ad94a0a195a3ae12adb2160178655a</link>
+      <guid>8d23bb1472ad94a0a195a3ae12adb2160178655a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:31 GMT</pubDate>
+      <description>这是文件 ER069：《52赫兹，我爱你》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8d23bb1472ad94a0a195a3ae12adb2160178655a" length="6645975" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER070：冈仁波齐.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=663490ef799fd9123f068dede1c7862505709bdb</link>
+      <guid>663490ef799fd9123f068dede1c7862505709bdb</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:32 GMT</pubDate>
+      <description>这是文件 ER070：冈仁波齐.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=663490ef799fd9123f068dede1c7862505709bdb" length="3328842" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER071：生吃.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e047a33a66f5bd5d7743964c275a8268a17bfe22</link>
+      <guid>e047a33a66f5bd5d7743964c275a8268a17bfe22</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:33 GMT</pubDate>
+      <description>这是文件 ER071：生吃.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e047a33a66f5bd5d7743964c275a8268a17bfe22" length="9314644" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER072：《原谅他77次》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=276eb1771e2838ac4a955371255d463032197d3f</link>
+      <guid>276eb1771e2838ac4a955371255d463032197d3f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:33 GMT</pubDate>
+      <description>这是文件 ER072：《原谅他77次》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=276eb1771e2838ac4a955371255d463032197d3f" length="7353162" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER076：绝世高手.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=290b5c1f11bd16f37de263ae6d3cdc4bb55bb5c0</link>
+      <guid>290b5c1f11bd16f37de263ae6d3cdc4bb55bb5c0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:36 GMT</pubDate>
+      <description>这是文件 ER076：绝世高手.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=290b5c1f11bd16f37de263ae6d3cdc4bb55bb5c0" length="5782471" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER078：京城81号2.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=cf45d6f906b42fc2a857978c017f66c48c747679</link>
+      <guid>cf45d6f906b42fc2a857978c017f66c48c747679</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:37 GMT</pubDate>
+      <description>这是文件 ER078：京城81号2.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=cf45d6f906b42fc2a857978c017f66c48c747679" length="5076538" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER079：大护法.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=444c5ac40b3d648dcbb1616638135e1ab7892a02</link>
+      <guid>444c5ac40b3d648dcbb1616638135e1ab7892a02</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:37 GMT</pubDate>
+      <description>这是文件 ER079：大护法.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=444c5ac40b3d648dcbb1616638135e1ab7892a02" length="8601606" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER081：深夜食堂2.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2691f584ea11e1e5586362a3a60b779a7a5b9f1d</link>
+      <guid>2691f584ea11e1e5586362a3a60b779a7a5b9f1d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:38 GMT</pubDate>
+      <description>这是文件 ER081：深夜食堂2.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2691f584ea11e1e5586362a3a60b779a7a5b9f1d" length="5181028" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER082：闪光少女.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=14d119c3ca3a2fd1bc0c3ce5d9cdf312b3922217</link>
+      <guid>14d119c3ca3a2fd1bc0c3ce5d9cdf312b3922217</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:39 GMT</pubDate>
+      <description>这是文件 ER082：闪光少女.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=14d119c3ca3a2fd1bc0c3ce5d9cdf312b3922217" length="7266226" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER083：《父子雄兵》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9e662d2e9d11f1ec3c3c00777db986aa6d6e49bb</link>
+      <guid>9e662d2e9d11f1ec3c3c00777db986aa6d6e49bb</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:39 GMT</pubDate>
+      <description>这是文件 ER083：《父子雄兵》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9e662d2e9d11f1ec3c3c00777db986aa6d6e49bb" length="3449423" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER084：建军大业.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=5115a04e765c3025ef928975a50a73dc04308a46</link>
+      <guid>5115a04e765c3025ef928975a50a73dc04308a46</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:40 GMT</pubDate>
+      <description>这是文件 ER084：建军大业.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=5115a04e765c3025ef928975a50a73dc04308a46" length="7705083" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER085：我是马布里.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3a90c385f444d6fc55376fe7d5eee6d2ad523e73</link>
+      <guid>3a90c385f444d6fc55376fe7d5eee6d2ad523e73</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:40 GMT</pubDate>
+      <description>这是文件 ER085：我是马布里.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3a90c385f444d6fc55376fe7d5eee6d2ad523e73" length="7007092" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER086：《三生三世十里桃花》（0分，主播：小猱）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0239e02a35dbd81e69e2c7c46bcfb8363bc9f76a</link>
+      <guid>0239e02a35dbd81e69e2c7c46bcfb8363bc9f76a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:41 GMT</pubDate>
+      <description>这是文件 ER086：《三生三世十里桃花》（0分，主播：小猱）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0239e02a35dbd81e69e2c7c46bcfb8363bc9f76a" length="3810540" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER087：心理罪.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a8d6693f99f5985d7aa976434c539a897d659319</link>
+      <guid>a8d6693f99f5985d7aa976434c539a897d659319</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:41 GMT</pubDate>
+      <description>这是文件 ER087：心理罪.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a8d6693f99f5985d7aa976434c539a897d659319" length="5289697" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER088：《侠盗联盟》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0bbd9dfd626b947210258faba1ad108cd1538d51</link>
+      <guid>0bbd9dfd626b947210258faba1ad108cd1538d51</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:42 GMT</pubDate>
+      <description>这是文件 ER088：《侠盗联盟》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0bbd9dfd626b947210258faba1ad108cd1538d51" length="3450677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER089：《破·局》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6adff64765f6367d7dcd21e82681a89b08c7b013</link>
+      <guid>6adff64765f6367d7dcd21e82681a89b08c7b013</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:42 GMT</pubDate>
+      <description>这是文件 ER089：《破·局》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6adff64765f6367d7dcd21e82681a89b08c7b013" length="5553848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER090：《杀破狼·贪狼》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=502cc54f26c770383f82fb2a3397e919ef5ea8ae</link>
+      <guid>502cc54f26c770383f82fb2a3397e919ef5ea8ae</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:43 GMT</pubDate>
+      <description>这是文件 ER090：《杀破狼·贪狼》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=502cc54f26c770383f82fb2a3397e919ef5ea8ae" length="6593312" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER091：《十万个冷笑话2》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=939048c9c6a9239d47f72091ee452f41cbf41627</link>
+      <guid>939048c9c6a9239d47f72091ee452f41cbf41627</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:43 GMT</pubDate>
+      <description>这是文件 ER091：《十万个冷笑话2》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=939048c9c6a9239d47f72091ee452f41cbf41627" length="2787376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER094：《赛车总动员3：极限挑战》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8e3a53907605044e018349049545bd1d72510a8d</link>
+      <guid>8e3a53907605044e018349049545bd1d72510a8d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:45 GMT</pubDate>
+      <description>这是文件 ER094：《赛车总动员3：极限挑战》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8e3a53907605044e018349049545bd1d72510a8d" length="7239477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER096：失眠.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4c708868575c74071fd0b23e5fd6278f954296f4</link>
+      <guid>4c708868575c74071fd0b23e5fd6278f954296f4</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:46 GMT</pubDate>
+      <description>这是文件 ER096：失眠.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4c708868575c74071fd0b23e5fd6278f954296f4" length="4274475" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER097：《惊天解密》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0e49de441a10f97774a41bbc07579ec1cc5b6a82</link>
+      <guid>0e49de441a10f97774a41bbc07579ec1cc5b6a82</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:46 GMT</pubDate>
+      <description>这是文件 ER097：《惊天解密》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0e49de441a10f97774a41bbc07579ec1cc5b6a82" length="5848509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER098：《鬼魅浮生》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ae873524a4e88e5342dec9f448decbea13b1aaba</link>
+      <guid>ae873524a4e88e5342dec9f448decbea13b1aaba</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:47 GMT</pubDate>
+      <description>这是文件 ER098：《鬼魅浮生》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ae873524a4e88e5342dec9f448decbea13b1aaba" length="2793645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER099：《军舰岛》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1b678549e73c69dec7c3253026ce53d37f34d38e</link>
+      <guid>1b678549e73c69dec7c3253026ce53d37f34d38e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:48 GMT</pubDate>
+      <description>这是文件 ER099：《军舰岛》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1b678549e73c69dec7c3253026ce53d37f34d38e" length="6898004" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER100：《缝纫机乐队》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b7ceb69efa1ca7ec666522e29a93a76550426a7b</link>
+      <guid>b7ceb69efa1ca7ec666522e29a93a76550426a7b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:48 GMT</pubDate>
+      <description>这是文件 ER100：《缝纫机乐队》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b7ceb69efa1ca7ec666522e29a93a76550426a7b" length="6619643" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER105：《雷神3：诸神黄昏》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e4d4322dc89a40f4f02d1c508d1309ff31522970</link>
+      <guid>e4d4322dc89a40f4f02d1c508d1309ff31522970</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:52 GMT</pubDate>
+      <description>这是文件 ER105：《雷神3：诸神黄昏》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e4d4322dc89a40f4f02d1c508d1309ff31522970" length="8247595" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER106：《东方快车谋杀案》（2017版）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=af996194fea85959b5003b8023752bdd33557c95</link>
+      <guid>af996194fea85959b5003b8023752bdd33557c95</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:52 GMT</pubDate>
+      <description>这是文件 ER106：《东方快车谋杀案》（2017版）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=af996194fea85959b5003b8023752bdd33557c95" length="4870066" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER110：《追捕》（2017版）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=be8619272d3375355db4f349a14ffc4bde68d8a7</link>
+      <guid>be8619272d3375355db4f349a14ffc4bde68d8a7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:55 GMT</pubDate>
+      <description>这是文件 ER110：《追捕》（2017版）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=be8619272d3375355db4f349a14ffc4bde68d8a7" length="6110569" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER112：《帕丁顿熊2》（主播：法兰西胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=314c5e748f8377446a344df9e02ec95dad7faf9f</link>
+      <guid>314c5e748f8377446a344df9e02ec95dad7faf9f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:56 GMT</pubDate>
+      <description>这是文件 ER112：《帕丁顿熊2》（主播：法兰西胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=314c5e748f8377446a344df9e02ec95dad7faf9f" length="8294406" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER113：《至爱梵高·星空之谜》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9b46400de9db34b594c576f9cb2a22e27567ee1c</link>
+      <guid>9b46400de9db34b594c576f9cb2a22e27567ee1c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:57 GMT</pubDate>
+      <description>这是文件 ER113：《至爱梵高·星空之谜》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9b46400de9db34b594c576f9cb2a22e27567ee1c" length="5748617" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER126：《伯德小姐》（客串：田野、小猱）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7f4713951528c6d128e1f086e68b0fbd4057d4ff</link>
+      <guid>7f4713951528c6d128e1f086e68b0fbd4057d4ff</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:04 GMT</pubDate>
+      <description>这是文件 ER126：《伯德小姐》（客串：田野、小猱）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7f4713951528c6d128e1f086e68b0fbd4057d4ff" length="5290115" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER129：捉妖记2.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e33a71e5fc0489e55f87775e9a3281f2600e84e7</link>
+      <guid>e33a71e5fc0489e55f87775e9a3281f2600e84e7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:06 GMT</pubDate>
+      <description>这是文件 ER129：捉妖记2.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e33a71e5fc0489e55f87775e9a3281f2600e84e7" length="4913534" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER130：《唐人街探案2》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=686c0eb6a381a7e443dabcadea61423ffb4a6ea5</link>
+      <guid>686c0eb6a381a7e443dabcadea61423ffb4a6ea5</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:07 GMT</pubDate>
+      <description>这是文件 ER130：《唐人街探案2》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=686c0eb6a381a7e443dabcadea61423ffb4a6ea5" length="6258527" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER131：爱在记忆消逝前.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=585671a47fa811d514d95aa7f6cf04c777212891</link>
+      <guid>585671a47fa811d514d95aa7f6cf04c777212891</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:08 GMT</pubDate>
+      <description>这是文件 ER131：爱在记忆消逝前.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=585671a47fa811d514d95aa7f6cf04c777212891" length="5915800" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER132：黑豹.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ee514af766176acebc8d3d28feb0cb2810ec212a</link>
+      <guid>ee514af766176acebc8d3d28feb0cb2810ec212a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:08 GMT</pubDate>
+      <description>这是文件 ER132：黑豹.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ee514af766176acebc8d3d28feb0cb2810ec212a" length="4690971" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER133：恋爱回旋.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=de9478acb8c66e86013b32a552c347e32b281072</link>
+      <guid>de9478acb8c66e86013b32a552c347e32b281072</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:09 GMT</pubDate>
+      <description>这是文件 ER133：恋爱回旋.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=de9478acb8c66e86013b32a552c347e32b281072" length="3017253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER134：大坏狐狸的故事.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a2b3b426b90f92cbc0dbb49959abd73c532e9426</link>
+      <guid>a2b3b426b90f92cbc0dbb49959abd73c532e9426</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:09 GMT</pubDate>
+      <description>这是文件 ER134：大坏狐狸的故事.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a2b3b426b90f92cbc0dbb49959abd73c532e9426" length="3329469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER135：古墓丽影：源起之战.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f45caa48e4adadbb2e6bc413ca0563282b3be42c</link>
+      <guid>f45caa48e4adadbb2e6bc413ca0563282b3be42c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:10 GMT</pubDate>
+      <description>这是文件 ER135：古墓丽影：源起之战.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f45caa48e4adadbb2e6bc413ca0563282b3be42c" length="3729038" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER136：《环太平洋2：雷霆再起》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a415f0bc992f6d0a75cb883369a01391f1599982</link>
+      <guid>a415f0bc992f6d0a75cb883369a01391f1599982</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:10 GMT</pubDate>
+      <description>这是文件 ER136：《环太平洋2：雷霆再起》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a415f0bc992f6d0a75cb883369a01391f1599982" length="4839973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER137：第三度嫌疑人.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3cb9efe3b2defe0094c52e0effaf2051f3b2fd72</link>
+      <guid>3cb9efe3b2defe0094c52e0effaf2051f3b2fd72</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:11 GMT</pubDate>
+      <description>这是文件 ER137：第三度嫌疑人.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3cb9efe3b2defe0094c52e0effaf2051f3b2fd72" length="4035611" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER138：《通勤营救》（客串：法兰西胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7d50a6d2fbd5b3cbadbd9994e8adfc6103c33782</link>
+      <guid>7d50a6d2fbd5b3cbadbd9994e8adfc6103c33782</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:11 GMT</pubDate>
+      <description>这是文件 ER138：《通勤营救》（客串：法兰西胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7d50a6d2fbd5b3cbadbd9994e8adfc6103c33782" length="5476107" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER139：起跑线.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8a5f687be9ba72970a4cdf2c462ae658b3f3e449</link>
+      <guid>8a5f687be9ba72970a4cdf2c462ae658b3f3e449</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:12 GMT</pubDate>
+      <description>这是文件 ER139：起跑线.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8a5f687be9ba72970a4cdf2c462ae658b3f3e449" length="4260473" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER140：狂暴巨兽.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=bea42fe74814d2779e48c5896dfd99351c2a35ac</link>
+      <guid>bea42fe74814d2779e48c5896dfd99351c2a35ac</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:12 GMT</pubDate>
+      <description>这是文件 ER140：狂暴巨兽.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bea42fe74814d2779e48c5896dfd99351c2a35ac" length="1137848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER141：脱单告急.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=17538b2dd79a5f45442077cf6faedbcdd6f29f4a</link>
+      <guid>17538b2dd79a5f45442077cf6faedbcdd6f29f4a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:13 GMT</pubDate>
+      <description>这是文件 ER141：脱单告急.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=17538b2dd79a5f45442077cf6faedbcdd6f29f4a" length="2123239" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER142：后来的我们.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=63c4c0ba303f80dffd365e8a0c9315d93d91509d</link>
+      <guid>63c4c0ba303f80dffd365e8a0c9315d93d91509d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:13 GMT</pubDate>
+      <description>这是文件 ER142：后来的我们.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=63c4c0ba303f80dffd365e8a0c9315d93d91509d" length="1547082" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER143：幕后玩家.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=923ee1b1770d3bbd426cb4fcf294efb252b4fa3d</link>
+      <guid>923ee1b1770d3bbd426cb4fcf294efb252b4fa3d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:14 GMT</pubDate>
+      <description>这是文件 ER143：幕后玩家.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=923ee1b1770d3bbd426cb4fcf294efb252b4fa3d" length="4584182" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER144：《昼颜》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=56b4411edb4bdbcc16317c61b52f0fa345117d68</link>
+      <guid>56b4411edb4bdbcc16317c61b52f0fa345117d68</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:14 GMT</pubDate>
+      <description>这是文件 ER144：《昼颜》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=56b4411edb4bdbcc16317c61b52f0fa345117d68" length="1071079" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER145：《路过未来》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a39271e749cc24da5f55d1b2f8d88af69e2ce7f8</link>
+      <guid>a39271e749cc24da5f55d1b2f8d88af69e2ce7f8</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:14 GMT</pubDate>
+      <description>这是文件 ER145：《路过未来》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a39271e749cc24da5f55d1b2f8d88af69e2ce7f8" length="4514227" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER146：《超时空同居》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=387046e59104b43d07a370d9c036452b97daa90b</link>
+      <guid>387046e59104b43d07a370d9c036452b97daa90b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:15 GMT</pubDate>
+      <description>这是文件 ER146：《超时空同居》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=387046e59104b43d07a370d9c036452b97daa90b" length="2179193" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER147：《命运速递》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3bf7314f03ca08d074f1b501ee701580f30c0f51</link>
+      <guid>3bf7314f03ca08d074f1b501ee701580f30c0f51</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:15 GMT</pubDate>
+      <description>这是文件 ER147：《命运速递》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3bf7314f03ca08d074f1b501ee701580f30c0f51" length="1704130" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER148：《西小河的夏天》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f468fa7673c2ab60098244b2aacfa9a8989f81c5</link>
+      <guid>f468fa7673c2ab60098244b2aacfa9a8989f81c5</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:16 GMT</pubDate>
+      <description>这是文件 ER148：《西小河的夏天》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f468fa7673c2ab60098244b2aacfa9a8989f81c5" length="2216653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER149：《哆啦A梦：大雄的金银岛》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fa71ac9dbae38ce3fa13749fd843f358941db2b9</link>
+      <guid>fa71ac9dbae38ce3fa13749fd843f358941db2b9</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:16 GMT</pubDate>
+      <description>这是文件 ER149：《哆啦A梦：大雄的金银岛》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fa71ac9dbae38ce3fa13749fd843f358941db2b9" length="1553168" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER150：《厕所英雄》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b1cd4fbaf3c7969b9ae1f4147a3f4591a3c5b96a</link>
+      <guid>b1cd4fbaf3c7969b9ae1f4147a3f4591a3c5b96a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:17 GMT</pubDate>
+      <description>这是文件 ER150：《厕所英雄》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b1cd4fbaf3c7969b9ae1f4147a3f4591a3c5b96a" length="2287079" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER151：《猛龙怪客》（虎胆追凶）&amp;《深海越狱》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=97da0d4aed1faf130a66ec457bc3ef24434ffad7</link>
+      <guid>97da0d4aed1faf130a66ec457bc3ef24434ffad7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:17 GMT</pubDate>
+      <description>这是文件 ER151：《猛龙怪客》（虎胆追凶）&amp;《深海越狱》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=97da0d4aed1faf130a66ec457bc3ef24434ffad7" length="3434586" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER152：《泄密者》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6f88a2520723400038a0bb5d8c90a67d4c7be6d8</link>
+      <guid>6f88a2520723400038a0bb5d8c90a67d4c7be6d8</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:18 GMT</pubDate>
+      <description>这是文件 ER152：《泄密者》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6f88a2520723400038a0bb5d8c90a67d4c7be6d8" length="3035643" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER153：《金蝉脱壳2：冥府》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=38262e89b312971fc4aa569d36f7be871e7e4836</link>
+      <guid>38262e89b312971fc4aa569d36f7be871e7e4836</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:18 GMT</pubDate>
+      <description>这是文件 ER153：《金蝉脱壳2：冥府》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=38262e89b312971fc4aa569d36f7be871e7e4836" length="2138494" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER154：《摩天营救》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=745006ed274565a100393bc1246a24f508b75e95</link>
+      <guid>745006ed274565a100393bc1246a24f508b75e95</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:18 GMT</pubDate>
+      <description>这是文件 ER154：《摩天营救》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=745006ed274565a100393bc1246a24f508b75e95" length="2631111" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER155：《毒战》（韩版）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=742bdaa0f01e07994824f5ff65aeb866481abf65</link>
+      <guid>742bdaa0f01e07994824f5ff65aeb866481abf65</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:19 GMT</pubDate>
+      <description>这是文件 ER155：《毒战》（韩版）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=742bdaa0f01e07994824f5ff65aeb866481abf65" length="3169626" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER156：《西虹市首富》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d3c12ea3c6b773a65b107aa7df2ac638acb6c2e0</link>
+      <guid>d3c12ea3c6b773a65b107aa7df2ac638acb6c2e0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:19 GMT</pubDate>
+      <description>这是文件 ER156：《西虹市首富》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d3c12ea3c6b773a65b107aa7df2ac638acb6c2e0" length="6863324" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER157：《妈妈咪呀2》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=dc336d2d26004096412d140da24726f2f813b87a</link>
+      <guid>dc336d2d26004096412d140da24726f2f813b87a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:20 GMT</pubDate>
+      <description>这是文件 ER157：《妈妈咪呀2》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=dc336d2d26004096412d140da24726f2f813b87a" length="3209514" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER158：《风语咒》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ff4218de4003e452aab72d00c9f16b8a0f5b412e</link>
+      <guid>ff4218de4003e452aab72d00c9f16b8a0f5b412e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:20 GMT</pubDate>
+      <description>这是文件 ER158：《风语咒》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ff4218de4003e452aab72d00c9f16b8a0f5b412e" length="2691872" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER159：《一出好戏》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7b0017a0be6b9e2cf355812c23c90767c57c8c83</link>
+      <guid>7b0017a0be6b9e2cf355812c23c90767c57c8c83</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:21 GMT</pubDate>
+      <description>这是文件 ER159：《一出好戏》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7b0017a0be6b9e2cf355812c23c90767c57c8c83" length="3346396" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER160：《巨齿鲨》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9a93832bcb0a448a6a2cae291f48e841edccf47a</link>
+      <guid>9a93832bcb0a448a6a2cae291f48e841edccf47a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:21 GMT</pubDate>
+      <description>这是文件 ER160：《巨齿鲨》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9a93832bcb0a448a6a2cae291f48e841edccf47a" length="2486863" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER161：《精灵旅社3：疯狂假期》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e7bb6c1db2aa5d7205b39cd1ce36d24bdae38d2c</link>
+      <guid>e7bb6c1db2aa5d7205b39cd1ce36d24bdae38d2c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:22 GMT</pubDate>
+      <description>这是文件 ER161：《精灵旅社3：疯狂假期》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e7bb6c1db2aa5d7205b39cd1ce36d24bdae38d2c" length="3443572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER162：《欧洲攻略》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=361cc726ef98b414beb8c81aaa8442a533cb284b</link>
+      <guid>361cc726ef98b414beb8c81aaa8442a533cb284b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:22 GMT</pubDate>
+      <description>这是文件 ER162：《欧洲攻略》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=361cc726ef98b414beb8c81aaa8442a533cb284b" length="2233580" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER163：《大三儿》&amp;《最后的棒棒》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4be0e3871692ec19f0df35d1b946da0e82d25d36</link>
+      <guid>4be0e3871692ec19f0df35d1b946da0e82d25d36</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:23 GMT</pubDate>
+      <description>这是文件 ER163：《大三儿》&amp;《最后的棒棒》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4be0e3871692ec19f0df35d1b946da0e82d25d36" length="5913292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER164：《升级》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1971d48d567cb8f384d8b4ce3ecfceb9d5418eab</link>
+      <guid>1971d48d567cb8f384d8b4ce3ecfceb9d5418eab</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:23 GMT</pubDate>
+      <description>这是文件 ER164：《升级》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1971d48d567cb8f384d8b4ce3ecfceb9d5418eab" length="5980166" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER165：《天才之击》（客串：胡力涛）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=915b4fa1bbc20f9ba7f48c4fd35e4b7a20cf1f75</link>
+      <guid>915b4fa1bbc20f9ba7f48c4fd35e4b7a20cf1f75</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:24 GMT</pubDate>
+      <description>这是文件 ER165：《天才之击》（客串：胡力涛）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=915b4fa1bbc20f9ba7f48c4fd35e4b7a20cf1f75" length="7503209" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER166：《蚁人2：黄蜂女现身》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f13603e32bf185e2f08a762fa7c4f4057130c5e7</link>
+      <guid>f13603e32bf185e2f08a762fa7c4f4057130c5e7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:24 GMT</pubDate>
+      <description>这是文件 ER166：《蚁人2：黄蜂女现身》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f13603e32bf185e2f08a762fa7c4f4057130c5e7" length="7583875" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER167：《瞒天过海美人计》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=240065bff18fe95de511244ff9348df4d6ce9c14</link>
+      <guid>240065bff18fe95de511244ff9348df4d6ce9c14</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:25 GMT</pubDate>
+      <description>这是文件 ER167：《瞒天过海美人计》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=240065bff18fe95de511244ff9348df4d6ce9c14" length="4431209" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER168：《阿尔法：狼伴归途》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=cd83cd01aed6d1052976a4e1c2d369fa8746b506</link>
+      <guid>cd83cd01aed6d1052976a4e1c2d369fa8746b506</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:25 GMT</pubDate>
+      <description>这是文件 ER168：《阿尔法：狼伴归途》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=cd83cd01aed6d1052976a4e1c2d369fa8746b506" length="2633358" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER169：《传奇的诞生》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=892b8795fa548ee3c6683c043fcc42e13d31376f</link>
+      <guid>892b8795fa548ee3c6683c043fcc42e13d31376f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:26 GMT</pubDate>
+      <description>这是文件 ER169：《传奇的诞生》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=892b8795fa548ee3c6683c043fcc42e13d31376f" length="3257998" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER170：《边境杀手2：边境战士》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e4204778e0486ff9b0645b862cccd4e0dfc04600</link>
+      <guid>e4204778e0486ff9b0645b862cccd4e0dfc04600</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:26 GMT</pubDate>
+      <description>这是文件 ER170：《边境杀手2：边境战士》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e4204778e0486ff9b0645b862cccd4e0dfc04600" length="8006014" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER171：《未择之路》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e380eba029c2b92a17120fa3c1dda627a8175411</link>
+      <guid>e380eba029c2b92a17120fa3c1dda627a8175411</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:27 GMT</pubDate>
+      <description>这是文件 ER171：《未择之路》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e380eba029c2b92a17120fa3c1dda627a8175411" length="7605609" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER172：《悲伤逆流成河》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ae1bd9d9c82071d750aa78833d3e33b77693c64c</link>
+      <guid>ae1bd9d9c82071d750aa78833d3e33b77693c64c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:28 GMT</pubDate>
+      <description>这是文件 ER172：《悲伤逆流成河》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ae1bd9d9c82071d750aa78833d3e33b77693c64c" length="2636910" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER173：《黄金兄弟》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d7cf0d9be1f17485837a3da06b56d0c84ef17e1a</link>
+      <guid>d7cf0d9be1f17485837a3da06b56d0c84ef17e1a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:28 GMT</pubDate>
+      <description>这是文件 ER173：《黄金兄弟》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d7cf0d9be1f17485837a3da06b56d0c84ef17e1a" length="2284362" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER174：《无双》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f55ec1f2918cddc5f92a6a95cc4b034ec7b3b1df</link>
+      <guid>f55ec1f2918cddc5f92a6a95cc4b034ec7b3b1df</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:29 GMT</pubDate>
+      <description>这是文件 ER174：《无双》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f55ec1f2918cddc5f92a6a95cc4b034ec7b3b1df" length="3979186" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER175：《嗝嗝老师》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2d6acdea89dbb33c9d46b5460f288a48a436af3e</link>
+      <guid>2d6acdea89dbb33c9d46b5460f288a48a436af3e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:29 GMT</pubDate>
+      <description>这是文件 ER175：《嗝嗝老师》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2d6acdea89dbb33c9d46b5460f288a48a436af3e" length="3556421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER176：《帝企鹅日记2：召唤》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=72375bfd8ac4bd3218ca6e309ad08c8158be355e</link>
+      <guid>72375bfd8ac4bd3218ca6e309ad08c8158be355e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:30 GMT</pubDate>
+      <description>这是文件 ER176：《帝企鹅日记2：召唤》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=72375bfd8ac4bd3218ca6e309ad08c8158be355e" length="2986533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER178：《跨越8年的新娘》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2435610bc8b201ae6e4bdc3497319f92f7a799d0</link>
+      <guid>2435610bc8b201ae6e4bdc3497319f92f7a799d0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:30 GMT</pubDate>
+      <description>这是文件 ER178：《跨越8年的新娘》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2435610bc8b201ae6e4bdc3497319f92f7a799d0" length="4650847" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER179：《宝贝儿》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7e1b927078a3cf875b1ce5fb5c3f4abc6884801e</link>
+      <guid>7e1b927078a3cf875b1ce5fb5c3f4abc6884801e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:31 GMT</pubDate>
+      <description>这是文件 ER179：《宝贝儿》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7e1b927078a3cf875b1ce5fb5c3f4abc6884801e" length="4472796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER180：《我的间谍前男友》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1f67b36170edc3faaa26170756f14cfe1e1f731a</link>
+      <guid>1f67b36170edc3faaa26170756f14cfe1e1f731a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:31 GMT</pubDate>
+      <description>这是文件 ER180：《我的间谍前男友》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1f67b36170edc3faaa26170756f14cfe1e1f731a" length="2529077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER181：《无敌原始人》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3da56bd4e6fd40da167b02ef9cc8015421bdf154</link>
+      <guid>3da56bd4e6fd40da167b02ef9cc8015421bdf154</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:32 GMT</pubDate>
+      <description>这是文件 ER181：《无敌原始人》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3da56bd4e6fd40da167b02ef9cc8015421bdf154" length="1739552" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER182：《铁血战士》（2018版）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3ad6ee5edea787eca48b23752b03e371f5ef2947</link>
+      <guid>3ad6ee5edea787eca48b23752b03e371f5ef2947</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:32 GMT</pubDate>
+      <description>这是文件 ER182：《铁血战士》（2018版）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3ad6ee5edea787eca48b23752b03e371f5ef2947" length="5025129" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER183：《阿拉姜色》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0d009a274c5385de1c72c1bbe700bccde2d66ca7</link>
+      <guid>0d009a274c5385de1c72c1bbe700bccde2d66ca7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:33 GMT</pubDate>
+      <description>这是文件 ER183：《阿拉姜色》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0d009a274c5385de1c72c1bbe700bccde2d66ca7" length="2778390" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER184：《飓风奇劫》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=faf70ba86a0fefeec13b6e30b04dfc411a307f02</link>
+      <guid>faf70ba86a0fefeec13b6e30b04dfc411a307f02</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:33 GMT</pubDate>
+      <description>这是文件 ER184：《飓风奇劫》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=faf70ba86a0fefeec13b6e30b04dfc411a307f02" length="2888313" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER185：《流浪猫鲍勃》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=832a9e3fd8588ac168ebb6d58736ad2c44528c1b</link>
+      <guid>832a9e3fd8588ac168ebb6d58736ad2c44528c1b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:34 GMT</pubDate>
+      <description>这是文件 ER185：《流浪猫鲍勃》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=832a9e3fd8588ac168ebb6d58736ad2c44528c1b" length="2225848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER186：《大轰炸》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=417f3ad1436295d4dcb243ab5eacf7d7daf75735</link>
+      <guid>417f3ad1436295d4dcb243ab5eacf7d7daf75735</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:34 GMT</pubDate>
+      <description>这是文件 ER186：《大轰炸》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=417f3ad1436295d4dcb243ab5eacf7d7daf75735" length="1724714" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER187：《你好，之华》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ffc94a2272a3b2f53b4e34af93a1781920039d2b</link>
+      <guid>ffc94a2272a3b2f53b4e34af93a1781920039d2b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:35 GMT</pubDate>
+      <description>这是文件 ER187：《你好，之华》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ffc94a2272a3b2f53b4e34af93a1781920039d2b" length="7561306" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER188：《毒液》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8d2453187b3b6be1a51c3db47fc589c831e96ff9</link>
+      <guid>8d2453187b3b6be1a51c3db47fc589c831e96ff9</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:35 GMT</pubDate>
+      <description>这是文件 ER188：《毒液》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8d2453187b3b6be1a51c3db47fc589c831e96ff9" length="3493309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER189《神奇动物在哪里2：格林德沃之罪》（主播：效愚）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d63e8d69dfceeb1d01337a0de70584c02d67cd79</link>
+      <guid>d63e8d69dfceeb1d01337a0de70584c02d67cd79</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:36 GMT</pubDate>
+      <description>这是文件 ER189《神奇动物在哪里2：格林德沃之罪》（主播：效愚）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d63e8d69dfceeb1d01337a0de70584c02d67cd79" length="1989466" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER190：《无名之辈》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6dbce4ab6e64ff2bd2c2a5ff2b1ba2a665a1036d</link>
+      <guid>6dbce4ab6e64ff2bd2c2a5ff2b1ba2a665a1036d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:36 GMT</pubDate>
+      <description>这是文件 ER190：《无名之辈》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6dbce4ab6e64ff2bd2c2a5ff2b1ba2a665a1036d" length="3249848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER191：《无敌破坏王2》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fef5d29e2a99304eb52b52e9a2ffe290e3205bb9</link>
+      <guid>fef5d29e2a99304eb52b52e9a2ffe290e3205bb9</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:37 GMT</pubDate>
+      <description>这是文件 ER191：《无敌破坏王2》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fef5d29e2a99304eb52b52e9a2ffe290e3205bb9" length="2677661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER192：《憨豆特工3》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=39ef8aa8eef42c65bb270022227d9400c92a372f</link>
+      <guid>39ef8aa8eef42c65bb270022227d9400c92a372f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:37 GMT</pubDate>
+      <description>这是文件 ER192：《憨豆特工3》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=39ef8aa8eef42c65bb270022227d9400c92a372f" length="1473939" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER193：《海王》（客串：鲁韵子）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=eee07a023765aec470859faa65a73b2e437ef383</link>
+      <guid>eee07a023765aec470859faa65a73b2e437ef383</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:37 GMT</pubDate>
+      <description>这是文件 ER193：《海王》（客串：鲁韵子）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=eee07a023765aec470859faa65a73b2e437ef383" length="3823706" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER194：《绿毛怪格林奇》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a1cea07cb5bbed5f7045788990ee49dd445ff70b</link>
+      <guid>a1cea07cb5bbed5f7045788990ee49dd445ff70b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:38 GMT</pubDate>
+      <description>这是文件 ER194：《绿毛怪格林奇》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a1cea07cb5bbed5f7045788990ee49dd445ff70b" length="1931395" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER195：《冥王星时刻》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=009131af25c0ebf478aaba4925af179f60069848</link>
+      <guid>009131af25c0ebf478aaba4925af179f60069848</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:38 GMT</pubDate>
+      <description>这是文件 ER195：《冥王星时刻》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=009131af25c0ebf478aaba4925af179f60069848" length="1698383" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER196：《叶问外传：张天志》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fa36e51a9bdcb989e18b7ea605028d25d10b6b5d</link>
+      <guid>fa36e51a9bdcb989e18b7ea605028d25d10b6b5d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:39 GMT</pubDate>
+      <description>这是文件 ER196：《叶问外传：张天志》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fa36e51a9bdcb989e18b7ea605028d25d10b6b5d" length="3124878" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER197：《来电狂响》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6be67bcf27945d041d3406a6a20a602df5779871</link>
+      <guid>6be67bcf27945d041d3406a6a20a602df5779871</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:39 GMT</pubDate>
+      <description>这是文件 ER197：《来电狂响》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6be67bcf27945d041d3406a6a20a602df5779871" length="3111085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER198：《大黄蜂》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=60ae8a39c6f44c85c0825c16e282b6121560f295</link>
+      <guid>60ae8a39c6f44c85c0825c16e282b6121560f295</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:40 GMT</pubDate>
+      <description>这是文件 ER198：《大黄蜂》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=60ae8a39c6f44c85c0825c16e282b6121560f295" length="2685185" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER199：《四个春天》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=85c3b56c22fbe0cdca752e4c8681502e68053ddf</link>
+      <guid>85c3b56c22fbe0cdca752e4c8681502e68053ddf</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:40 GMT</pubDate>
+      <description>这是文件 ER199：《四个春天》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=85c3b56c22fbe0cdca752e4c8681502e68053ddf" length="3305645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER200：《“大”人物》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ece55336c10b235a3ae3b0d80899d1e7f8850cf8</link>
+      <guid>ece55336c10b235a3ae3b0d80899d1e7f8850cf8</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:41 GMT</pubDate>
+      <description>这是文件 ER200：《“大”人物》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ece55336c10b235a3ae3b0d80899d1e7f8850cf8" length="3196767" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER201：《白蛇：缘起》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ffc445d82c341f2887145d5becbbe4fca65805c0</link>
+      <guid>ffc445d82c341f2887145d5becbbe4fca65805c0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:41 GMT</pubDate>
+      <description>这是文件 ER201：《白蛇：缘起》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ffc445d82c341f2887145d5becbbe4fca65805c0" length="8907134" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER202：《养家之人》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=911d1df3d2f63f4051809b4b8b7e081d1751bcfb</link>
+      <guid>911d1df3d2f63f4051809b4b8b7e081d1751bcfb</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:42 GMT</pubDate>
+      <description>这是文件 ER202：《养家之人》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=911d1df3d2f63f4051809b4b8b7e081d1751bcfb" length="8057423" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER203：《疯狂外星人》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=44cae5495059da167f1b56cad8d1e3097bda4847</link>
+      <guid>44cae5495059da167f1b56cad8d1e3097bda4847</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:43 GMT</pubDate>
+      <description>这是文件 ER203：《疯狂外星人》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=44cae5495059da167f1b56cad8d1e3097bda4847" length="4454615" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER204：《小猪佩奇过大年》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4c6d32cff90bc3164fe85f13c09bfc02bb827ba9</link>
+      <guid>4c6d32cff90bc3164fe85f13c09bfc02bb827ba9</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:43 GMT</pubDate>
+      <description>这是文件 ER204：《小猪佩奇过大年》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4c6d32cff90bc3164fe85f13c09bfc02bb827ba9" length="1322847" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER205：《新喜剧之王》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8f05b454d748394694e101cd33bb31ba52423d4b</link>
+      <guid>8f05b454d748394694e101cd33bb31ba52423d4b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:44 GMT</pubDate>
+      <description>这是文件 ER205：《新喜剧之王》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8f05b454d748394694e101cd33bb31ba52423d4b" length="3293733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER206：《飞驰人生》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b535194668bfbb43204cb0490cf2ad07f5533e37</link>
+      <guid>b535194668bfbb43204cb0490cf2ad07f5533e37</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:44 GMT</pubDate>
+      <description>这是文件 ER206：《飞驰人生》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b535194668bfbb43204cb0490cf2ad07f5533e37" length="3226233" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER207：《廉政风云》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=68bc7e599f6af93e89ff0259eb214e4f29a4dca3</link>
+      <guid>68bc7e599f6af93e89ff0259eb214e4f29a4dca3</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:44 GMT</pubDate>
+      <description>这是文件 ER207：《廉政风云》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=68bc7e599f6af93e89ff0259eb214e4f29a4dca3" length="2505044" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER208：《神探蒲松龄》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d15b2fe26a8d0e78a494f6d25a10e1cd39c5975c</link>
+      <guid>d15b2fe26a8d0e78a494f6d25a10e1cd39c5975c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:45 GMT</pubDate>
+      <description>这是文件 ER208：《神探蒲松龄》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d15b2fe26a8d0e78a494f6d25a10e1cd39c5975c" length="2229818" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER209：《一吻定情》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d2420ae17822d02a4bdccb1db2c122f739f2d5b2</link>
+      <guid>d2420ae17822d02a4bdccb1db2c122f739f2d5b2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:45 GMT</pubDate>
+      <description>这是文件 ER209：《一吻定情》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d2420ae17822d02a4bdccb1db2c122f739f2d5b2" length="1694203" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER210：《惊奇队长》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6e0e18f3220535002be6c2910dbda62dc354b253</link>
+      <guid>6e0e18f3220535002be6c2910dbda62dc354b253</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:46 GMT</pubDate>
+      <description>这是文件 ER210：《惊奇队长》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6e0e18f3220535002be6c2910dbda62dc354b253" length="3534269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER211：《过春天》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1eea8b713338a1ff21ccc47e56d242367312fef1</link>
+      <guid>1eea8b713338a1ff21ccc47e56d242367312fef1</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:46 GMT</pubDate>
+      <description>这是文件 ER211：《过春天》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1eea8b713338a1ff21ccc47e56d242367312fef1" length="7267480" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER212：《比悲伤更悲伤的故事》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=713dfcfb2945f1efe0b420ed746de17bd602b654</link>
+      <guid>713dfcfb2945f1efe0b420ed746de17bd602b654</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:47 GMT</pubDate>
+      <description>这是文件 ER212：《比悲伤更悲伤的故事》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=713dfcfb2945f1efe0b420ed746de17bd602b654" length="2814752" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER213：《老师·好》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c2ab9bfcdd29fc20d3d0b609d7ac7d8f62b1f37d</link>
+      <guid>c2ab9bfcdd29fc20d3d0b609d7ac7d8f62b1f37d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:48 GMT</pubDate>
+      <description>这是文件 ER213：《老师·好》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c2ab9bfcdd29fc20d3d0b609d7ac7d8f62b1f37d" length="3561854" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER215：《海市蜃楼》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0928db114fc0d9ef2a876f2cc219c75c6f87fdc2</link>
+      <guid>0928db114fc0d9ef2a876f2cc219c75c6f87fdc2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:50 GMT</pubDate>
+      <description>这是文件 ER215：《海市蜃楼》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0928db114fc0d9ef2a876f2cc219c75c6f87fdc2" length="2180917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER216：《小飞象》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=387b3a73e913f6733a1c18df7b80f76fd48ae015</link>
+      <guid>387b3a73e913f6733a1c18df7b80f76fd48ae015</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:50 GMT</pubDate>
+      <description>这是文件 ER216：《小飞象》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=387b3a73e913f6733a1c18df7b80f76fd48ae015" length="2908375" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER217：《调音师》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e521d856807c4155d4b6bef016a43305c5fdad23</link>
+      <guid>e521d856807c4155d4b6bef016a43305c5fdad23</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:51 GMT</pubDate>
+      <description>这是文件 ER217：《调音师》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e521d856807c4155d4b6bef016a43305c5fdad23" length="2632522" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER218：《雷霆沙赞！》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c02213795a93618b9b4b6825b0ff7a5f4e2b88d3</link>
+      <guid>c02213795a93618b9b4b6825b0ff7a5f4e2b88d3</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:51 GMT</pubDate>
+      <description>这是文件 ER218：《雷霆沙赞！》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c02213795a93618b9b4b6825b0ff7a5f4e2b88d3" length="3606158" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER219：《撞死了一只羊》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b82688008cdc229f2198a5c1b98b5995f8ee36fa</link>
+      <guid>b82688008cdc229f2198a5c1b98b5995f8ee36fa</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:51 GMT</pubDate>
+      <description>这是文件 ER219：《撞死了一只羊》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b82688008cdc229f2198a5c1b98b5995f8ee36fa" length="1050128" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER220：《雪暴》（海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ab4e312577f5b55a1010193955c4dd60fc32d8e3</link>
+      <guid>ab4e312577f5b55a1010193955c4dd60fc32d8e3</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:52 GMT</pubDate>
+      <description>这是文件 ER220：《雪暴》（海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ab4e312577f5b55a1010193955c4dd60fc32d8e3" length="1540812" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER221：《海蒂和爷爷》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=95ac183a0fa7679825c6575cc88e224b326a748e</link>
+      <guid>95ac183a0fa7679825c6575cc88e224b326a748e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:52 GMT</pubDate>
+      <description>这是文件 ER221：《海蒂和爷爷》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=95ac183a0fa7679825c6575cc88e224b326a748e" length="1010631" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER222：《一条狗的使命2》（胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8b5571f4be0c30624aa1a8d61aaf90681fb22373</link>
+      <guid>8b5571f4be0c30624aa1a8d61aaf90681fb22373</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:53 GMT</pubDate>
+      <description>这是文件 ER222：《一条狗的使命2》（胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8b5571f4be0c30624aa1a8d61aaf90681fb22373" length="4098096" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER223：《过昭关》（靳锦）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b993374586eb90d3c2a2e4bb3db48c57726e6c11</link>
+      <guid>b993374586eb90d3c2a2e4bb3db48c57726e6c11</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:53 GMT</pubDate>
+      <description>这是文件 ER223：《过昭关》（靳锦）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b993374586eb90d3c2a2e4bb3db48c57726e6c11" length="2353534" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER224：《龙珠超：布罗利》（法兰西胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f90cb224ece5c36ea92db7dbf4f8e372f93aa0d4</link>
+      <guid>f90cb224ece5c36ea92db7dbf4f8e372f93aa0d4</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:54 GMT</pubDate>
+      <description>这是文件 ER224：《龙珠超：布罗利》（法兰西胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f90cb224ece5c36ea92db7dbf4f8e372f93aa0d4" length="2759581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER225：《阿拉丁》（隐形）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e75308418629e1c57fbcba20d89e722b46a58354</link>
+      <guid>e75308418629e1c57fbcba20d89e722b46a58354</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:54 GMT</pubDate>
+      <description>这是文件 ER225：《阿拉丁》（隐形）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e75308418629e1c57fbcba20d89e722b46a58354" length="3196558" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER226：《哆啦A梦：月球》（阳磊）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c7101231f8de6050f0752691d276605d0f4a0224</link>
+      <guid>c7101231f8de6050f0752691d276605d0f4a0224</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:54 GMT</pubDate>
+      <description>这是文件 ER226：《哆啦A梦：月球》（阳磊）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c7101231f8de6050f0752691d276605d0f4a0224" length="1658468" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER227：《X战警：黑凤凰》（荡科长）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=26f5663081113397bb29cecca8834c39e34bf74a</link>
+      <guid>26f5663081113397bb29cecca8834c39e34bf74a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:55 GMT</pubDate>
+      <description>这是文件 ER227：《X战警：黑凤凰》（荡科长）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=26f5663081113397bb29cecca8834c39e34bf74a" length="1875598" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER228：《妈阁是座城》（秦婉）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d74faed982e212ce55c7438c48d5c6a4b099c117</link>
+      <guid>d74faed982e212ce55c7438c48d5c6a4b099c117</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:55 GMT</pubDate>
+      <description>这是文件 ER228：《妈阁是座城》（秦婉）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d74faed982e212ce55c7438c48d5c6a4b099c117" length="691101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER229：《黑衣人外传：全球追缉》（隐形）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8a10625c6566fa629e895dbc5be2b354b693690b</link>
+      <guid>8a10625c6566fa629e895dbc5be2b354b693690b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:56 GMT</pubDate>
+      <description>这是文件 ER229：《黑衣人外传：全球追缉》（隐形）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8a10625c6566fa629e895dbc5be2b354b693690b" length="2465338" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER230：《大河唱》（熊阿姨）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0201c780fd97b38dd6db419c2d7df33689cb6b3e</link>
+      <guid>0201c780fd97b38dd6db419c2d7df33689cb6b3e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:56 GMT</pubDate>
+      <description>这是文件 ER230：《大河唱》（熊阿姨）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0201c780fd97b38dd6db419c2d7df33689cb6b3e" length="2505671" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER231：《监护风云》（靳锦）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2bfcd50ed0b0eaa83837717c7503f80d9d890dc9</link>
+      <guid>2bfcd50ed0b0eaa83837717c7503f80d9d890dc9</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:57 GMT</pubDate>
+      <description>这是文件 ER231：《监护风云》（靳锦）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2bfcd50ed0b0eaa83837717c7503f80d9d890dc9" length="1789498" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER232：《玩具总动员4》（蜉蝣）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2afa025cd3b3a4d55437f2330244fc5e66df3e32</link>
+      <guid>2afa025cd3b3a4d55437f2330244fc5e66df3e32</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:57 GMT</pubDate>
+      <description>这是文件 ER232：《玩具总动员4》（蜉蝣）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2afa025cd3b3a4d55437f2330244fc5e66df3e32" length="4383562" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER233：《孟买酒店》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e386023aa42752f5822f684f28f6bfbc777ce082</link>
+      <guid>e386023aa42752f5822f684f28f6bfbc777ce082</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:58 GMT</pubDate>
+      <description>这是文件 ER233：《孟买酒店》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e386023aa42752f5822f684f28f6bfbc777ce082" length="1023797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER234：《蜘蛛侠2：英雄远征》（鲁韵子）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=344d325f3375656bbdf2b95368bf0e3e17092d1c</link>
+      <guid>344d325f3375656bbdf2b95368bf0e3e17092d1c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:58 GMT</pubDate>
+      <description>这是文件 ER234：《蜘蛛侠2：英雄远征》（鲁韵子）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=344d325f3375656bbdf2b95368bf0e3e17092d1c" length="2872848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER235：《逆流大叔》（秦婉）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9c3c931bdc484da7eb1a43e0f7cfb60e0e27f69d</link>
+      <guid>9c3c931bdc484da7eb1a43e0f7cfb60e0e27f69d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:58 GMT</pubDate>
+      <description>这是文件 ER235：《逆流大叔》（秦婉）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9c3c931bdc484da7eb1a43e0f7cfb60e0e27f69d" length="2125328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER236：《扫毒2天地对决》（胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=83a38c881d79b7742061db59665ee6df42f15f85</link>
+      <guid>83a38c881d79b7742061db59665ee6df42f15f85</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:59 GMT</pubDate>
+      <description>这是文件 ER236：《扫毒2天地对决》（胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=83a38c881d79b7742061db59665ee6df42f15f85" length="3986501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER237：《高达NT》（胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=218611e266306068c0f1b612b0d7e49d3571fb01</link>
+      <guid>218611e266306068c0f1b612b0d7e49d3571fb01</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:59 GMT</pubDate>
+      <description>这是文件 ER237：《高达NT》（胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=218611e266306068c0f1b612b0d7e49d3571fb01" length="1404558" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER238：《送我上青云》（海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f7833b547531b80b73addcb7b668060a8b787049</link>
+      <guid>f7833b547531b80b73addcb7b668060a8b787049</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:00 GMT</pubDate>
+      <description>这是文件 ER238：《送我上青云》（海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f7833b547531b80b73addcb7b668060a8b787049" length="1689397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER239：《上海堡垒》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=921903cdcd5baa4fa33fc487a55905d8cd148058</link>
+      <guid>921903cdcd5baa4fa33fc487a55905d8cd148058</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:00 GMT</pubDate>
+      <description>这是文件 ER239：《上海堡垒》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=921903cdcd5baa4fa33fc487a55905d8cd148058" length="6221955" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER240：合辑《昨日奇迹》《愤怒的小鸟2》《沉默的证人》《使徒行者2》《烈火英雄》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ad6acb7929bd53d60d8fb14ce736b4227b2c11e7</link>
+      <guid>ad6acb7929bd53d60d8fb14ce736b4227b2c11e7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:01 GMT</pubDate>
+      <description>这是文件 ER240：合辑《昨日奇迹》《愤怒的小鸟2》《沉默的证人》《使徒行者2》《烈火英雄》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ad6acb7929bd53d60d8fb14ce736b4227b2c11e7" length="13694648" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER241：《速度与激情外传：特别行动》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2483adc1718c3ee5ba6a169d228107c867da4bbe</link>
+      <guid>2483adc1718c3ee5ba6a169d228107c867da4bbe</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:02 GMT</pubDate>
+      <description>这是文件 ER241：《速度与激情外传：特别行动》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2483adc1718c3ee5ba6a169d228107c867da4bbe" length="3033136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER242：《昆虫总动员2-来自远方的后援军》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=cff6d496bc54e513d580ae9fbb3f8c27bca14556</link>
+      <guid>cff6d496bc54e513d580ae9fbb3f8c27bca14556</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:03 GMT</pubDate>
+      <description>这是文件 ER242：《昆虫总动员2-来自远方的后援军》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=cff6d496bc54e513d580ae9fbb3f8c27bca14556" length="3684943" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER243：《保持沉默》（秦婉）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f38bbdaacd98a08a5a7488273072c2e5136ac2ca</link>
+      <guid>f38bbdaacd98a08a5a7488273072c2e5136ac2ca</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:03 GMT</pubDate>
+      <description>这是文件 ER243：《保持沉默》（秦婉）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f38bbdaacd98a08a5a7488273072c2e5136ac2ca" length="1330579" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER244：《深夜食堂》（国版，主播：海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=29037489c3a57154ebcc282cbcb1ef691c8be862</link>
+      <guid>29037489c3a57154ebcc282cbcb1ef691c8be862</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:04 GMT</pubDate>
+      <description>这是文件 ER244：《深夜食堂》（国版，主播：海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=29037489c3a57154ebcc282cbcb1ef691c8be862" length="2519255" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER245：《小丑》（威尼斯前方无剧透版）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8cbfc379cf41f7b89f97293c7c17fcd7d39395eb</link>
+      <guid>8cbfc379cf41f7b89f97293c7c17fcd7d39395eb</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:05 GMT</pubDate>
+      <description>这是文件 ER245：《小丑》（威尼斯前方无剧透版）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8cbfc379cf41f7b89f97293c7c17fcd7d39395eb" length="9210990" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER246：《罗小黑战记》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=adfc37880da1e84c67acc7dc4dd0720fd5c1ac47</link>
+      <guid>adfc37880da1e84c67acc7dc4dd0720fd5c1ac47</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:06 GMT</pubDate>
+      <description>这是文件 ER246：《罗小黑战记》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=adfc37880da1e84c67acc7dc4dd0720fd5c1ac47" length="1085867" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER247：《小小的愿望》（萝贝贝）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fe122672170cb119e4da58215d47d16f720de178</link>
+      <guid>fe122672170cb119e4da58215d47d16f720de178</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:06 GMT</pubDate>
+      <description>这是文件 ER247：《小小的愿望》（萝贝贝）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fe122672170cb119e4da58215d47d16f720de178" length="2530958" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER248：《决胜时刻》（法兰西胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6cdcd1256168ecedf57fcc443d87f55b0a3002e9</link>
+      <guid>6cdcd1256168ecedf57fcc443d87f55b0a3002e9</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:06 GMT</pubDate>
+      <description>这是文件 ER248：《决胜时刻》（法兰西胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6cdcd1256168ecedf57fcc443d87f55b0a3002e9" length="2754148" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER249：《犯罪现场》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8aae03082d67c2a197e62569d7b9178cdb5d48e4</link>
+      <guid>8aae03082d67c2a197e62569d7b9178cdb5d48e4</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:07 GMT</pubDate>
+      <description>这是文件 ER249：《犯罪现场》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8aae03082d67c2a197e62569d7b9178cdb5d48e4" length="5455627" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER250：《安娜》（靳锦）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d495ec504f9796639380ace7f617719ebc3c5357</link>
+      <guid>d495ec504f9796639380ace7f617719ebc3c5357</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:07 GMT</pubDate>
+      <description>这是文件 ER250：《安娜》（靳锦）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d495ec504f9796639380ace7f617719ebc3c5357" length="2200143" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER251：《终结者：黑暗命运》（主播：法兰西胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a7623843c1c12fed61b92ee9a4286a6b50d9ec39</link>
+      <guid>a7623843c1c12fed61b92ee9a4286a6b50d9ec39</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:08 GMT</pubDate>
+      <description>这是文件 ER251：《终结者：黑暗命运》（主播：法兰西胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a7623843c1c12fed61b92ee9a4286a6b50d9ec39" length="4359738" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER252：《我的拳王男友》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d64160196db4691f467711cb0c16d7916990a5b0</link>
+      <guid>d64160196db4691f467711cb0c16d7916990a5b0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:08 GMT</pubDate>
+      <description>这是文件 ER252：《我的拳王男友》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d64160196db4691f467711cb0c16d7916990a5b0" length="3460290" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER253：《受益人》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6f5007e22d2f67d774c65604b94bf28ba94a697b</link>
+      <guid>6f5007e22d2f67d774c65604b94bf28ba94a697b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:09 GMT</pubDate>
+      <description>这是文件 ER253：《受益人》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6f5007e22d2f67d774c65604b94bf28ba94a697b" length="7375314" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER254：《他们已不再变老》（刘三解）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fd6ccf32a5f65d8a837641a77ae2fc6c51c9ed24</link>
+      <guid>fd6ccf32a5f65d8a837641a77ae2fc6c51c9ed24</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:10 GMT</pubDate>
+      <description>这是文件 ER254：《他们已不再变老》（刘三解）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fd6ccf32a5f65d8a837641a77ae2fc6c51c9ed24" length="6311608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER255：《大约在冬季》（萝贝贝）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7ad12e25a8fc229d63f4b65940d23ad37710078a</link>
+      <guid>7ad12e25a8fc229d63f4b65940d23ad37710078a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:11 GMT</pubDate>
+      <description>这是文件 ER255：《大约在冬季》（萝贝贝）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7ad12e25a8fc229d63f4b65940d23ad37710078a" length="2492088" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER256：《冰雪奇缘2》（张扬）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c9140857beeecce18b0d71b974168564193567ae</link>
+      <guid>c9140857beeecce18b0d71b974168564193567ae</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:11 GMT</pubDate>
+      <description>这是文件 ER256：《冰雪奇缘2》（张扬）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c9140857beeecce18b0d71b974168564193567ae" length="6174099" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER257：《利刃出鞘》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f195e6617745aa456784ec47aea3730ed4d5f649</link>
+      <guid>f195e6617745aa456784ec47aea3730ed4d5f649</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:12 GMT</pubDate>
+      <description>这是文件 ER257：《利刃出鞘》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f195e6617745aa456784ec47aea3730ed4d5f649" length="2663869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER258：《星际探索》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=5453495d8e735e2c03bfde410aa9688efdd400c3</link>
+      <guid>5453495d8e735e2c03bfde410aa9688efdd400c3</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:12 GMT</pubDate>
+      <description>这是文件 ER258：《星际探索》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=5453495d8e735e2c03bfde410aa9688efdd400c3" length="1662648" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER259：《星球大战9：天行者崛起》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f63c72769b87c5249106a47aa31bcb90bcff5c15</link>
+      <guid>f63c72769b87c5249106a47aa31bcb90bcff5c15</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:13 GMT</pubDate>
+      <description>这是文件 ER259：《星球大战9：天行者崛起》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f63c72769b87c5249106a47aa31bcb90bcff5c15" length="3164793" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER260：《叶问4：完结篇》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=afc879ff14c327db5e0b6cb4eaecd16ea5c6f895</link>
+      <guid>afc879ff14c327db5e0b6cb4eaecd16ea5c6f895</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:13 GMT</pubDate>
+      <description>这是文件 ER260：《叶问4：完结篇》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=afc879ff14c327db5e0b6cb4eaecd16ea5c6f895" length="2323441" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER261：《半部喜剧》（萝贝贝）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=20682d72b5deaf55a58bb105b75ca4015d9990e8</link>
+      <guid>20682d72b5deaf55a58bb105b75ca4015d9990e8</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:14 GMT</pubDate>
+      <description>这是文件 ER261：《半部喜剧》（萝贝贝）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=20682d72b5deaf55a58bb105b75ca4015d9990e8" length="2961665" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER262：《理查德·朱维尔的哀歌》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=742fb3140d678203898ef919a9861b93fa9102ef</link>
+      <guid>742fb3140d678203898ef919a9861b93fa9102ef</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:14 GMT</pubDate>
+      <description>这是文件 ER262：《理查德·朱维尔的哀歌》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=742fb3140d678203898ef919a9861b93fa9102ef" length="4599020" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER263：《囧妈》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=21d41fbb07f63f655b237370df78795158bbd174</link>
+      <guid>21d41fbb07f63f655b237370df78795158bbd174</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:15 GMT</pubDate>
+      <description>这是文件 ER263：《囧妈》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=21d41fbb07f63f655b237370df78795158bbd174" length="6783901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER264：《教宗的承继》（主播：杨超）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=194bdda2069b68d67ed3aecc1b2efda47704ca76</link>
+      <guid>194bdda2069b68d67ed3aecc1b2efda47704ca76</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:15 GMT</pubDate>
+      <description>这是文件 ER264：《教宗的承继》（主播：杨超）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=194bdda2069b68d67ed3aecc1b2efda47704ca76" length="2813080" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER265：《隐形人》（主播：隐形）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4be4d617ba23a65aecbad3ccd6646c471a11517d</link>
+      <guid>4be4d617ba23a65aecbad3ccd6646c471a11517d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:16 GMT</pubDate>
+      <description>这是文件 ER265：《隐形人》（主播：隐形）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4be4d617ba23a65aecbad3ccd6646c471a11517d" length="7893583" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER266：《二分之一魔法》（张扬）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=87953705f110347c936a5cd2246c9029f7a7e2fa</link>
+      <guid>87953705f110347c936a5cd2246c9029f7a7e2fa</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:16 GMT</pubDate>
+      <description>这是文件 ER266：《二分之一魔法》（张扬）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=87953705f110347c936a5cd2246c9029f7a7e2fa" length="2698768" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER267：《南山的部长们》（刘三解）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=00b488cd51f5254d6692caebeaff546705172c57</link>
+      <guid>00b488cd51f5254d6692caebeaff546705172c57</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:16 GMT</pubDate>
+      <description>这是文件 ER267：《南山的部长们》（刘三解）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=00b488cd51f5254d6692caebeaff546705172c57" length="1629525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER268：《猛禽小队和哈莉·奎茵》（鲁韵子）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c532a68b0689a5fbaac6c2bf31b9715da4565b2f</link>
+      <guid>c532a68b0689a5fbaac6c2bf31b9715da4565b2f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:17 GMT</pubDate>
+      <description>这是文件 ER268：《猛禽小队和哈莉·奎茵》（鲁韵子）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c532a68b0689a5fbaac6c2bf31b9715da4565b2f" length="3915866" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER269：《从不，很少，有时，总是》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=68af89866b264e6d9bc16e30793f6b3f86553a81</link>
+      <guid>68af89866b264e6d9bc16e30793f6b3f86553a81</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:17 GMT</pubDate>
+      <description>这是文件 ER269：《从不，很少，有时，总是》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=68af89866b264e6d9bc16e30793f6b3f86553a81" length="2676617" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER270：《饥饿站台》（海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a1733e8d45085fe5e407b5916a7ae4b996afb1f1</link>
+      <guid>a1733e8d45085fe5e407b5916a7ae4b996afb1f1</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:18 GMT</pubDate>
+      <description>这是文件 ER270：《饥饿站台》（海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a1733e8d45085fe5e407b5916a7ae4b996afb1f1" length="1634226" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER271：《矿民，马夫，尘肺病》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6c289e37c39dd3f5b0a787062c890a4231618e62</link>
+      <guid>6c289e37c39dd3f5b0a787062c890a4231618e62</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:18 GMT</pubDate>
+      <description>这是文件 ER271：《矿民，马夫，尘肺病》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6c289e37c39dd3f5b0a787062c890a4231618e62" length="1112822" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER272：《狩猎》（田野）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c96283316a78c179930bd5b85c109294827dbe67</link>
+      <guid>c96283316a78c179930bd5b85c109294827dbe67</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:19 GMT</pubDate>
+      <description>这是文件 ER272：《狩猎》（田野）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c96283316a78c179930bd5b85c109294827dbe67" length="2835023" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER273：《狩猎的时间》（洞姐）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=de20142c1c018cbc7c4a9a1105e133b549b50688</link>
+      <guid>de20142c1c018cbc7c4a9a1105e133b549b50688</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:19 GMT</pubDate>
+      <description>这是文件 ER273：《狩猎的时间》（洞姐）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=de20142c1c018cbc7c4a9a1105e133b549b50688" length="3499171" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER274：《卡彭》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9d23049aeaa74e1e53ddb84af82e881e202c9b1a</link>
+      <guid>9d23049aeaa74e1e53ddb84af82e881e202c9b1a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:20 GMT</pubDate>
+      <description>这是文件 ER274：《卡彭》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9d23049aeaa74e1e53ddb84af82e881e202c9b1a" length="1913005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER275：《列夫·朗道：娜塔莎》（海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=725d9616a1acae4fd53d8554d5fd9c9572ba55f1</link>
+      <guid>725d9616a1acae4fd53d8554d5fd9c9572ba55f1</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:20 GMT</pubDate>
+      <description>这是文件 ER275：《列夫·朗道：娜塔莎》（海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=725d9616a1acae4fd53d8554d5fd9c9572ba55f1" length="5931265" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER276：《春潮》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e09d0926ab2e1ba2fc67afc21bec6b22f94f3c59</link>
+      <guid>e09d0926ab2e1ba2fc67afc21bec6b22f94f3c59</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:21 GMT</pubDate>
+      <description>这是文件 ER276：《春潮》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e09d0926ab2e1ba2fc67afc21bec6b22f94f3c59" length="3501668" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER277：《多力特的奇幻冒险》（荡科长）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ddaea3cc1481f671f40d05bf63024df85496eafa</link>
+      <guid>ddaea3cc1481f671f40d05bf63024df85496eafa</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:21 GMT</pubDate>
+      <description>这是文件 ER277：《多力特的奇幻冒险》（荡科长）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ddaea3cc1481f671f40d05bf63024df85496eafa" length="3571497" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER278：《喋血战士》（胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=13a8e6b80342b21a400551c39bbd60c89272c0d1</link>
+      <guid>13a8e6b80342b21a400551c39bbd60c89272c0d1</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:22 GMT</pubDate>
+      <description>这是文件 ER278：《喋血战士》（胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=13a8e6b80342b21a400551c39bbd60c89272c0d1" length="2325949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER279：《妙先生》（阿苏）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=74a50d066c736a8c7e4ae8615f01dc154f033959</link>
+      <guid>74a50d066c736a8c7e4ae8615f01dc154f033959</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:22 GMT</pubDate>
+      <description>这是文件 ER279：《妙先生》（阿苏）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=74a50d066c736a8c7e4ae8615f01dc154f033959" length="3421874" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER280：《#活着》（洞姐）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=33d482837dbf0ac798cb5cff29f8b344406fe00c</link>
+      <guid>33d482837dbf0ac798cb5cff29f8b344406fe00c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:23 GMT</pubDate>
+      <description>这是文件 ER280：《#活着》（洞姐）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=33d482837dbf0ac798cb5cff29f8b344406fe00c" length="4086005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER281：《小妇人》（鲁韵子）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9efe4c0d60e7ce15caab1a8951e148e02b3a0c76</link>
+      <guid>9efe4c0d60e7ce15caab1a8951e148e02b3a0c76</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:23 GMT</pubDate>
+      <description>这是文件 ER281：《小妇人》（鲁韵子）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9efe4c0d60e7ce15caab1a8951e148e02b3a0c76" length="4124427" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER282：《麦路人》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=cf356f21f7338556f041b5261dc065c7f179de8e</link>
+      <guid>cf356f21f7338556f041b5261dc065c7f179de8e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:24 GMT</pubDate>
+      <description>这是文件 ER282：《麦路人》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=cf356f21f7338556f041b5261dc065c7f179de8e" length="8620832" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER283：评《我想结束这一切》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a95a2eb587dc3cfbd1245959c413de7ccaf99b42</link>
+      <guid>a95a2eb587dc3cfbd1245959c413de7ccaf99b42</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:24 GMT</pubDate>
+      <description>这是文件 ER283：评《我想结束这一切》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a95a2eb587dc3cfbd1245959c413de7ccaf99b42" length="7376986" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER284-评《急先锋》（4分，胶片）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=73c2a6498069446b7fa1279da3418e433dc89bfc</link>
+      <guid>73c2a6498069446b7fa1279da3418e433dc89bfc</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:25 GMT</pubDate>
+      <description>这是文件 ER284-评《急先锋》（4分，胶片）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=73c2a6498069446b7fa1279da3418e433dc89bfc" length="2806184" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER285-评《我和我的家乡》（5.3分，洞姐&amp;秦婉&amp;阳磊&amp;阿苏&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a458d01809f494a8ecd38e7222c873a2a3b306ff</link>
+      <guid>a458d01809f494a8ecd38e7222c873a2a3b306ff</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:26 GMT</pubDate>
+      <description>这是文件 ER285-评《我和我的家乡》（5.3分，洞姐&amp;秦婉&amp;阳磊&amp;阿苏&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a458d01809f494a8ecd38e7222c873a2a3b306ff" length="28408274" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER286-评《一点就到家》（7.5分，海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=cdaaf2531bad3a9399952838cc47cbe23c622e66</link>
+      <guid>cdaaf2531bad3a9399952838cc47cbe23c622e66</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:27 GMT</pubDate>
+      <description>这是文件 ER286-评《一点就到家》（7.5分，海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=cdaaf2531bad3a9399952838cc47cbe23c622e66" length="3392999" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER287-评《喜宝》（1.5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e1fb0cb8fd97b1a731ea41fda4023b56be2a4a19</link>
+      <guid>e1fb0cb8fd97b1a731ea41fda4023b56be2a4a19</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:27 GMT</pubDate>
+      <description>这是文件 ER287-评《喜宝》（1.5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e1fb0cb8fd97b1a731ea41fda4023b56be2a4a19" length="7187232" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER288-评《掬水月在手》（熊阿姨）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8abdd66f61dc7b8bc0e741d723fefe597ea28399</link>
+      <guid>8abdd66f61dc7b8bc0e741d723fefe597ea28399</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:28 GMT</pubDate>
+      <description>这是文件 ER288-评《掬水月在手》（熊阿姨）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8abdd66f61dc7b8bc0e741d723fefe597ea28399" length="5501185" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER289-评《气球》（7分，海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=cc00e803b1f673548622eb6fcfb607fedb1ccd48</link>
+      <guid>cc00e803b1f673548622eb6fcfb607fedb1ccd48</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:28 GMT</pubDate>
+      <description>这是文件 ER289-评《气球》（7分，海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=cc00e803b1f673548622eb6fcfb607fedb1ccd48" length="3391853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER290-评《疯狂原始人2》（5.5分，阿苏）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=08b8a2d4eed6b2781877167a1a4be02a226eba17</link>
+      <guid>08b8a2d4eed6b2781877167a1a4be02a226eba17</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:29 GMT</pubDate>
+      <description>这是文件 ER290-评《疯狂原始人2》（5.5分，阿苏）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=08b8a2d4eed6b2781877167a1a4be02a226eba17" length="3516297" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER291-评《棒！少年》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0505c6e7c229d90bdb615558448ac00d89bbef31</link>
+      <guid>0505c6e7c229d90bdb615558448ac00d89bbef31</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:30 GMT</pubDate>
+      <description>这是文件 ER291-评《棒！少年》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0505c6e7c229d90bdb615558448ac00d89bbef31" length="15458644" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER292-评《送你一朵小红花》（5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f67ef57ece10a078167c5bba81985d1c963b4d17</link>
+      <guid>f67ef57ece10a078167c5bba81985d1c963b4d17</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:31 GMT</pubDate>
+      <description>这是文件 ER292-评《送你一朵小红花》（5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f67ef57ece10a078167c5bba81985d1c963b4d17" length="9075572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER293-评《唐人街探案3》（洞姐）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=048dc980fe3466b34509a9bb3a4ff6c599f3ba30</link>
+      <guid>048dc980fe3466b34509a9bb3a4ff6c599f3ba30</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:31 GMT</pubDate>
+      <description>这是文件 ER293-评《唐人街探案3》（洞姐）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=048dc980fe3466b34509a9bb3a4ff6c599f3ba30" length="5780381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER294-评《人潮汹涌》（海老鼠）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e76184827b286e34935377d7877d78d092609e4b</link>
+      <guid>e76184827b286e34935377d7877d78d092609e4b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:32 GMT</pubDate>
+      <description>这是文件 ER294-评《人潮汹涌》（海老鼠）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e76184827b286e34935377d7877d78d092609e4b" length="4130697" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER295-付费摘录：评《消失的情人节》（蜉蝣＆雷普利＆波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=db9a2ee71ec1fc1b4b2fd083bd6c43493d2e0422</link>
+      <guid>db9a2ee71ec1fc1b4b2fd083bd6c43493d2e0422</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:33 GMT</pubDate>
+      <description>这是文件 ER295-付费摘录：评《消失的情人节》（蜉蝣＆雷普利＆波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=db9a2ee71ec1fc1b4b2fd083bd6c43493d2e0422" length="18426155" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER296-评《侍神令》（钱德勒）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6d2eeafe48d2880dbe702bd48bb0b219e79c81a1</link>
+      <guid>6d2eeafe48d2880dbe702bd48bb0b219e79c81a1</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:33 GMT</pubDate>
+      <description>这是文件 ER296-评《侍神令》（钱德勒）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6d2eeafe48d2880dbe702bd48bb0b219e79c81a1" length="918994" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER297-评《刺杀小说家》（阿苏）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fd9f73f50f51f626de8039af3f75ea8cb4b3fe44</link>
+      <guid>fd9f73f50f51f626de8039af3f75ea8cb4b3fe44</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:34 GMT</pubDate>
+      <description>这是文件 ER297-评《刺杀小说家》（阿苏）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fd9f73f50f51f626de8039af3f75ea8cb4b3fe44" length="4143653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER298-付费摘录：评《无声（台）》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=893ef4c7dbbe8fa000deb733dcb3f2d767ed3428</link>
+      <guid>893ef4c7dbbe8fa000deb733dcb3f2d767ed3428</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:34 GMT</pubDate>
+      <description>这是文件 ER298-付费摘录：评《无声（台）》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=893ef4c7dbbe8fa000deb733dcb3f2d767ed3428" length="4865887" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER299-付费摘录：评《孤味》（雷普利）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ae0839f33b5948eec6487d6f2b554045f96af6c2</link>
+      <guid>ae0839f33b5948eec6487d6f2b554045f96af6c2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:35 GMT</pubDate>
+      <description>这是文件 ER299-付费摘录：评《孤味》（雷普利）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ae0839f33b5948eec6487d6f2b554045f96af6c2" length="2709217" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER300-评《你好，李焕英》（弦子）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a18bf442ba7fd3a184f1ee312b0524ac0464426a</link>
+      <guid>a18bf442ba7fd3a184f1ee312b0524ac0464426a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:36 GMT</pubDate>
+      <description>这是文件 ER300-评《你好，李焕英》（弦子）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a18bf442ba7fd3a184f1ee312b0524ac0464426a" length="12075683" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER301-评《我的姐姐》（5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0a1dc9594d9108646a231e105e4a1df2ff886310</link>
+      <guid>0a1dc9594d9108646a231e105e4a1df2ff886310</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:36 GMT</pubDate>
+      <description>这是文件 ER301-评《我的姐姐》（5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0a1dc9594d9108646a231e105e4a1df2ff886310" length="9165433" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER302-评《你的婚礼》（洞姐，5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=76c3d521db4da646dd53163a3e5c727edc8f21e1</link>
+      <guid>76c3d521db4da646dd53163a3e5c727edc8f21e1</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:37 GMT</pubDate>
+      <description>这是文件 ER302-评《你的婚礼》（洞姐，5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=76c3d521db4da646dd53163a3e5c727edc8f21e1" length="4350152" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER303-评《悬崖之上》（5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=18ae9a6f0e17431d1513dd3369b4cc357f22b174</link>
+      <guid>18ae9a6f0e17431d1513dd3369b4cc357f22b174</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:37 GMT</pubDate>
+      <description>这是文件 ER303-评《悬崖之上》（5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=18ae9a6f0e17431d1513dd3369b4cc357f22b174" length="8370892" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER304-评《白蛇传·情》（6.5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=14fb8a39e487082e7ed1d286798a70040ce50b27</link>
+      <guid>14fb8a39e487082e7ed1d286798a70040ce50b27</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:38 GMT</pubDate>
+      <description>这是文件 ER304-评《白蛇传·情》（6.5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=14fb8a39e487082e7ed1d286798a70040ce50b27" length="9456750" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER305-评《寂静之地2》（7分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=04e4ab68ab76893f99a2e7fcb594c8b9e448a131</link>
+      <guid>04e4ab68ab76893f99a2e7fcb594c8b9e448a131</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:40 GMT</pubDate>
+      <description>这是文件 ER305-评《寂静之地2》（7分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=04e4ab68ab76893f99a2e7fcb594c8b9e448a131" length="9066795" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER306-评《黑白魔女库伊拉》（阿苏，6.5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=91e036dbef684758226490e52260a1426bf91381</link>
+      <guid>91e036dbef684758226490e52260a1426bf91381</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:40 GMT</pubDate>
+      <description>这是文件 ER306-评《黑白魔女库伊拉》（阿苏，6.5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=91e036dbef684758226490e52260a1426bf91381" length="4510621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER307-评《怒火·重案》（7分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=cdc7f59b30ff947b65dfa38fa78fb6f2456fe5ba</link>
+      <guid>cdc7f59b30ff947b65dfa38fa78fb6f2456fe5ba</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:42 GMT</pubDate>
+      <description>这是文件 ER307-评《怒火·重案》（7分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=cdc7f59b30ff947b65dfa38fa78fb6f2456fe5ba" length="8225443" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER308-评《白蛇2：青蛇劫起》（6.5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ff941d7da25f125f85662b09ddf624e2fbabf063</link>
+      <guid>ff941d7da25f125f85662b09ddf624e2fbabf063</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:42 GMT</pubDate>
+      <description>这是文件 ER308-评《白蛇2：青蛇劫起》（6.5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ff941d7da25f125f85662b09ddf624e2fbabf063" length="6221328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER309-评《盛夏未来》（6分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8ed46847c07a14cf45081e11f712c61aab44a8a7</link>
+      <guid>8ed46847c07a14cf45081e11f712c61aab44a8a7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:44 GMT</pubDate>
+      <description>这是文件 ER309-评《盛夏未来》（6分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8ed46847c07a14cf45081e11f712c61aab44a8a7" length="9405341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER310-评《硬汉枪神》（法兰西胶片，5.5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b8a8d4f6700f7740ce55336df869fe06f282e741</link>
+      <guid>b8a8d4f6700f7740ce55336df869fe06f282e741</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:44 GMT</pubDate>
+      <description>这是文件 ER310-评《硬汉枪神》（法兰西胶片，5.5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b8a8d4f6700f7740ce55336df869fe06f282e741" length="3611173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER311-评《失控玩家》（微软晓晓，6分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=98ba4b110f4b730f2ff66eefc0b0556da47cebf2</link>
+      <guid>98ba4b110f4b730f2ff66eefc0b0556da47cebf2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:45 GMT</pubDate>
+      <description>这是文件 ER311-评《失控玩家》（微软晓晓，6分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=98ba4b110f4b730f2ff66eefc0b0556da47cebf2" length="3656313" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER312-评《致命感应》（段练&amp;波米，约5.8分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6872d42f96a3287fe52e24b34e5b777042ec8a02</link>
+      <guid>6872d42f96a3287fe52e24b34e5b777042ec8a02</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:45 GMT</pubDate>
+      <description>这是文件 ER312-评《致命感应》（段练&amp;波米，约5.8分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6872d42f96a3287fe52e24b34e5b777042ec8a02" length="8745384" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER313-评《007：无暇赴死》（5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c78dcd1eba8a9c9ffaa085e1f2d10dd6162f1e79</link>
+      <guid>c78dcd1eba8a9c9ffaa085e1f2d10dd6162f1e79</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:46 GMT</pubDate>
+      <description>这是文件 ER313-评《007：无暇赴死》（5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c78dcd1eba8a9c9ffaa085e1f2d10dd6162f1e79" length="8476218" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER314-评《扬名立万》（6分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0d86d23675efd069f1b715e6556dfddb52dcd05a</link>
+      <guid>0d86d23675efd069f1b715e6556dfddb52dcd05a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:42:46 GMT</pubDate>
+      <description>这是文件 ER314-评《扬名立万》（6分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0d86d23675efd069f1b715e6556dfddb52dcd05a" length="7361521" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER315-评《尚气》（5.5分）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1a2654052e10b99c86547d69ec5854278628b191</link>
+      <guid>1a2654052e10b99c86547d69ec5854278628b191</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:55 GMT</pubDate>
+      <description>这是文件 ER315-评《尚气》（5.5分）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1a2654052e10b99c86547d69ec5854278628b191" length="9534073" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER316-付费摘录：评《瀑布》（秦婉_胤祥_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c253e83a4fb9b9ba06921002d6b86ebade4a666e</link>
+      <guid>c253e83a4fb9b9ba06921002d6b86ebade4a666e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:55 GMT</pubDate>
+      <description>这是文件 ER316-付费摘录：评《瀑布》（秦婉_胤祥_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c253e83a4fb9b9ba06921002d6b86ebade4a666e" length="17157230" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER317-评《神奇动物3：邓布利多之谜》（6.5分，阿苏）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ddcc75661328487dffcc6ead8fc8f6ae38b23bd6</link>
+      <guid>ddcc75661328487dffcc6ead8fc8f6ae38b23bd6</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:56 GMT</pubDate>
+      <description>这是文件 ER317-评《神奇动物3：邓布利多之谜》（6.5分，阿苏）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ddcc75661328487dffcc6ead8fc8f6ae38b23bd6" length="4631830" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>ER318-评《哭悲》（7.5分，杨超）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c9a8f82cbf363d9531b106dab963f9e17efc6d88</link>
+      <guid>c9a8f82cbf363d9531b106dab963f9e17efc6d88</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:57 GMT</pubDate>
+      <description>这是文件 ER318-评《哭悲》（7.5分，杨超）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c9a8f82cbf363d9531b106dab963f9e17efc6d88" length="3799673" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er002：幻体.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b6f7d14a7b00e6c3072185fcc26f901f2190f914</link>
+      <guid>b6f7d14a7b00e6c3072185fcc26f901f2190f914</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:58 GMT</pubDate>
+      <description>这是文件 er002：幻体.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b6f7d14a7b00e6c3072185fcc26f901f2190f914" length="482524" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er003：超脑48小时.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c171cbbf66d788dcacdebcec82f10d847100ead2</link>
+      <guid>c171cbbf66d788dcacdebcec82f10d847100ead2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:58 GMT</pubDate>
+      <description>这是文件 er003：超脑48小时.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c171cbbf66d788dcacdebcec82f10d847100ead2" length="936219" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er004：X战警：天启.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=febdc6c4cf545a932734d5106d505ce05e052112</link>
+      <guid>febdc6c4cf545a932734d5106d505ce05e052112</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:58 GMT</pubDate>
+      <description>这是文件 er004：X战警：天启.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=febdc6c4cf545a932734d5106d505ce05e052112" length="935801" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er005：钢刀.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=caa388ff8b9f15ee04594308b4c0024ff1d961bf</link>
+      <guid>caa388ff8b9f15ee04594308b4c0024ff1d961bf</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:59 GMT</pubDate>
+      <description>这是文件 er005：钢刀.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=caa388ff8b9f15ee04594308b4c0024ff1d961bf" length="954217" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er006：惊天魔盗团2.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a2d048aef9c83a088007290a4de6d48f4bd0cd82</link>
+      <guid>a2d048aef9c83a088007290a4de6d48f4bd0cd82</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:59 GMT</pubDate>
+      <description>这是文件 er006：惊天魔盗团2.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a2d048aef9c83a088007290a4de6d48f4bd0cd82" length="949201" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er008：《寒战2》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=314e13a78738f35aa6745eaf4a2a77ff7c8d7c9f</link>
+      <guid>314e13a78738f35aa6745eaf4a2a77ff7c8d7c9f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:39:59 GMT</pubDate>
+      <description>这是文件 er008：《寒战2》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=314e13a78738f35aa6745eaf4a2a77ff7c8d7c9f" length="975533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er009：忍者神龟2.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f3f4dc39033a2fbe96c72455565673ee399daf86</link>
+      <guid>f3f4dc39033a2fbe96c72455565673ee399daf86</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:00 GMT</pubDate>
+      <description>这是文件 er009：忍者神龟2.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f3f4dc39033a2fbe96c72455565673ee399daf86" length="971771" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er010：《大鱼海棠》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3182a4a4364167c5b54ecc31d4a907594dceb75c</link>
+      <guid>3182a4a4364167c5b54ecc31d4a907594dceb75c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:00 GMT</pubDate>
+      <description>这是文件 er010：《大鱼海棠》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3182a4a4364167c5b54ecc31d4a907594dceb75c" length="910749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er011：《绝地逃亡》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4e960f5822e4a1c748d2ac67db48c590242045b8</link>
+      <guid>4e960f5822e4a1c748d2ac67db48c590242045b8</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:00 GMT</pubDate>
+      <description>这是文件 er011：《绝地逃亡》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4e960f5822e4a1c748d2ac67db48c590242045b8" length="952117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er012：我们诞生在中国.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1e701d3ee6bd3664c579ce8478f954e9c213af6b</link>
+      <guid>1e701d3ee6bd3664c579ce8478f954e9c213af6b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:01 GMT</pubDate>
+      <description>这是文件 er012：我们诞生在中国.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1e701d3ee6bd3664c579ce8478f954e9c213af6b" length="947937" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er014：谍影重重5.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d8858d0f692138ad0b60d8dcc6d60c454cb2e4a4</link>
+      <guid>d8858d0f692138ad0b60d8dcc6d60c454cb2e4a4</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:01 GMT</pubDate>
+      <description>这是文件 er014：谍影重重5.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d8858d0f692138ad0b60d8dcc6d60c454cb2e4a4" length="900290" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er015：七月与安生.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0963037030d46d546a6c88e4fed210a7bc3f373b</link>
+      <guid>0963037030d46d546a6c88e4fed210a7bc3f373b</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:02 GMT</pubDate>
+      <description>这是文件 er015：七月与安生.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0963037030d46d546a6c88e4fed210a7bc3f373b" length="978876" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er016：神奇动物在哪里.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a4a0ce116e96d1388f0c885c291b26b35c03e284</link>
+      <guid>a4a0ce116e96d1388f0c885c291b26b35c03e284</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:02 GMT</pubDate>
+      <description>这是文件 er016：神奇动物在哪里.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a4a0ce116e96d1388f0c885c291b26b35c03e284" length="4457959" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er017：《海洋奇缘》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=217469be3f218ac5acdc20a627600b30894f4fd2</link>
+      <guid>217469be3f218ac5acdc20a627600b30894f4fd2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:02 GMT</pubDate>
+      <description>这是文件 er017：《海洋奇缘》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=217469be3f218ac5acdc20a627600b30894f4fd2" length="5472739" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er018：间谍同盟.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6532f21d5c5e583ed5697a1f97cf7d0d380eb356</link>
+      <guid>6532f21d5c5e583ed5697a1f97cf7d0d380eb356</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:03 GMT</pubDate>
+      <description>这是文件 er018：间谍同盟.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6532f21d5c5e583ed5697a1f97cf7d0d380eb356" length="6499699" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er019：佩小姐的奇幻城堡.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=40abf2eaa1a287445f0bd23c34a7032bfb9e3bb9</link>
+      <guid>40abf2eaa1a287445f0bd23c34a7032bfb9e3bb9</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:03 GMT</pubDate>
+      <description>这是文件 er019：佩小姐的奇幻城堡.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=40abf2eaa1a287445f0bd23c34a7032bfb9e3bb9" length="4724199" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er020：塔洛耳旁风.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=41d18f9309bb122e7bf7ec06db082464316ea0ea</link>
+      <guid>41d18f9309bb122e7bf7ec06db082464316ea0ea</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:04 GMT</pubDate>
+      <description>这是文件 er020：塔洛耳旁风.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=41d18f9309bb122e7bf7ec06db082464316ea0ea" length="5739839" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er021：我在故宫修文物.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4eb9e497a275ad38ba073c923b3b6666d2b8c0d7</link>
+      <guid>4eb9e497a275ad38ba073c923b3b6666d2b8c0d7</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:04 GMT</pubDate>
+      <description>这是文件 er021：我在故宫修文物.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4eb9e497a275ad38ba073c923b3b6666d2b8c0d7" length="5882781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er022：生门.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7d9052d8fffbb52c85d7d72ca512f9edb4b96f84</link>
+      <guid>7d9052d8fffbb52c85d7d72ca512f9edb4b96f84</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:04 GMT</pubDate>
+      <description>这是文件 er022：生门.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7d9052d8fffbb52c85d7d72ca512f9edb4b96f84" length="6934367" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er023：摆渡人.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9c2f4661d2013f1142ece7a454b4052ef519bd07</link>
+      <guid>9c2f4661d2013f1142ece7a454b4052ef519bd07</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:05 GMT</pubDate>
+      <description>这是文件 er023：摆渡人.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9c2f4661d2013f1142ece7a454b4052ef519bd07" length="7584293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er024：铁道飞虎.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=89b915c6640ec06ff4946e46cc2386635986ca23</link>
+      <guid>89b915c6640ec06ff4946e46cc2386635986ca23</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:05 GMT</pubDate>
+      <description>这是文件 er024：铁道飞虎.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=89b915c6640ec06ff4946e46cc2386635986ca23" length="4961599" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er025：情圣.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7eda269a701f5d3bc6267a89c9ec86a133bdf8fb</link>
+      <guid>7eda269a701f5d3bc6267a89c9ec86a133bdf8fb</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:06 GMT</pubDate>
+      <description>这是文件 er025：情圣.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7eda269a701f5d3bc6267a89c9ec86a133bdf8fb" length="11525648" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er026：你好，疯子！.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=40182f13a885a8807646fb6acb3197bfed72fe20</link>
+      <guid>40182f13a885a8807646fb6acb3197bfed72fe20</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:06 GMT</pubDate>
+      <description>这是文件 er026：你好，疯子！.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=40182f13a885a8807646fb6acb3197bfed72fe20" length="7644061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er027：少年巴比伦.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9b10f872ffe8b540f7863b327f294ec0ab5b8986</link>
+      <guid>9b10f872ffe8b540f7863b327f294ec0ab5b8986</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:07 GMT</pubDate>
+      <description>这是文件 er027：少年巴比伦.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9b10f872ffe8b540f7863b327f294ec0ab5b8986" length="6386422" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er028：太空旅客.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=45c82990b1c9662623410a99ba12cb3ecda19daa</link>
+      <guid>45c82990b1c9662623410a99ba12cb3ecda19daa</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:07 GMT</pubDate>
+      <description>这是文件 er028：太空旅客.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=45c82990b1c9662623410a99ba12cb3ecda19daa" length="3479934" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er040：一条狗的使命.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=bf312c87589dd16bd26fb9e8899424a4cb17bece</link>
+      <guid>bf312c87589dd16bd26fb9e8899424a4cb17bece</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:15 GMT</pubDate>
+      <description>这是文件 er040：一条狗的使命.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bf312c87589dd16bd26fb9e8899424a4cb17bece" length="3329260" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er042：天才捕手.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7c1cffdcd34a6f4a6c3dce7f78aa3daba767034f</link>
+      <guid>7c1cffdcd34a6f4a6c3dce7f78aa3daba767034f</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:17 GMT</pubDate>
+      <description>这是文件 er042：天才捕手.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7c1cffdcd34a6f4a6c3dce7f78aa3daba767034f" length="3474894" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er044：生化危机6：终章.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6805c1a104a6b8ae4510cacf925c5b21be9f73e2</link>
+      <guid>6805c1a104a6b8ae4510cacf925c5b21be9f73e2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:18 GMT</pubDate>
+      <description>这是文件 er044：生化危机6：终章.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6805c1a104a6b8ae4510cacf925c5b21be9f73e2" length="5036832" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er055：逃出绝命镇.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ef4b12979d4ae1fb9b893e9f7acb76fbf69462ae</link>
+      <guid>ef4b12979d4ae1fb9b893e9f7acb76fbf69462ae</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:23 GMT</pubDate>
+      <description>这是文件 er055：逃出绝命镇.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ef4b12979d4ae1fb9b893e9f7acb76fbf69462ae" length="10560163" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er073：奇幻人生.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=eabc0817fa845c7c8452e4a13a175ffe1e537d33</link>
+      <guid>eabc0817fa845c7c8452e4a13a175ffe1e537d33</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:34 GMT</pubDate>
+      <description>这是文件 er073：奇幻人生.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=eabc0817fa845c7c8452e4a13a175ffe1e537d33" length="6795604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er074：逆时营救.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0351673067ac6f97a64e164e7c0e22d93769908e</link>
+      <guid>0351673067ac6f97a64e164e7c0e22d93769908e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:35 GMT</pubDate>
+      <description>这是文件 er074：逆时营救.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0351673067ac6f97a64e164e7c0e22d93769908e" length="5002559" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er075：与君相恋100次.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=a57801c310b26bfd69f57eb603ae65515f1a6886</link>
+      <guid>a57801c310b26bfd69f57eb603ae65515f1a6886</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:35 GMT</pubDate>
+      <description>这是文件 er075：与君相恋100次.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a57801c310b26bfd69f57eb603ae65515f1a6886" length="5994377" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er077：神偷奶爸3.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6e4db6f4b28d33454067ce0a43097a94b6f3974d</link>
+      <guid>6e4db6f4b28d33454067ce0a43097a94b6f3974d</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:36 GMT</pubDate>
+      <description>这是文件 er077：神偷奶爸3.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6e4db6f4b28d33454067ce0a43097a94b6f3974d" length="4275310" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er080：悟空传.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f9d28162a1a0d13962778fd2c2f338e80e0f0354</link>
+      <guid>f9d28162a1a0d13962778fd2c2f338e80e0f0354</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:38 GMT</pubDate>
+      <description>这是文件 er080：悟空传.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f9d28162a1a0d13962778fd2c2f338e80e0f0354" length="7539572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er092：目击者之追凶.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3a92dc1b4d36f26142c6e8621ed35e8ac06131c2</link>
+      <guid>3a92dc1b4d36f26142c6e8621ed35e8ac06131c2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:44 GMT</pubDate>
+      <description>这是文件 er092：目击者之追凶.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3a92dc1b4d36f26142c6e8621ed35e8ac06131c2" length="6189981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er093：星际特工：千星之城.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b4b06923fa742ec4fcbea945ceeff6ba9312366a</link>
+      <guid>b4b06923fa742ec4fcbea945ceeff6ba9312366a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:44 GMT</pubDate>
+      <description>这是文件 er093：星际特工：千星之城.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b4b06923fa742ec4fcbea945ceeff6ba9312366a" length="6298233" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er095：看不见客人.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b6fc77b6075e8be147da5c6813b331365467a4b0</link>
+      <guid>b6fc77b6075e8be147da5c6813b331365467a4b0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:45 GMT</pubDate>
+      <description>这是文件 er095：看不见客人.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b6fc77b6075e8be147da5c6813b331365467a4b0" length="7455980" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er101：空天猎.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=529a2466da2fcfe3ac16241ecc955ca8b779b909</link>
+      <guid>529a2466da2fcfe3ac16241ecc955ca8b779b909</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:49 GMT</pubDate>
+      <description>这是文件 er101：空天猎.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=529a2466da2fcfe3ac16241ecc955ca8b779b909" length="5386246" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er102：英伦对决.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2644f3b02330db58ddc90e63a9e052d96b3b7833</link>
+      <guid>2644f3b02330db58ddc90e63a9e052d96b3b7833</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:49 GMT</pubDate>
+      <description>这是文件 er102：英伦对决.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2644f3b02330db58ddc90e63a9e052d96b3b7833" length="5003813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er103：追龙.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=58de993683ebd4a6bae0d50ec932e227d0e68399</link>
+      <guid>58de993683ebd4a6bae0d50ec932e227d0e68399</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:50 GMT</pubDate>
+      <description>这是文件 er103：追龙.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=58de993683ebd4a6bae0d50ec932e227d0e68399" length="8550197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er104：羞羞的铁拳.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=874597686f1ce097f143dbdd639a2f901886a7a6</link>
+      <guid>874597686f1ce097f143dbdd639a2f901886a7a6</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:51 GMT</pubDate>
+      <description>这是文件 er104：羞羞的铁拳.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=874597686f1ce097f143dbdd639a2f901886a7a6" length="4151595" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er107：家族之苦2.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=68aac6f6ea38282b34356c64786cb7eceb984577</link>
+      <guid>68aac6f6ea38282b34356c64786cb7eceb984577</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:53 GMT</pubDate>
+      <description>这是文件 er107：家族之苦2.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=68aac6f6ea38282b34356c64786cb7eceb984577" length="6176189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er108：正义联盟.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=2c7caed45aac2601ef08c011053c38efc8366145</link>
+      <guid>2c7caed45aac2601ef08c011053c38efc8366145</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:53 GMT</pubDate>
+      <description>这是文件 er108：正义联盟.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=2c7caed45aac2601ef08c011053c38efc8366145" length="8518850" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er109：暴雪将至.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6abfac76292e543d744173ab5dc1c404efa53ebb</link>
+      <guid>6abfac76292e543d744173ab5dc1c404efa53ebb</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:54 GMT</pubDate>
+      <description>这是文件 er109：暴雪将至.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6abfac76292e543d744173ab5dc1c404efa53ebb" length="7976757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er111：寻梦环游记.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b8bba934f9ee5d56e292c243977b1564badd9f8e</link>
+      <guid>b8bba934f9ee5d56e292c243977b1564badd9f8e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:55 GMT</pubDate>
+      <description>这是文件 er111：寻梦环游记.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b8bba934f9ee5d56e292c243977b1564badd9f8e" length="7513658" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er114：妖猫传.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=881b6513ee8f3c5ce035fc38fc3ed5f51d593f38</link>
+      <guid>881b6513ee8f3c5ce035fc38fc3ed5f51d593f38</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:57 GMT</pubDate>
+      <description>这是文件 er114：妖猫传.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=881b6513ee8f3c5ce035fc38fc3ed5f51d593f38" length="6202938" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er115：心理罪之城市之光.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=74b3baac2036b28827b39e632203afe54782f5f6</link>
+      <guid>74b3baac2036b28827b39e632203afe54782f5f6</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:58 GMT</pubDate>
+      <description>这是文件 er115：心理罪之城市之光.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=74b3baac2036b28827b39e632203afe54782f5f6" length="6149439" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er116：前任3：再见前任.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4468c75e6b30fc9cb43a907e22a9c60d0b4ce28c</link>
+      <guid>4468c75e6b30fc9cb43a907e22a9c60d0b4ce28c</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:58 GMT</pubDate>
+      <description>这是文件 er116：前任3：再见前任.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4468c75e6b30fc9cb43a907e22a9c60d0b4ce28c" length="2906703" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er117：妖铃铃.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9000f1ae814609e98acb976fb7e8f651b74cb2c2</link>
+      <guid>9000f1ae814609e98acb976fb7e8f651b74cb2c2</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:59 GMT</pubDate>
+      <description>这是文件 er117：妖铃铃.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9000f1ae814609e98acb976fb7e8f651b74cb2c2" length="4150341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er118：二代妖精.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=8e6dacc217438d0354e09c293e9f2255ab959439</link>
+      <guid>8e6dacc217438d0354e09c293e9f2255ab959439</guid>
+      <pubDate>Sat, 09 Aug 2025 12:40:59 GMT</pubDate>
+      <description>这是文件 er118：二代妖精.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8e6dacc217438d0354e09c293e9f2255ab959439" length="5025129" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er119：解忧杂货店.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=262dda5fe38b7e56b26a8e66236246bd7cd39370</link>
+      <guid>262dda5fe38b7e56b26a8e66236246bd7cd39370</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:00 GMT</pubDate>
+      <description>这是文件 er119：解忧杂货店.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=262dda5fe38b7e56b26a8e66236246bd7cd39370" length="3819317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er120：神秘巨星.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=278fbe3b1a209f9c68fe9d591ac1f0086264e1aa</link>
+      <guid>278fbe3b1a209f9c68fe9d591ac1f0086264e1aa</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:00 GMT</pubDate>
+      <description>这是文件 er120：神秘巨星.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=278fbe3b1a209f9c68fe9d591ac1f0086264e1aa" length="8049482" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er121：移动迷宫3.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fc0663d2bafc704d15c9b095b0e2b01ecef420d0</link>
+      <guid>fc0663d2bafc704d15c9b095b0e2b01ecef420d0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:01 GMT</pubDate>
+      <description>这是文件 er121：移动迷宫3.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fc0663d2bafc704d15c9b095b0e2b01ecef420d0" length="3597799" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er122：奇迹男孩.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=40a5ef48674b9534638a2f71c063e6c43dfffae1</link>
+      <guid>40a5ef48674b9534638a2f71c063e6c43dfffae1</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:01 GMT</pubDate>
+      <description>这是文件 er122：奇迹男孩.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=40a5ef48674b9534638a2f71c063e6c43dfffae1" length="5830119" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er123：马戏之王.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=5c20772543dd1f6552674bc229111e080c7838cf</link>
+      <guid>5c20772543dd1f6552674bc229111e080c7838cf</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:02 GMT</pubDate>
+      <description>这是文件 er123：马戏之王.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=5c20772543dd1f6552674bc229111e080c7838cf" length="5532950" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er124：南极之恋.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3238e0840f975f923e07ab304c4cb8844124ac54</link>
+      <guid>3238e0840f975f923e07ab304c4cb8844124ac54</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:02 GMT</pubDate>
+      <description>这是文件 er124：南极之恋.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3238e0840f975f923e07ab304c4cb8844124ac54" length="3398432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er125：忌日快乐.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=470e15e5cf177672dd9255c633b01e0ab0d948e0</link>
+      <guid>470e15e5cf177672dd9255c633b01e0ab0d948e0</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:03 GMT</pubDate>
+      <description>这是文件 er125：忌日快乐.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=470e15e5cf177672dd9255c633b01e0ab0d948e0" length="4522742" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er127：西游记女儿国.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d87e67d7767cec08ef3008cea80c1220515c6c2e</link>
+      <guid>d87e67d7767cec08ef3008cea80c1220515c6c2e</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:05 GMT</pubDate>
+      <description>这是文件 er127：西游记女儿国.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d87e67d7767cec08ef3008cea80c1220515c6c2e" length="5497423" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er128：红海行动.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=743737f1ec050730f9ff197c4019ca0a45d1749a</link>
+      <guid>743737f1ec050730f9ff197c4019ca0a45d1749a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:05 GMT</pubDate>
+      <description>这是文件 er128：红海行动.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=743737f1ec050730f9ff197c4019ca0a45d1749a" length="6695294" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er177：《超能泰坦》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=ac9b634a5adc1a9daaebd46ec2204d71e9f6763a</link>
+      <guid>ac9b634a5adc1a9daaebd46ec2204d71e9f6763a</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:30 GMT</pubDate>
+      <description>这是文件 er177：《超能泰坦》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=ac9b634a5adc1a9daaebd46ec2204d71e9f6763a" length="2020839" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>er214：《乐高大电影2》.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f3bda9384c60727ffef45c06950bd61f0ff14adf</link>
+      <guid>f3bda9384c60727ffef45c06950bd61f0ff14adf</guid>
+      <pubDate>Sat, 09 Aug 2025 12:41:49 GMT</pubDate>
+      <description>这是文件 er214：《乐高大电影2》.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f3bda9384c60727ffef45c06950bd61f0ff14adf" length="2785495" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
