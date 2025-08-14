@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>咫尺天涯：金马奖十年2010-2019</title>
+    <link>http://zephyr.cyou:3003</link>
+    <description>此播客是 咫尺天涯：金马奖十年2010-2019 的有声书合集。</description>
+    <language>zh-cn</language>
+    <itunes:summary>此播客是 咫尺天涯：金马奖十年2010-2019 的有声书合集。</itunes:summary>
+    <itunes:author>反派影评</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://zephyr.cyou:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
+    <item>
+      <title>01.颁奖礼：禁忌之言.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=dec45dca3b14b78d3b6945ab2e0644cbe13d9c6b</link>
+      <guid>dec45dca3b14b78d3b6945ab2e0644cbe13d9c6b</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:28 GMT</pubDate>
+      <description>这是文件 01.颁奖礼：禁忌之言.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=dec45dca3b14b78d3b6945ab2e0644cbe13d9c6b" length="37034822" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>02.颁奖礼：寒蝉效应.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fa2cc42f04f8c7d45594a19779c961f10a5dfeb2</link>
+      <guid>fa2cc42f04f8c7d45594a19779c961f10a5dfeb2</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:28 GMT</pubDate>
+      <description>这是文件 02.颁奖礼：寒蝉效应.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fa2cc42f04f8c7d45594a19779c961f10a5dfeb2" length="27605663" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>03.颁奖礼：归去来兮.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0223731d6751a51c74d69f79b6e1ad3e5081c824</link>
+      <guid>0223731d6751a51c74d69f79b6e1ad3e5081c824</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:38 GMT</pubDate>
+      <description>这是文件 03.颁奖礼：归去来兮.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0223731d6751a51c74d69f79b6e1ad3e5081c824" length="44675116" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>04.颁奖礼：父辈旗帜.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3443b264256c06d2b9d4c4cbe07bb51e77c03b55</link>
+      <guid>3443b264256c06d2b9d4c4cbe07bb51e77c03b55</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:17 GMT</pubDate>
+      <description>这是文件 04.颁奖礼：父辈旗帜.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3443b264256c06d2b9d4c4cbe07bb51e77c03b55" length="13492017" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>05.台湾片：浪潮挽歌.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4e43c4804ef14b084fd1531a4d14102580c07f46</link>
+      <guid>4e43c4804ef14b084fd1531a4d14102580c07f46</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:41 GMT</pubDate>
+      <description>这是文件 05.台湾片：浪潮挽歌.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4e43c4804ef14b084fd1531a4d14102580c07f46" length="67018796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>06.台湾片：螺蛳道场.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=61bee078a16e2371dce0ac8ac3dcf41402ba96f4</link>
+      <guid>61bee078a16e2371dce0ac8ac3dcf41402ba96f4</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:21 GMT</pubDate>
+      <description>这是文件 06.台湾片：螺蛳道场.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=61bee078a16e2371dce0ac8ac3dcf41402ba96f4" length="42769222" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>07.南洋片：亚洲.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=02f3a9ff079ff9c256c9368d2047938e6f00fd92</link>
+      <guid>02f3a9ff079ff9c256c9368d2047938e6f00fd92</guid>
+      <pubDate>Sat, 02 Aug 2025 09:25:54 GMT</pubDate>
+      <description>这是文件 07.南洋片：亚洲.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=02f3a9ff079ff9c256c9368d2047938e6f00fd92" length="39322725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>08.十佳片：日拱一卒.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=da4f761866ddd3cb5c6ae187c603466a09af205d</link>
+      <guid>da4f761866ddd3cb5c6ae187c603466a09af205d</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:35 GMT</pubDate>
+      <description>这是文件 08.十佳片：日拱一卒.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=da4f761866ddd3cb5c6ae187c603466a09af205d" length="42854486" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>09.十佳片：沉默如谜.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=35c98d6754e69b00f075a0c8209ad7c82faea07b</link>
+      <guid>35c98d6754e69b00f075a0c8209ad7c82faea07b</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:47 GMT</pubDate>
+      <description>这是文件 09.十佳片：沉默如谜.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=35c98d6754e69b00f075a0c8209ad7c82faea07b" length="40361359" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>10.十佳片：青鸾舞镜.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=98f57a1118583ebaec17839c64efdfa5dc89f792</link>
+      <guid>98f57a1118583ebaec17839c64efdfa5dc89f792</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:41 GMT</pubDate>
+      <description>这是文件 10.十佳片：青鸾舞镜.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=98f57a1118583ebaec17839c64efdfa5dc89f792" length="49768367" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>彩蛋-2020+金马奖.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=182375a8e0206403fff3d49c45a85083a83a3005</link>
+      <guid>182375a8e0206403fff3d49c45a85083a83a3005</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:43 GMT</pubDate>
+      <description>这是文件 彩蛋-2020+金马奖.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=182375a8e0206403fff3d49c45a85083a83a3005" length="86541246" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
