@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>为了华语电影</title>
+    <link>http://zephyr.cyou:3003</link>
+    <description>此播客是 为了华语电影 的有声书合集。</description>
+    <language>zh-cn</language>
+    <itunes:summary>此播客是 为了华语电影 的有声书合集。</itunes:summary>
+    <itunes:author>电影巨辩</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>01-中国电影的四十五年改开史.m4a</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=88721c00d7412ec2013af48aacdd2e6a88e82d15</link>
+      <guid>88721c00d7412ec2013af48aacdd2e6a88e82d15</guid>
+      <pubDate>Fri, 01 Aug 2025 15:50:03 GMT</pubDate>
+      <description>这是文件 01-中国电影的四十五年改开史.m4a 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=88721c00d7412ec2013af48aacdd2e6a88e82d15" length="266567215" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>02-香港特区电影，始于1997.m4a</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=747f29e738a4dc9251a5c29433e9419d0443f696</link>
+      <guid>747f29e738a4dc9251a5c29433e9419d0443f696</guid>
+      <pubDate>Fri, 01 Aug 2025 15:50:18 GMT</pubDate>
+      <description>这是文件 02-香港特区电影，始于1997.m4a 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=747f29e738a4dc9251a5c29433e9419d0443f696" length="202865365" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>03._杨德昌和华人社会.m4a</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=eec7104a009e36ef1580db9311a35a8a17b79a6e</link>
+      <guid>eec7104a009e36ef1580db9311a35a8a17b79a6e</guid>
+      <pubDate>Fri, 01 Aug 2025 15:50:29 GMT</pubDate>
+      <description>这是文件 03._杨德昌和华人社会.m4a 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=eec7104a009e36ef1580db9311a35a8a17b79a6e" length="278948548" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>04._褒贬贾樟柯.m4a</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=fa0e2b6b1029d01db9cc2c0ed45c09ae052f840d</link>
+      <guid>fa0e2b6b1029d01db9cc2c0ed45c09ae052f840d</guid>
+      <pubDate>Fri, 01 Aug 2025 15:50:38 GMT</pubDate>
+      <description>这是文件 04._褒贬贾樟柯.m4a 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=fa0e2b6b1029d01db9cc2c0ed45c09ae052f840d" length="194017780" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>05._像银河映像一样，寻找出路.m4a</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9ad15ffde1ea4a88940504e6798636df85f231f5</link>
+      <guid>9ad15ffde1ea4a88940504e6798636df85f231f5</guid>
+      <pubDate>Fri, 01 Aug 2025 15:50:47 GMT</pubDate>
+      <description>这是文件 05._像银河映像一样，寻找出路.m4a 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9ad15ffde1ea4a88940504e6798636df85f231f5" length="265596870" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>06. 王家卫与《花样年华》.m4a</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=1bdfcb265aee6692dd74bfba424dcf86225eb5b8</link>
+      <guid>1bdfcb265aee6692dd74bfba424dcf86225eb5b8</guid>
+      <pubDate>Sat, 09 Aug 2025 16:08:14 GMT</pubDate>
+      <description>这是文件 06. 王家卫与《花样年华》.m4a 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=1bdfcb265aee6692dd74bfba424dcf86225eb5b8" length="204446164" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>07.再造台湾（电影）.MP3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e668152baaec60b4bb024b1227ebde446670605c</link>
+      <guid>e668152baaec60b4bb024b1227ebde446670605c</guid>
+      <pubDate>Sat, 09 Aug 2025 16:05:59 GMT</pubDate>
+      <description>这是文件 07.再造台湾（电影）.MP3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e668152baaec60b4bb024b1227ebde446670605c" length="478083916" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>09.香港娱乐工业的特例：张曼玉.MP3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=bfc8aad55797b8ab1f6aefffbc50ab8404fd7f8d</link>
+      <guid>bfc8aad55797b8ab1f6aefffbc50ab8404fd7f8d</guid>
+      <pubDate>Sat, 09 Aug 2025 16:07:50 GMT</pubDate>
+      <description>这是文件 09.香港娱乐工业的特例：张曼玉.MP3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bfc8aad55797b8ab1f6aefffbc50ab8404fd7f8d" length="420779622" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>8.黄建新与体制：从批判到加入.MP3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=d5029fa7116f5050293548b122cf92737334091f</link>
+      <guid>d5029fa7116f5050293548b122cf92737334091f</guid>
+      <pubDate>Sat, 09 Aug 2025 16:06:46 GMT</pubDate>
+      <description>这是文件 8.黄建新与体制：从批判到加入.MP3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d5029fa7116f5050293548b122cf92737334091f" length="335182417" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
