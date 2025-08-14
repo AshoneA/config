@@ -2,85 +2,85 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
   <channel>
     <title>去日苦多：香港电影十年 2010-2019</title>
-    <link>http://zephyr.cyou:3003</link>
+    <link>http://47.101.137.82:3003</link>
     <description>此播客是 去日苦多：香港电影十年 2010-2019 的有声书合集。</description>
     <language>zh-cn</language>
     <itunes:summary>此播客是 去日苦多：香港电影十年 2010-2019 的有声书合集。</itunes:summary>
     <itunes:author>反派影评</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://zephyr.cyou:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
+    <itunes:image href="http://47.101.137.82:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
     <item>
       <title>01.合拍片：名家荟萃.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=b58becea0f1169a6781edae4a23d25a0e605ae17</link>
+      <link>http://47.101.137.82:3003/get-audio?id=b58becea0f1169a6781edae4a23d25a0e605ae17</link>
       <guid>b58becea0f1169a6781edae4a23d25a0e605ae17</guid>
       <pubDate>Sat, 02 Aug 2025 09:36:39 GMT</pubDate>
       <description>这是文件 01.合拍片：名家荟萃.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b58becea0f1169a6781edae4a23d25a0e605ae17" length="47013185" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=b58becea0f1169a6781edae4a23d25a0e605ae17" length="47013185" type="audio/mpeg"/>
     </item>
     <item>
       <title>02.合拍片：冷饭与烂饭.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=bca61eb0ca5b54b5412d0aa472730818d95dc1f4</link>
+      <link>http://47.101.137.82:3003/get-audio?id=bca61eb0ca5b54b5412d0aa472730818d95dc1f4</link>
       <guid>bca61eb0ca5b54b5412d0aa472730818d95dc1f4</guid>
       <pubDate>Sat, 02 Aug 2025 09:36:47 GMT</pubDate>
       <description>这是文件 02.合拍片：冷饭与烂饭.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bca61eb0ca5b54b5412d0aa472730818d95dc1f4" length="43090641" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=bca61eb0ca5b54b5412d0aa472730818d95dc1f4" length="43090641" type="audio/mpeg"/>
     </item>
     <item>
       <title>03.合拍片：类型片观察.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=3e330a0fd023dbc2d5458dd1a0f05e1f4d8af136</link>
+      <link>http://47.101.137.82:3003/get-audio?id=3e330a0fd023dbc2d5458dd1a0f05e1f4d8af136</link>
       <guid>3e330a0fd023dbc2d5458dd1a0f05e1f4d8af136</guid>
       <pubDate>Sat, 02 Aug 2025 09:36:46 GMT</pubDate>
       <description>这是文件 03.合拍片：类型片观察.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3e330a0fd023dbc2d5458dd1a0f05e1f4d8af136" length="48952936" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=3e330a0fd023dbc2d5458dd1a0f05e1f4d8af136" length="48952936" type="audio/mpeg"/>
     </item>
     <item>
       <title>04.港产片：恐惧本身.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=4d3f4f21396fbcf8a71ef4a226d64ac011436b75</link>
+      <link>http://47.101.137.82:3003/get-audio?id=4d3f4f21396fbcf8a71ef4a226d64ac011436b75</link>
       <guid>4d3f4f21396fbcf8a71ef4a226d64ac011436b75</guid>
       <pubDate>Sat, 02 Aug 2025 09:36:36 GMT</pubDate>
       <description>这是文件 04.港产片：恐惧本身.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4d3f4f21396fbcf8a71ef4a226d64ac011436b75" length="38344293" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=4d3f4f21396fbcf8a71ef4a226d64ac011436b75" length="38344293" type="audio/mpeg"/>
     </item>
     <item>
       <title>05.港产片：作茧成蝶.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=a991ad030c795e1a9c00ba1bd983b54b84b36675</link>
+      <link>http://47.101.137.82:3003/get-audio?id=a991ad030c795e1a9c00ba1bd983b54b84b36675</link>
       <guid>a991ad030c795e1a9c00ba1bd983b54b84b36675</guid>
       <pubDate>Sat, 02 Aug 2025 09:34:54 GMT</pubDate>
       <description>这是文件 05.港产片：作茧成蝶.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a991ad030c795e1a9c00ba1bd983b54b84b36675" length="33867003" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=a991ad030c795e1a9c00ba1bd983b54b84b36675" length="33867003" type="audio/mpeg"/>
     </item>
     <item>
       <title>06.港产片：前仆后继.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=dafe34e0a6b9cc1f31e24f2b7e3e9c7858fd2ec6</link>
+      <link>http://47.101.137.82:3003/get-audio?id=dafe34e0a6b9cc1f31e24f2b7e3e9c7858fd2ec6</link>
       <guid>dafe34e0a6b9cc1f31e24f2b7e3e9c7858fd2ec6</guid>
       <pubDate>Sat, 02 Aug 2025 09:14:21 GMT</pubDate>
       <description>这是文件 06.港产片：前仆后继.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=dafe34e0a6b9cc1f31e24f2b7e3e9c7858fd2ec6" length="24208803" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=dafe34e0a6b9cc1f31e24f2b7e3e9c7858fd2ec6" length="24208803" type="audio/mpeg"/>
     </item>
     <item>
       <title>07.十佳片：落日余晖.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=d371f47b5630689c1489bc41a84be422462a7e81</link>
+      <link>http://47.101.137.82:3003/get-audio?id=d371f47b5630689c1489bc41a84be422462a7e81</link>
       <guid>d371f47b5630689c1489bc41a84be422462a7e81</guid>
       <pubDate>Sat, 02 Aug 2025 09:36:39 GMT</pubDate>
       <description>这是文件 07.十佳片：落日余晖.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=d371f47b5630689c1489bc41a84be422462a7e81" length="39573093" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=d371f47b5630689c1489bc41a84be422462a7e81" length="39573093" type="audio/mpeg"/>
     </item>
     <item>
       <title>08.十佳片：未来昔日.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=f4b9b419bf5112aa79ce21c2b25a93203f61b063</link>
+      <link>http://47.101.137.82:3003/get-audio?id=f4b9b419bf5112aa79ce21c2b25a93203f61b063</link>
       <guid>f4b9b419bf5112aa79ce21c2b25a93203f61b063</guid>
       <pubDate>Sat, 02 Aug 2025 09:36:43 GMT</pubDate>
       <description>这是文件 08.十佳片：未来昔日.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f4b9b419bf5112aa79ce21c2b25a93203f61b063" length="42250540" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=f4b9b419bf5112aa79ce21c2b25a93203f61b063" length="42250540" type="audio/mpeg"/>
     </item>
     <item>
       <title>09.十佳片：风中风中.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=0788fd607944181d7d600a023af19c11fa36d52c</link>
+      <link>http://47.101.137.82:3003/get-audio?id=0788fd607944181d7d600a023af19c11fa36d52c</link>
       <guid>0788fd607944181d7d600a023af19c11fa36d52c</guid>
       <pubDate>Sat, 02 Aug 2025 09:36:41 GMT</pubDate>
       <description>这是文件 09.十佳片：风中风中.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0788fd607944181d7d600a023af19c11fa36d52c" length="31088940" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=0788fd607944181d7d600a023af19c11fa36d52c" length="31088940" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
