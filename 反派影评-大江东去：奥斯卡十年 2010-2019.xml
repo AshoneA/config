@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>大江东去：奥斯卡十年 2010-2019</title>
+    <link>http://zephyr.cyou:3003</link>
+    <description>此播客是 大江东去：奥斯卡十年 2010-2019 的有声书合集。</description>
+    <language>zh-cn</language>
+    <itunes:summary>此播客是 大江东去：奥斯卡十年 2010-2019 的有声书合集。</itunes:summary>
+    <itunes:author>反派影评</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://zephyr.cyou:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
+    <item>
+      <title>01.十年关键词.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c7952120af9c813c5c53dd55cf5d14e5a82941c3</link>
+      <guid>c7952120af9c813c5c53dd55cf5d14e5a82941c3</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:43 GMT</pubDate>
+      <description>这是文件 01.十年关键词.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c7952120af9c813c5c53dd55cf5d14e5a82941c3" length="19677424" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>02.十年颁奖礼.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=623492e66fc1a2afd84ae9df66c9bbb20f0e7021</link>
+      <guid>623492e66fc1a2afd84ae9df66c9bbb20f0e7021</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:12 GMT</pubDate>
+      <description>这是文件 02.十年颁奖礼.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=623492e66fc1a2afd84ae9df66c9bbb20f0e7021" length="33218867" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>03.导演&amp;表演.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e9c45b1d80db032242133013ad930de6fde0027a</link>
+      <guid>e9c45b1d80db032242133013ad930de6fde0027a</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:12 GMT</pubDate>
+      <description>这是文件 03.导演&amp;表演.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e9c45b1d80db032242133013ad930de6fde0027a" length="30767534" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>04.小奖大作.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=4ca5ba12797decac00de0fff2b84c958912a5eab</link>
+      <guid>4ca5ba12797decac00de0fff2b84c958912a5eab</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:39 GMT</pubDate>
+      <description>这是文件 04.小奖大作.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=4ca5ba12797decac00de0fff2b84c958912a5eab" length="38457982" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>05.十佳片.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=08842ae2b98c4cbf0ae5e85698cbee8ffcdeff85</link>
+      <guid>08842ae2b98c4cbf0ae5e85698cbee8ffcdeff85</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:39 GMT</pubDate>
+      <description>这是文件 05.十佳片.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=08842ae2b98c4cbf0ae5e85698cbee8ffcdeff85" length="26399874" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>06.五烂片.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=36fbcc477851f5cb54213d5454757a992c846ed6</link>
+      <guid>36fbcc477851f5cb54213d5454757a992c846ed6</guid>
+      <pubDate>Sat, 02 Aug 2025 09:31:09 GMT</pubDate>
+      <description>这是文件 06.五烂片.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=36fbcc477851f5cb54213d5454757a992c846ed6" length="33466293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>07.未来展望.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6ec36848d6855edf7f90e8eab362c11d0f6c0e7a</link>
+      <guid>6ec36848d6855edf7f90e8eab362c11d0f6c0e7a</guid>
+      <pubDate>Sat, 02 Aug 2025 09:36:45 GMT</pubDate>
+      <description>这是文件 07.未来展望.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6ec36848d6855edf7f90e8eab362c11d0f6c0e7a" length="11877885" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
