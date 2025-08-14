@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>专题节目</title>
+    <link>http://zephyr.cyou:3003</link>
+    <description>此播客是 专题节目 的有声书合集。</description>
+    <language>zh-cn</language>
+    <itunes:summary>此播客是 专题节目 的有声书合集。</itunes:summary>
+    <itunes:author>反派影评</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://zephyr.cyou:3003/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84%2Fposter.jpg"/>
+    <item>
+      <title>1. 电影外延-大师的坟场（靳锦&amp;田野&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=77580cc8887ba8021863ec2b7a8fbd9f3f3b3b91</link>
+      <guid>77580cc8887ba8021863ec2b7a8fbd9f3f3b3b91</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:42 GMT</pubDate>
+      <description>这是文件 1. 电影外延-大师的坟场（靳锦&amp;田野&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=77580cc8887ba8021863ec2b7a8fbd9f3f3b3b91" length="86112553" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1.《指环王3》随片讲解（杨超&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=075f1827512208374a62ec66e07acf69ba096951</link>
+      <guid>075f1827512208374a62ec66e07acf69ba096951</guid>
+      <pubDate>Sat, 09 Aug 2025 13:26:45 GMT</pubDate>
+      <description>这是文件 1.《指环王3》随片讲解（杨超&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=075f1827512208374a62ec66e07acf69ba096951" length="231909257" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>2. 美剧外延-时代的眼泪（靳锦&amp;田野&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=6bc38e5a386030066612836c14ca61928f067c7e</link>
+      <guid>6bc38e5a386030066612836c14ca61928f067c7e</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:43 GMT</pubDate>
+      <description>这是文件 2. 美剧外延-时代的眼泪（靳锦&amp;田野&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=6bc38e5a386030066612836c14ca61928f067c7e" length="33158796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>2.《霍比特人》及“魔戒”相关作品（麦教授&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=74821017a812aa5d7bd66fd6df6eee69baff69ad</link>
+      <guid>74821017a812aa5d7bd66fd6df6eee69baff69ad</guid>
+      <pubDate>Sat, 09 Aug 2025 13:26:47 GMT</pubDate>
+      <description>这是文件 2.《霍比特人》及“魔戒”相关作品（麦教授&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=74821017a812aa5d7bd66fd6df6eee69baff69ad" length="80006171" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>3. 导演彼得·杰克逊前作回顾（麦教授&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=67ac018af6320268b40f76ff095a6fd1a8e0905e</link>
+      <guid>67ac018af6320268b40f76ff095a6fd1a8e0905e</guid>
+      <pubDate>Sat, 09 Aug 2025 13:26:28 GMT</pubDate>
+      <description>这是文件 3. 导演彼得·杰克逊前作回顾（麦教授&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=67ac018af6320268b40f76ff095a6fd1a8e0905e" length="77669779" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>3. 游戏外延-即时战略消亡史（麦教授&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=0aea48b31e30ef63b50618d687741472359a4fd6</link>
+      <guid>0aea48b31e30ef63b50618d687741472359a4fd6</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:44 GMT</pubDate>
+      <description>这是文件 3. 游戏外延-即时战略消亡史（麦教授&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=0aea48b31e30ef63b50618d687741472359a4fd6" length="28640239" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>4. 事件讨论：《指环王》死于短视频时代？（杨超&amp;法兰西胶片&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=09321c813ccca95021e653a3de7e0584e5020e84</link>
+      <guid>09321c813ccca95021e653a3de7e0584e5020e84</guid>
+      <pubDate>Sat, 09 Aug 2025 13:26:29 GMT</pubDate>
+      <description>这是文件 4. 事件讨论：《指环王》死于短视频时代？（杨超&amp;法兰西胶片&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=09321c813ccca95021e653a3de7e0584e5020e84" length="30221381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>4. 原著设定-水利专制统治（鲁韵子&amp;麦教授&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=e41ca252693e6631b79e34ad1e8a831e8736c416</link>
+      <guid>e41ca252693e6631b79e34ad1e8a831e8736c416</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:45 GMT</pubDate>
+      <description>这是文件 4. 原著设定-水利专制统治（鲁韵子&amp;麦教授&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=e41ca252693e6631b79e34ad1e8a831e8736c416" length="47081852" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>5. 原著人物-英雄十二阶段（鲁韵子&amp;麦教授&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=09d3824713b3ef38f57105a7543a5ba8aca3eeb6</link>
+      <guid>09d3824713b3ef38f57105a7543a5ba8aca3eeb6</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:47 GMT</pubDate>
+      <description>这是文件 5. 原著人物-英雄十二阶段（鲁韵子&amp;麦教授&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=09d3824713b3ef38f57105a7543a5ba8aca3eeb6" length="80904363" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>6. 对比《基地》：不是原著基地，是拉登的基地.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=93b6f3b91faa392ac3d825b4b3e308b6048bfcfb</link>
+      <guid>93b6f3b91faa392ac3d825b4b3e308b6048bfcfb</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:25 GMT</pubDate>
+      <description>这是文件 6. 对比《基地》：不是原著基地，是拉登的基地.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=93b6f3b91faa392ac3d825b4b3e308b6048bfcfb" length="39714486" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>7. 从沙丘到三体：科幻事关“未来定义权”.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=867dccf7c8efe0d0b227b129a6b0d215d6b65b37</link>
+      <guid>867dccf7c8efe0d0b227b129a6b0d215d6b65b37</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:26 GMT</pubDate>
+      <description>这是文件 7. 从沙丘到三体：科幻事关“未来定义权”.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=867dccf7c8efe0d0b227b129a6b0d215d6b65b37" length="46689388" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>8.《沙丘》评论（无空隙版，杨超_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=b7f3401a5218aa4df5736a8232658568429d1280</link>
+      <guid>b7f3401a5218aa4df5736a8232658568429d1280</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:29 GMT</pubDate>
+      <description>这是文件 8.《沙丘》评论（无空隙版，杨超_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=b7f3401a5218aa4df5736a8232658568429d1280" length="127498871" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>8.《沙丘》随片评论（开头倒数版，杨超_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=259d53ccbf5fb2d708b1f31e310bfade6dfaca87</link>
+      <guid>259d53ccbf5fb2d708b1f31e310bfade6dfaca87</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:33 GMT</pubDate>
+      <description>这是文件 8.《沙丘》随片评论（开头倒数版，杨超_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=259d53ccbf5fb2d708b1f31e310bfade6dfaca87" length="148168624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>8.《沙丘》随片评论（杨超_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=bc57194f30427e618eafcfd0d43b3f41d7653df9</link>
+      <guid>bc57194f30427e618eafcfd0d43b3f41d7653df9</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:37 GMT</pubDate>
+      <description>这是文件 8.《沙丘》随片评论（杨超_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bc57194f30427e618eafcfd0d43b3f41d7653df9" length="147723080" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>NO.219-评《沙丘》（约6.8分，雷普利_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=7fd0307256149a336536d31c4573628dc2bb0335</link>
+      <guid>7fd0307256149a336536d31c4573628dc2bb0335</guid>
+      <pubDate>Sat, 09 Aug 2025 13:24:39 GMT</pubDate>
+      <description>这是文件 NO.219-评《沙丘》（约6.8分，雷普利_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=7fd0307256149a336536d31c4573628dc2bb0335" length="92901464" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>NO.224-评《黑客帝国4：矩阵重启》（约5.3分，田野_麦教授_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=76072de73386eeccd019ecebf20e2d182bb36fac</link>
+      <guid>76072de73386eeccd019ecebf20e2d182bb36fac</guid>
+      <pubDate>Sat, 09 Aug 2025 13:20:05 GMT</pubDate>
+      <description>这是文件 NO.224-评《黑客帝国4：矩阵重启》（约5.3分，田野_麦教授_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=76072de73386eeccd019ecebf20e2d182bb36fac" length="69654578" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>“红色药丸版”黑客回顾（上）：科幻？杰克苏B级动作片！（胶片&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=f284e71e19991b833f53ee15b46683ac86bdf710</link>
+      <guid>f284e71e19991b833f53ee15b46683ac86bdf710</guid>
+      <pubDate>Sat, 09 Aug 2025 13:20:00 GMT</pubDate>
+      <description>这是文件 “红色药丸版”黑客回顾（上）：科幻？杰克苏B级动作片！（胶片&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=f284e71e19991b833f53ee15b46683ac86bdf710" length="66091058" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>“红色药丸版”黑客回顾（下）：千年虫和杀毒软件过时了（胶片_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=162c32a7e1c2d2e7eac72774a3bbf7d4b13493e3</link>
+      <guid>162c32a7e1c2d2e7eac72774a3bbf7d4b13493e3</guid>
+      <pubDate>Sat, 09 Aug 2025 13:20:01 GMT</pubDate>
+      <description>这是文件 “红色药丸版”黑客回顾（下）：千年虫和杀毒软件过时了（胶片_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=162c32a7e1c2d2e7eac72774a3bbf7d4b13493e3" length="46097144" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>“蓝色药丸版”黑客回顾：从洞穴寓言到拟物与影像（杨超_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=711883f5186778f6c802315692097e0cc1af1412</link>
+      <guid>711883f5186778f6c802315692097e0cc1af1412</guid>
+      <pubDate>Sat, 09 Aug 2025 13:20:03 GMT</pubDate>
+      <description>这是文件 “蓝色药丸版”黑客回顾：从洞穴寓言到拟物与影像（杨超_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=711883f5186778f6c802315692097e0cc1af1412" length="97479792" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《指环王3》随片讲解（开头倒数版，杨超&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=c5a04291fce266e09953d6aa348d5a3f9fe19373</link>
+      <guid>c5a04291fce266e09953d6aa348d5a3f9fe19373</guid>
+      <pubDate>Sat, 09 Aug 2025 13:26:39 GMT</pubDate>
+      <description>这是文件 《指环王3》随片讲解（开头倒数版，杨超&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=c5a04291fce266e09953d6aa348d5a3f9fe19373" length="232036734" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>彩蛋：《黑客帝国》动作场面回顾（胶片_波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=bec0109b382008a3655f13ee516d9d05e6fd854b</link>
+      <guid>bec0109b382008a3655f13ee516d9d05e6fd854b</guid>
+      <pubDate>Sat, 09 Aug 2025 13:20:06 GMT</pubDate>
+      <description>这是文件 彩蛋：《黑客帝国》动作场面回顾（胶片_波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bec0109b382008a3655f13ee516d9d05e6fd854b" length="19578888" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>沃卓斯基其它前作回顾.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=3c0cca509615034ebff6f7844556e47924adfe05</link>
+      <guid>3c0cca509615034ebff6f7844556e47924adfe05</guid>
+      <pubDate>Sat, 09 Aug 2025 13:20:08 GMT</pubDate>
+      <description>这是文件 沃卓斯基其它前作回顾.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3c0cca509615034ebff6f7844556e47924adfe05" length="90390787" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>碟2（无倒数）：《指环王3》随片讲解（杨超&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=9eed65ad33e233803fd0cffb6160028ade6ce12d</link>
+      <guid>9eed65ad33e233803fd0cffb6160028ade6ce12d</guid>
+      <pubDate>Sat, 09 Aug 2025 13:26:31 GMT</pubDate>
+      <description>这是文件 碟2（无倒数）：《指环王3》随片讲解（杨超&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=9eed65ad33e233803fd0cffb6160028ade6ce12d" length="109235310" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>碟2（有倒数）：《指环王3》随片讲解（杨超&amp;波米）.mp3</title>
+      <link>http://zephyr.cyou:3003/get-audio?id=bda3856dab3fc04b920869138155cf2a2fb1c816</link>
+      <guid>bda3856dab3fc04b920869138155cf2a2fb1c816</guid>
+      <pubDate>Sat, 09 Aug 2025 13:26:34 GMT</pubDate>
+      <description>这是文件 碟2（有倒数）：《指环王3》随片讲解（杨超&amp;波米）.mp3 的描述。</description>
+      <enclosure url="http://zephyr.cyou:3003/get-audio?id=bda3856dab3fc04b920869138155cf2a2fb1c816" length="109477727" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
