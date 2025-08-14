@@ -2,85 +2,85 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
   <channel>
     <title>《火线》导读</title>
-    <link>http://zephyr.cyou:3003</link>
+    <link>http://47.101.137.82:3003</link>
     <description>此播客是 《火线》导读 的有声书合集。</description>
     <language>zh-cn</language>
     <itunes:summary>此播客是 《火线》导读 的有声书合集。</itunes:summary>
     <itunes:author>机核</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://zephyr.cyou:3003/%E6%9C%BA%E6%A0%B8%2Fposter.jpeg"/>
+    <itunes:image href="http://47.101.137.82:3003/%E6%9C%BA%E6%A0%B8%2Fposter.jpeg"/>
     <item>
       <title>《火线》导读_vol.8丨工人之死.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=8326f13ff6679a236244f925cb5d46de17475e9f</link>
+      <link>http://47.101.137.82:3003/get-audio?id=8326f13ff6679a236244f925cb5d46de17475e9f</link>
       <guid>8326f13ff6679a236244f925cb5d46de17475e9f</guid>
       <pubDate>Sat, 19 Jul 2025 05:50:20 GMT</pubDate>
       <description>这是文件 《火线》导读_vol.8丨工人之死.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=8326f13ff6679a236244f925cb5d46de17475e9f" length="109564283" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=8326f13ff6679a236244f925cb5d46de17475e9f" length="109564283" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.1丨《火线》第一集拉片解读.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=be5e55cb9aa5b92c660d244ca1292c37c640ab57</link>
+      <link>http://47.101.137.82:3003/get-audio?id=be5e55cb9aa5b92c660d244ca1292c37c640ab57</link>
       <guid>be5e55cb9aa5b92c660d244ca1292c37c640ab57</guid>
       <pubDate>Sat, 19 Jul 2025 05:49:25 GMT</pubDate>
       <description>这是文件 《火线》导读vol.1丨《火线》第一集拉片解读.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=be5e55cb9aa5b92c660d244ca1292c37c640ab57" length="105473580" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=be5e55cb9aa5b92c660d244ca1292c37c640ab57" length="105473580" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.2丨《火线》为何如此特别.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=3b58e0cf3f2344293972f5be447733a34d0c3107</link>
+      <link>http://47.101.137.82:3003/get-audio?id=3b58e0cf3f2344293972f5be447733a34d0c3107</link>
       <guid>3b58e0cf3f2344293972f5be447733a34d0c3107</guid>
       <pubDate>Sat, 19 Jul 2025 05:49:35 GMT</pubDate>
       <description>这是文件 《火线》导读vol.2丨《火线》为何如此特别.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3b58e0cf3f2344293972f5be447733a34d0c3107" length="95175620" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=3b58e0cf3f2344293972f5be447733a34d0c3107" length="95175620" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.3丨《火线》的诞生·上.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=901d596298f4044635224c96708a760f389f6ea0</link>
+      <link>http://47.101.137.82:3003/get-audio?id=901d596298f4044635224c96708a760f389f6ea0</link>
       <guid>901d596298f4044635224c96708a760f389f6ea0</guid>
       <pubDate>Sat, 19 Jul 2025 05:49:41 GMT</pubDate>
       <description>这是文件 《火线》导读vol.3丨《火线》的诞生·上.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=901d596298f4044635224c96708a760f389f6ea0" length="68597596" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=901d596298f4044635224c96708a760f389f6ea0" length="68597596" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.4丨《火线》的诞生·中.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=515ec1ff8d98cb4b58cd354d5362b822fec448d6</link>
+      <link>http://47.101.137.82:3003/get-audio?id=515ec1ff8d98cb4b58cd354d5362b822fec448d6</link>
       <guid>515ec1ff8d98cb4b58cd354d5362b822fec448d6</guid>
       <pubDate>Sat, 19 Jul 2025 05:49:49 GMT</pubDate>
       <description>这是文件 《火线》导读vol.4丨《火线》的诞生·中.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=515ec1ff8d98cb4b58cd354d5362b822fec448d6" length="89021589" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=515ec1ff8d98cb4b58cd354d5362b822fec448d6" length="89021589" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.5丨《火线》的诞生·下.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=5e9c360463ead788a183f77d643eb235e7aa3deb</link>
+      <link>http://47.101.137.82:3003/get-audio?id=5e9c360463ead788a183f77d643eb235e7aa3deb</link>
       <guid>5e9c360463ead788a183f77d643eb235e7aa3deb</guid>
       <pubDate>Sat, 19 Jul 2025 05:49:56 GMT</pubDate>
       <description>这是文件 《火线》导读vol.5丨《火线》的诞生·下.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=5e9c360463ead788a183f77d643eb235e7aa3deb" length="67590314" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=5e9c360463ead788a183f77d643eb235e7aa3deb" length="67590314" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.6丨毒品战争.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=a23165d73ba832b871810c6000c72820b1045841</link>
+      <link>http://47.101.137.82:3003/get-audio?id=a23165d73ba832b871810c6000c72820b1045841</link>
       <guid>a23165d73ba832b871810c6000c72820b1045841</guid>
       <pubDate>Sat, 19 Jul 2025 05:50:05 GMT</pubDate>
       <description>这是文件 《火线》导读vol.6丨毒品战争.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=a23165d73ba832b871810c6000c72820b1045841" length="122096371" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=a23165d73ba832b871810c6000c72820b1045841" length="122096371" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.7丨警务退化.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=3fc60f9b2a0155bd5cfb4f30d18c5896a11735c8</link>
+      <link>http://47.101.137.82:3003/get-audio?id=3fc60f9b2a0155bd5cfb4f30d18c5896a11735c8</link>
       <guid>3fc60f9b2a0155bd5cfb4f30d18c5896a11735c8</guid>
       <pubDate>Sat, 19 Jul 2025 05:50:13 GMT</pubDate>
       <description>这是文件 《火线》导读vol.7丨警务退化.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=3fc60f9b2a0155bd5cfb4f30d18c5896a11735c8" length="111380734" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=3fc60f9b2a0155bd5cfb4f30d18c5896a11735c8" length="111380734" type="audio/mpeg"/>
     </item>
     <item>
       <title>《火线》导读vol.9丨街头道德.mp3</title>
-      <link>http://zephyr.cyou:3003/get-audio?id=465cd51aeece2a73bcd108e9833407c358167e42</link>
+      <link>http://47.101.137.82:3003/get-audio?id=465cd51aeece2a73bcd108e9833407c358167e42</link>
       <guid>465cd51aeece2a73bcd108e9833407c358167e42</guid>
       <pubDate>Sat, 19 Jul 2025 05:50:27 GMT</pubDate>
       <description>这是文件 《火线》导读vol.9丨街头道德.mp3 的描述。</description>
-      <enclosure url="http://zephyr.cyou:3003/get-audio?id=465cd51aeece2a73bcd108e9833407c358167e42" length="106338892" type="audio/mpeg"/>
+      <enclosure url="http://47.101.137.82:3003/get-audio?id=465cd51aeece2a73bcd108e9833407c358167e42" length="106338892" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
